@@ -1,35 +1,39 @@
-# Original and Synthetic Data
+# Data Folder
 
-This folder contains the raw datasets used in the "Fraud vs Sustainability" project as well as the generated synthetic data required for analysis and visualization.
+This directory contains all datasets used in the **Fraud vs. ESG** project, including both original data sources and synthetic or derived datasets generated during preprocessing and feature engineering.
 
-## Subfolders and Files
+---
 
-### `kaggle__fraud_transactions`
-- **fraudTrain.csv**  
-  Original Kaggle training dataset with transaction records, including fraud labels.
-- **fraudTest.csv**  
-  Original Kaggle test dataset with transaction records.
+## 📁 Structure
 
-### `list compañies`
-- **companies_list.csv**  
-  List of companies used in the project, including company identifiers and basic information.
+### Main Datasets
 
-### Other CSV files in this folder
-- **thresholds_ESG.csv**  
-  Defines threshold values for ESG metrics used to determine compliance.
-- **fraudTrain_reduced.csv**  
-  Preprocessed/reduced version of the Kaggle fraud training dataset.
-- **esg_metrics.csv**  
-  Synthetic ESG metrics generated for all companies.
-- **esg_metrics_reduced.csv**  
-  Reduced version of the ESG metrics dataset, possibly with selected columns.
-- **fraud_merchant_mapping.csv**  
-  Mapping of transactions to merchants used in data preprocessing.
-- **compliance.csv**  
-  Generated compliance indicators based on ESG thresholds for each company.
+* **fraudTrain_reduced.csv** — Compressed version of the Kaggle dataset *“Fraud Detection”* ([original source](https://www.kaggle.com/datasets/kartik2112/fraud-detection)).
+  This file was reduced to keep only the essential variables for model training and testing.
 
-## Notes
+* **companies_list.csv** — List of companies and identifiers used to map financial transactions with ESG performance metrics.
 
-- All raw data (Kaggle datasets) are kept unchanged; transformations and preprocessing are handled in the Jupyter notebooks.
-- Synthetic data is created to simulate ESG metrics and compliance, allowing integrated analysis with fraud transactions.
-- The structure and naming conventions are designed to simplify linking with Power BI and the API endpoints.
+* **thresholds_ESG.csv** — Reference thresholds used for ESG compliance evaluation.
+
+* **fraud_merchant_mapping.csv** — Mapping table linking merchants to companies/sectors for enriched analysis.
+
+* **esg_metrics.csv / esg_metrics_reduced.csv** — Generated ESG indicators for each company, including sustainability, governance, and social responsibility metrics.
+
+* **compliance.csv** — Derived dataset with compliance status (“compliant” / “non_compliant”) based on ESG thresholds.
+
+---
+
+## 🧩 Notebooks Using These Files
+
+The preprocessing and creation of the above datasets were performed in the following notebooks (see `/notebooks` folder):
+
+* `fraud_merchant_mapping.ipynb`
+* `Generate__ESG_metrics.ipynb`
+* `Generate__compliance.ipynb`
+
+---
+
+## ⚙️ Notes
+
+* Only **reduced and synthetic** datasets are included to minimize repository size and comply with Kaggle’s redistribution policy.
+* All data are stored in CSV format and later imported into the local SQL database for integration with Power BI and the API endpoints.
