@@ -17,39 +17,73 @@ The project allows cross-analysis between fraud risk and sustainability complian
 
 Fraud_ESG_Project/
 │
+
 ├── README.md
+
 ├── LICENSE (optional)
+
 ├── power_bi/
+
 │ └── Fraude_vs_Sostenibilidad.pbix
+
 │
+
 ├── sql_queries/
+
 │ ├── SQLQuery__Create SQL DB with CSV Data.sql
+
 │ └── SQLQuery__Checks.sql
+
 │
+
 ├── notebooks/
+
 │ ├── API.ipynb
+
 │ ├── API_Test.ipynb
+
 │ ├── fraud_merchant_mapping.ipynb
+
 │ ├── Generate__ESG_metrics.ipynb
+
 │ └── Generate__compliance.ipynb
+
 │
+
 ├── data/
+
 │ ├── kaggle__fraud_transactions/
+
 │ │ ├── fraudTrain.csv
+
 │ │ └── fraudTest.csv
+
 │ ├── list_companies/
+
 │ │ └── companies_list.csv
+
 │ ├── thresholds_ESG.csv
+
 │ ├── fraudTrain_reduced.csv
+
 │ ├── esg_metrics.csv
+
 │ ├── esg_metrics_reduced.csv
+
 │ ├── fraud_merchant_mapping.csv
+
 │ └── compliance.csv
+
 │
+
 └── api_config/
+
 ├── api.log
+
 ├── openapi.json
+
 └── security_config.py
+
 
 ## Setup & Usage
 
@@ -72,7 +106,9 @@ Install dependencies: pip install -r requirements.txt
 ### 3. Jupyter Notebooks
 
 API.ipynb: defines the ML API endpoints.
+
 API_Test.ipynb: tests API endpoints locally.
+
 fraud_merchant_mapping.ipynb, Generate__ESG_metrics.ipynb, Generate__compliance.ipynb: notebooks for data preprocessing and synthetic data generation.
 
 ### 4. Power BI Dashboard
@@ -87,16 +123,17 @@ The dashboard contains:
   * Fraud vs ESG view: combined insights between fraud and compliance scores.
 
 Notes
-All raw and transformed data is stored in the /data folder.
-Predictions from ML models are stored in local SQL Server tables (ml_predictions_basic and ml_predictions_advanced).
-The API allows the training of models and extraction of metrics (accuracy, precision, recall, F1, confusion matrix).
-Power BI visuals are mostly dynamic, responding to slicers for country, sector, and other filters.
+- All raw and transformed data is stored in the /data folder.
+- Predictions from ML models are stored in local SQL Server tables (ml_predictions_basic and ml_predictions_advanced).
+- The API allows the training of models and extraction of metrics (accuracy, precision, recall, F1, confusion matrix).
+- Power BI visuals are mostly dynamic, responding to slicers for country, sector, and other filters.
 
 Recommendations & Best Practices
-Commits: Use clear and descriptive messages (e.g., Added Power BI dashboard, Implemented ML API endpoint).
-Large files: If .pbix files are large, consider Git LFS or external links.
-Sensitive data: Exclude credentials or API keys via .gitignore.
-Versioning: Keep a clean version of notebooks and Power BI files for reproducibility.
+- Commits: Use clear and descriptive messages (e.g., Added Power BI dashboard, Implemented ML API endpoint).
+- Large files: If .pbix files are large, consider Git LFS or external links.
+- Sensitive data: Exclude credentials or API keys via .gitignore.
+- Versioning: Keep a clean version of notebooks and Power BI files for reproducibility.
 
 Contact / Support
+
 For any questions about the project structure, notebooks, or Power BI setup, please contact the project maintainer.
