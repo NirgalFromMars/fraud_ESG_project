@@ -1,0 +1,1020 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "ESG API",
+    "description": "\nAPI for combined analysis transactions/metrics ESG.\n- Endpoints: CRUD, statistical, rankings, temporal series and others.\n- Security: API Key at header `x-api-key`.\n",
+    "contact": {
+      "name": "Eros Blázquez",
+      "url": "https://github.com/NirgalFromMars",
+      "email": "frablade77@google.com"
+    },
+    "license": {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    },
+    "version": "1.0"
+  },
+  "paths": {
+    "/": {
+      "get": {
+        "summary": "Root",
+        "operationId": "root__get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/all": {
+      "get": {
+        "summary": "Get Transactions Paginated",
+        "operationId": "get_transactions_paginated_all_get",
+        "parameters": [
+          {
+            "name": "page",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "description": "sheet number, begins at 1",
+              "default": 1,
+              "title": "Page"
+            },
+            "description": "sheet number, begins at 1"
+          },
+          {
+            "name": "page_size",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "maximum": 1000,
+              "minimum": 1,
+              "description": "registers by sheet, max 1000",
+              "default": 50,
+              "title": "Page Size"
+            },
+            "description": "registers by sheet, max 1000"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/companies": {
+      "get": {
+        "summary": "Get Companies",
+        "operationId": "get_companies_companies_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/companies/{company_id}": {
+      "get": {
+        "summary": "Read Company",
+        "operationId": "read_company_companies__company_id__get",
+        "parameters": [
+          {
+            "name": "company_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "title": "Company Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Company"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "summary": "Update Company",
+        "operationId": "update_company_companies__company_id__put",
+        "parameters": [
+          {
+            "name": "company_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "title": "Company Id"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Company"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Company"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "summary": "Delete Company",
+        "operationId": "delete_company_companies__company_id__delete",
+        "parameters": [
+          {
+            "name": "company_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "title": "Company Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/companies/": {
+      "post": {
+        "summary": "Create Company",
+        "operationId": "create_company_companies__post",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Company"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Company"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/stats/fraud_by_country": {
+      "get": {
+        "tags": [
+          "Stats"
+        ],
+        "summary": "Aggregate fraud by country",
+        "description": "Returns total transactions, frauds and rate by country.",
+        "operationId": "stats_by_country_stats_fraud_by_country_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/CountryStat"
+                  },
+                  "type": "array",
+                  "title": "Response Stats By Country Stats Fraud By Country Get"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "No data found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal server error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "APIKeyHeader": []
+          }
+        ]
+      }
+    },
+    "/stats/fraud_by_month": {
+      "get": {
+        "tags": [
+          "Stats"
+        ],
+        "summary": "Aggregate fraud by month",
+        "description": "Returns total transactions, frauds and rate by month.",
+        "operationId": "get_fraud_by_month_stats_fraud_by_month_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/MonthlyStat"
+                  },
+                  "type": "array",
+                  "title": "Response Get Fraud By Month Stats Fraud By Month Get"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "No data found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal server error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "APIKeyHeader": []
+          }
+        ]
+      }
+    },
+    "/stats/fraud_by_sector": {
+      "get": {
+        "tags": [
+          "Stats"
+        ],
+        "summary": "Aggregate fraud by sector",
+        "description": "Returns total transactions, frauds and rate by sector.",
+        "operationId": "get_fraud_by_sector_stats_fraud_by_sector_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/SectorStat"
+                  },
+                  "type": "array",
+                  "title": "Response Get Fraud By Sector Stats Fraud By Sector Get"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "No data found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal server error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "APIKeyHeader": []
+          }
+        ]
+      }
+    },
+    "/stats/fraud_by_merchant": {
+      "get": {
+        "tags": [
+          "Stats"
+        ],
+        "summary": "Aggregate fraud by merchant",
+        "description": "Returns total transactions, frauds and rate by merchant.",
+        "operationId": "get_fraud_by_merchant_stats_fraud_by_merchant_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "items": {
+                    "$ref": "#/components/schemas/MerchantStat"
+                  },
+                  "type": "array",
+                  "title": "Response Get Fraud By Merchant Stats Fraud By Merchant Get"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "No data found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal server error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ErrorResponse"
+                }
+              }
+            }
+          }
+        },
+        "security": [
+          {
+            "APIKeyHeader": []
+          }
+        ]
+      }
+    },
+    "/rankings/top/merchants": {
+      "get": {
+        "tags": [
+          "Rankings"
+        ],
+        "summary": "Get Top Merchants",
+        "description": "Returns top N of merchants with higher fraud_transactions.\n- `n` = number of returned merchants at top (default = 10, max = 100)",
+        "operationId": "get_top_merchants_rankings_top_merchants_get",
+        "parameters": [
+          {
+            "name": "n",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "default": 10,
+              "title": "N"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/rankings/top/customers": {
+      "get": {
+        "tags": [
+          "Rankings"
+        ],
+        "summary": "Get Top Customers",
+        "description": "Returns top N of customer with higher fraud_transactions.\n- `n` = numner of returned customer at top (default = 10, max = 100)",
+        "operationId": "get_top_customers_rankings_top_customers_get",
+        "parameters": [
+          {
+            "name": "n",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "default": 10,
+              "title": "N"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/temporal_series/trend": {
+      "get": {
+        "tags": [
+          "Temporal_Series"
+        ],
+        "summary": "Get Fraud Trend",
+        "description": "Returns monthly evolution of fraud_transactions vs non_fraud_transactions.",
+        "operationId": "get_fraud_trend_temporal_series_trend_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/others/sample": {
+      "get": {
+        "tags": [
+          "Others"
+        ],
+        "summary": "Sample Transactions",
+        "operationId": "sample_transactions_others_sample_get",
+        "parameters": [
+          {
+            "name": "n",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "default": 1000,
+              "title": "N"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/others/transactions_by_customer/{customer_id}": {
+      "get": {
+        "tags": [
+          "Others"
+        ],
+        "summary": "Transactions By Customer",
+        "operationId": "transactions_by_customer_others_transactions_by_customer__customer_id__get",
+        "parameters": [
+          {
+            "name": "customer_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "title": "Customer Id"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/others/health": {
+      "get": {
+        "tags": [
+          "Others"
+        ],
+        "summary": "Health Check",
+        "operationId": "health_check_others_health_get",
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ml/basic_models": {
+      "get": {
+        "tags": [
+          "ML"
+        ],
+        "summary": "Basic Models",
+        "operationId": "basic_models_ml_basic_models_get",
+        "parameters": [
+          {
+            "name": "sample_size",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "description": "nº rows to filter (0 for no filter)",
+              "default": 0,
+              "title": "Sample Size"
+            },
+            "description": "nº rows to filter (0 for no filter)"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/ml/advanced_models": {
+      "get": {
+        "tags": [
+          "ML"
+        ],
+        "summary": "Advanced Models",
+        "operationId": "advanced_models_ml_advanced_models_get",
+        "parameters": [
+          {
+            "name": "sample_size",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "description": "nº rows to filter (0 for no filter)",
+              "default": 0,
+              "title": "Sample Size"
+            },
+            "description": "nº rows to filter (0 for no filter)"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful Response",
+            "content": {
+              "application/json": {
+                "schema": {}
+              }
+            }
+          },
+          "422": {
+            "description": "Validation Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HTTPValidationError"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Company": {
+        "properties": {
+          "company_id": {
+            "type": "integer",
+            "title": "Company Id"
+          },
+          "name": {
+            "type": "string",
+            "title": "Name"
+          },
+          "sector": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Sector"
+          },
+          "country": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "title": "Country"
+          }
+        },
+        "type": "object",
+        "required": [
+          "company_id",
+          "name"
+        ],
+        "title": "Company"
+      },
+      "CountryStat": {
+        "properties": {
+          "country": {
+            "type": "string",
+            "title": "Country",
+            "description": "Country name"
+          },
+          "total_tx": {
+            "type": "integer",
+            "title": "Total Tx",
+            "description": "Total transactions"
+          },
+          "fraud_tx": {
+            "type": "integer",
+            "title": "Fraud Tx",
+            "description": "Fraud transactions"
+          },
+          "fraud_rate": {
+            "type": "number",
+            "title": "Fraud Rate",
+            "description": "Fraud rate (0-1)"
+          }
+        },
+        "type": "object",
+        "required": [
+          "country",
+          "total_tx",
+          "fraud_tx",
+          "fraud_rate"
+        ],
+        "title": "CountryStat"
+      },
+      "ErrorResponse": {
+        "properties": {
+          "detail": {
+            "type": "string",
+            "title": "Detail",
+            "example": "An error occurred"
+          }
+        },
+        "type": "object",
+        "required": [
+          "detail"
+        ],
+        "title": "ErrorResponse"
+      },
+      "HTTPValidationError": {
+        "properties": {
+          "detail": {
+            "items": {
+              "$ref": "#/components/schemas/ValidationError"
+            },
+            "type": "array",
+            "title": "Detail"
+          }
+        },
+        "type": "object",
+        "title": "HTTPValidationError"
+      },
+      "MerchantStat": {
+        "properties": {
+          "company_name": {
+            "type": "string",
+            "title": "Company Name",
+            "description": "Company name"
+          },
+          "total_tx": {
+            "type": "integer",
+            "title": "Total Tx",
+            "description": "Total transactions"
+          },
+          "fraud_tx": {
+            "type": "integer",
+            "title": "Fraud Tx",
+            "description": "Fraud transactions"
+          },
+          "fraud_rate": {
+            "type": "number",
+            "title": "Fraud Rate",
+            "description": "Fraud rate (0-1)"
+          }
+        },
+        "type": "object",
+        "required": [
+          "company_name",
+          "total_tx",
+          "fraud_tx",
+          "fraud_rate"
+        ],
+        "title": "MerchantStat"
+      },
+      "MonthlyStat": {
+        "properties": {
+          "month": {
+            "type": "string",
+            "title": "Month",
+            "description": "Month"
+          },
+          "total_tx": {
+            "type": "integer",
+            "title": "Total Tx",
+            "description": "Total transactions"
+          },
+          "fraud_tx": {
+            "type": "integer",
+            "title": "Fraud Tx",
+            "description": "Fraud transactions"
+          },
+          "fraud_rate": {
+            "type": "number",
+            "title": "Fraud Rate",
+            "description": "Fraud rate (0-1)"
+          }
+        },
+        "type": "object",
+        "required": [
+          "month",
+          "total_tx",
+          "fraud_tx",
+          "fraud_rate"
+        ],
+        "title": "MonthlyStat"
+      },
+      "SectorStat": {
+        "properties": {
+          "sector": {
+            "type": "string",
+            "title": "Sector",
+            "description": "Sector"
+          },
+          "total_tx": {
+            "type": "integer",
+            "title": "Total Tx",
+            "description": "Total transactions"
+          },
+          "fraud_tx": {
+            "type": "integer",
+            "title": "Fraud Tx",
+            "description": "Fraud transactions"
+          },
+          "fraud_rate": {
+            "type": "number",
+            "title": "Fraud Rate",
+            "description": "Fraud rate (0-1)"
+          }
+        },
+        "type": "object",
+        "required": [
+          "sector",
+          "total_tx",
+          "fraud_tx",
+          "fraud_rate"
+        ],
+        "title": "SectorStat"
+      },
+      "ValidationError": {
+        "properties": {
+          "loc": {
+            "items": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ]
+            },
+            "type": "array",
+            "title": "Location"
+          },
+          "msg": {
+            "type": "string",
+            "title": "Message"
+          },
+          "type": {
+            "type": "string",
+            "title": "Error Type"
+          }
+        },
+        "type": "object",
+        "required": [
+          "loc",
+          "msg",
+          "type"
+        ],
+        "title": "ValidationError"
+      }
+    },
+    "securitySchemes": {
+      "APIKeyHeader": {
+        "type": "apiKey",
+        "in": "header",
+        "name": "x-api-key"
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "default",
+      "description": "CRUD & endpoints related with companies."
+    },
+    {
+      "name": "Stats",
+      "description": "Endpoints with aggregates & metrics (fraud by country/sector/mounth/merchant)."
+    },
+    {
+      "name": "Rankings",
+      "description": "Top merchants & top customers."
+    },
+    {
+      "name": "Temporal_Series",
+      "description": "Trends along time."
+    },
+    {
+      "name": "Others",
+      "description": "Get samples, specific customer_id data."
+    }
+  ]
+}

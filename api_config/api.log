@@ -1,0 +1,745 @@
+2025-09-12 12:06:17,879 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-12 12:23:28,959 - INFO - TopN Merchants endpoint called
+2025-09-12 12:23:31,753 - INFO - Rows returned: 30
+2025-09-12 12:30:54,525 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py:69> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\main.py", line 580, in run
+    server.run()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 67, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+2025-09-12 12:31:21,862 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-12 12:35:53,136 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py:69> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\main.py", line 580, in run
+    server.run()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 67, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+2025-09-12 12:37:38,416 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-12 12:42:55,165 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py:69> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\main.py", line 580, in run
+    server.run()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 67, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+2025-09-12 12:43:23,237 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-12 12:45:18,916 - INFO - Get_Samples endpoint called
+2025-09-12 12:45:26,302 - INFO - Rows returned: 1000
+2025-09-12 12:50:33,330 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py:69> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\main.py", line 580, in run
+    server.run()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 67, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+2025-09-12 12:50:48,855 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-12 13:29:10,703 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py:69> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\main.py", line 580, in run
+    server.run()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 67, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+2025-09-13 10:30:28,030 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-13 10:32:40,212 - INFO - Fraud by Country endpoint called
+2025-09-13 10:32:42,250 - INFO - Rows returned: 19
+2025-09-13 10:33:03,241 - INFO - Fraud by Country endpoint called
+2025-09-13 10:33:04,929 - INFO - Rows returned: 19
+2025-09-13 10:34:38,162 - INFO - Fraud by Country endpoint called
+2025-09-13 10:34:40,009 - INFO - Rows returned: 19
+2025-09-13 15:41:06,924 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py:69> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\main.py", line 580, in run
+    server.run()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 67, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+2025-09-17 16:46:50,784 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-17 17:34:51,364 - INFO - Fraud by Country endpoint called
+2025-09-17 17:34:52,133 - INFO - Rows returned: 19
+2025-09-17 17:59:30,313 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py:69> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\main.py", line 580, in run
+    server.run()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 67, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+2025-09-17 17:59:41,843 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-17 18:18:42,559 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py:69> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\main.py", line 580, in run
+    server.run()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 67, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+2025-09-17 18:19:01,129 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-17 19:09:36,046 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py:69> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\main.py", line 580, in run
+    server.run()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 67, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+2025-09-17 19:13:40,780 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-17 22:05:32,035 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py:69> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\main.py", line 580, in run
+    server.run()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 67, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+2025-09-17 22:13:55,115 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-17 23:50:11,161 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py:69> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\main.py", line 580, in run
+    server.run()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 67, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+2025-09-17 23:50:32,194 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-18 00:00:48,405 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py:69> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\main.py", line 580, in run
+    server.run()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 67, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+2025-09-18 00:01:08,805 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-22 21:24:36,317 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-22 21:47:13,844 - INFO - Companies_list endpoint called
+2025-09-22 21:47:13,860 - INFO - Rows returned: 10
+2025-09-22 22:10:53,247 - INFO - Companies_list endpoint called
+2025-09-22 22:10:53,256 - INFO - Rows returned: 10
+2025-09-22 22:11:26,718 - INFO - Companies_list endpoint called
+2025-09-22 22:11:26,723 - INFO - Rows returned: 10
+2025-09-22 22:28:07,089 - INFO - Fraud by Country endpoint called
+2025-09-22 22:28:09,064 - INFO - Rows returned: 19
+2025-09-22 22:39:42,557 - INFO - Fraud by Country endpoint called
+2025-09-22 22:39:44,657 - INFO - Rows returned: 19
+2025-09-23 17:57:30,738 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-23 18:41:53,149 - INFO - Fraud by Month endpoint called
+2025-09-23 18:42:08,220 - INFO - Rows returned: 18
+2025-09-23 18:42:09,457 - INFO - Fraud by Month endpoint called
+2025-09-23 18:42:23,436 - INFO - Rows returned: 18
+2025-09-23 18:43:14,624 - INFO - Fraud by Month endpoint called
+2025-09-23 18:43:28,549 - INFO - Rows returned: 18
+2025-09-23 18:46:43,800 - INFO - Fraud by Month endpoint called
+2025-09-23 18:46:59,061 - INFO - Rows returned: 18
+2025-09-23 18:48:51,233 - INFO - Fraud by Month endpoint called
+2025-09-23 18:49:04,748 - INFO - Rows returned: 18
+2025-09-23 19:07:20,864 - INFO - Fraud by Country endpoint called
+2025-09-23 19:07:23,192 - INFO - Rows returned: 19
+2025-09-23 19:07:40,149 - INFO - Fraud by Sector endpoint called
+2025-09-23 19:07:40,891 - INFO - Rows returned: 14
+2025-09-23 19:07:54,577 - INFO - Fraud by Merchant endpoint called
+2025-09-23 19:07:57,053 - INFO - Rows returned: 10
+2025-09-23 22:52:01,647 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py:69> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\main.py", line 580, in run
+    server.run()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 67, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+2025-09-23 22:52:20,297 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-23 22:53:51,262 - INFO - Fraud by Country endpoint called
+2025-09-23 22:53:53,668 - INFO - Rows returned: 19
+2025-09-23 22:54:02,037 - INFO - Fraud by Month endpoint called
+2025-09-23 22:54:17,946 - INFO - Rows returned: 18
+2025-09-23 22:54:28,398 - INFO - Fraud by Month endpoint called
+2025-09-23 22:54:41,745 - INFO - Rows returned: 18
+2025-09-23 22:55:25,942 - INFO - Fraud by Month endpoint called
+2025-09-23 22:55:39,458 - INFO - Rows returned: 18
+2025-09-23 22:57:19,615 - INFO - Fraud by Sector endpoint called
+2025-09-23 22:57:21,230 - INFO - Rows returned: 14
+2025-09-23 22:57:21,256 - INFO - Fraud by Sector endpoint called
+2025-09-23 22:57:22,929 - INFO - Rows returned: 14
+2025-09-23 22:57:43,149 - INFO - Fraud by Sector endpoint called
+2025-09-23 22:57:44,903 - INFO - Rows returned: 14
+2025-09-23 22:58:27,203 - INFO - Fraud by Merchant endpoint called
+2025-09-23 22:58:29,359 - INFO - Rows returned: 10
+2025-09-23 22:58:30,227 - INFO - Fraud by Merchant endpoint called
+2025-09-23 22:58:32,337 - INFO - Rows returned: 10
+2025-09-23 23:00:13,565 - INFO - Fraud by Merchant endpoint called
+2025-09-23 23:00:16,047 - INFO - Rows returned: 10
+2025-09-23 23:01:42,079 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py:69> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\main.py", line 580, in run
+    server.run()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 67, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+2025-09-23 23:02:29,947 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-23 23:06:21,474 - INFO - Fraud by Merchant endpoint called
+2025-09-23 23:06:24,177 - INFO - Rows returned: 10
+2025-09-23 23:06:29,886 - INFO - Fraud by Merchant endpoint called
+2025-09-23 23:06:32,074 - INFO - Rows returned: 10
+2025-09-23 23:06:32,094 - INFO - Fraud by Merchant endpoint called
+2025-09-23 23:06:34,419 - INFO - Rows returned: 10
+2025-09-23 23:06:59,011 - INFO - Fraud by Merchant endpoint called
+2025-09-23 23:07:01,322 - INFO - Rows returned: 10
+2025-09-23 23:09:00,878 - INFO - TopN Merchants endpoint called
+2025-09-23 23:09:03,077 - INFO - Rows returned: 10
+2025-09-23 23:09:03,096 - INFO - TopN Merchants endpoint called
+2025-09-23 23:09:05,459 - INFO - Rows returned: 10
+2025-09-23 23:09:37,868 - INFO - TopN Merchants endpoint called
+2025-09-23 23:09:40,090 - INFO - Rows returned: 10
+2025-09-23 23:11:13,150 - INFO - TopN Customers endpoint called
+2025-09-23 23:11:14,114 - INFO - Rows returned: 10
+2025-09-23 23:11:14,135 - INFO - TopN Customers endpoint called
+2025-09-23 23:11:15,091 - INFO - Rows returned: 10
+2025-09-23 23:12:09,719 - INFO - TopN Customers endpoint called
+2025-09-23 23:12:10,754 - INFO - Rows returned: 10
+2025-09-23 23:14:55,487 - INFO - Temporal_Series endpoint called
+2025-09-23 23:15:11,214 - INFO - Rows returned: 18
+2025-09-23 23:15:33,520 - INFO - Temporal_Series endpoint called
+2025-09-23 23:15:47,186 - INFO - Rows returned: 18
+2025-09-23 23:15:47,212 - INFO - Temporal_Series endpoint called
+2025-09-23 23:16:01,068 - INFO - Rows returned: 18
+2025-09-23 23:17:25,323 - INFO - Temporal_Series endpoint called
+2025-09-23 23:17:39,606 - INFO - Rows returned: 18
+2025-09-24 16:11:59,785 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-24 16:17:07,910 - INFO - Transactions by Customer endpoint called
+2025-09-24 16:17:08,457 - INFO - Rows returned: 1039
+2025-09-24 17:19:14,725 - INFO - Transactions by Customer endpoint called
+2025-09-24 17:19:14,998 - INFO - Rows returned: 1039
+2025-09-24 17:20:03,600 - INFO - Transactions by Customer endpoint called
+2025-09-24 17:20:04,328 - INFO - Transactions by Customer endpoint called
+2025-09-24 18:05:28,946 - INFO - Transactions by Customer endpoint called
+2025-09-24 18:05:29,094 - INFO - Rows returned: 1039
+2025-09-24 19:23:18,274 - INFO - Transactions by Customer endpoint called
+2025-09-24 19:23:18,547 - INFO - Rows returned: 1039
+2025-09-25 11:20:30,272 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-25 12:35:06,697 - INFO - TopN Merchants endpoint called
+2025-09-25 12:35:09,702 - INFO - Rows returned: 20
+2025-09-25 19:45:20,997 - INFO - Transactions by Customer endpoint called
+2025-09-25 19:45:21,781 - INFO - Rows returned: 2028
+2025-09-25 19:46:23,059 - INFO - Transactions by Customer endpoint called
+2025-09-25 19:46:23,508 - INFO - Rows returned: 2028
+2025-09-25 19:46:48,444 - INFO - Transactions by Customer endpoint called
+2025-09-25 19:46:48,904 - INFO - Rows returned: 2028
+2025-09-25 19:47:35,417 - INFO - TopN Merchants endpoint called
+2025-09-25 19:47:35,437 - INFO - TopN Customers endpoint called
+2025-09-25 19:47:35,441 - INFO - Temporal_Series endpoint called
+2025-09-25 19:47:35,568 - INFO - Companies_list endpoint called
+2025-09-25 19:47:35,576 - INFO - Fraud by Country endpoint called
+2025-09-25 19:47:35,601 - INFO - Fraud by Month endpoint called
+2025-09-25 19:47:35,608 - INFO - Fraud by Sector endpoint called
+2025-09-25 19:47:35,635 - INFO - Fraud by Merchant endpoint called
+2025-09-25 19:47:36,564 - INFO - Transactions by Customer endpoint called
+2025-09-25 19:47:36,753 - INFO - Rows returned: 10
+2025-09-25 20:13:42,359 - INFO - TopN Merchants endpoint called
+2025-09-25 20:13:45,384 - INFO - Rows returned: 10
+2025-09-25 20:16:29,262 - INFO - Companies_list endpoint called
+2025-09-25 20:16:29,273 - INFO - Rows returned: 10
+2025-09-25 20:16:29,289 - INFO - Fraud by Country endpoint called
+2025-09-25 20:16:29,295 - INFO - Fraud by Month endpoint called
+2025-09-25 20:16:29,337 - INFO - TopN Merchants endpoint called
+2025-09-25 20:16:29,341 - INFO - TopN Customers endpoint called
+2025-09-25 20:16:29,344 - INFO - Fraud by Merchant endpoint called
+2025-09-25 20:16:29,349 - INFO - Fraud by Sector endpoint called
+2025-09-25 20:16:29,349 - INFO - Temporal_Series endpoint called
+2025-09-25 20:16:30,551 - INFO - Rows returned: 19
+2025-09-25 20:16:30,785 - INFO - Transactions by Customer endpoint called
+2025-09-25 20:16:38,210 - INFO - Rows returned: 1039
+2025-09-25 21:01:44,304 - INFO - Fraud by Month endpoint called
+2025-09-25 21:01:44,318 - INFO - Companies_list endpoint called
+2025-09-25 21:01:44,324 - INFO - TopN Merchants endpoint called
+2025-09-25 21:01:44,331 - INFO - Fraud by Country endpoint called
+2025-09-25 21:01:44,331 - INFO - TopN Customers endpoint called
+2025-09-25 21:01:44,386 - INFO - Fraud by Sector endpoint called
+2025-09-25 21:01:44,471 - INFO - Fraud by Merchant endpoint called
+2025-09-25 21:01:45,701 - INFO - Transactions by Customer endpoint called
+2025-09-25 21:01:45,729 - INFO - Temporal_Series endpoint called
+2025-09-25 21:01:55,751 - INFO - Rows returned: 18
+2025-09-26 12:18:26,440 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-26 12:25:17,850 - INFO - TopN Customers endpoint called
+2025-09-26 12:25:17,865 - INFO - Temporal_Series endpoint called
+2025-09-26 12:25:17,869 - INFO - Companies_list endpoint called
+2025-09-26 12:25:17,873 - INFO - TopN Merchants endpoint called
+2025-09-26 12:25:17,956 - INFO - Fraud by Merchant endpoint called
+2025-09-26 12:25:17,959 - INFO - Transactions by Customer endpoint called
+2025-09-26 12:25:17,959 - INFO - Fraud by Country endpoint called
+2025-09-26 12:25:17,962 - INFO - Fraud by Sector endpoint called
+2025-09-26 12:25:17,962 - INFO - Fraud by Month endpoint called
+2025-09-26 12:25:18,546 - INFO - Rows returned: 10
+2025-09-26 12:26:14,222 - INFO - Companies_list endpoint called
+2025-09-26 12:26:14,229 - INFO - Rows returned: 10
+2025-09-26 12:45:26,775 - INFO - Transactions by Customer endpoint called
+2025-09-26 12:45:27,251 - INFO - Rows returned: 1039
+2025-09-26 12:47:32,310 - INFO - TopN Customers endpoint called
+2025-09-26 12:47:32,679 - INFO - Rows returned: 10
+2025-09-26 12:47:39,878 - INFO - TopN Customers endpoint called
+2025-09-26 12:47:39,892 - INFO - TopN Merchants endpoint called
+2025-09-26 12:47:40,264 - INFO - Rows returned: 10
+2025-09-26 12:48:16,992 - INFO - TopN Customers endpoint called
+2025-09-26 12:48:17,390 - INFO - Rows returned: 10
+2025-09-26 12:48:34,749 - INFO - TopN Merchants endpoint called
+2025-09-26 12:48:35,590 - INFO - Rows returned: 10
+2025-09-26 12:48:38,048 - INFO - TopN Merchants endpoint called
+2025-09-26 12:48:38,880 - INFO - Rows returned: 10
+2025-09-26 12:49:02,825 - INFO - TopN Customers endpoint called
+2025-09-26 12:49:03,210 - INFO - Rows returned: 10
+2025-09-26 12:49:07,306 - INFO - TopN Customers endpoint called
+2025-09-26 12:49:07,335 - INFO - TopN Merchants endpoint called
+2025-09-26 12:49:07,665 - INFO - Rows returned: 10
+2025-09-26 12:49:51,514 - INFO - TopN Merchants endpoint called
+2025-09-26 12:49:51,525 - INFO - TopN Customers endpoint called
+2025-09-26 12:49:52,345 - INFO - Rows returned: 10
+2025-09-26 13:29:45,836 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py:69> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\main.py", line 580, in run
+    server.run()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 67, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
+2025-09-26 13:30:01,250 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-26 13:30:24,627 - INFO - TopN Merchants endpoint called
+2025-09-26 13:30:25,643 - INFO - Rows returned: 10
+2025-09-26 13:30:31,903 - INFO - TopN Customers endpoint called
+2025-09-26 13:30:31,916 - INFO - TopN Merchants endpoint called
+2025-09-26 13:30:32,338 - INFO - Rows returned: 10
+2025-09-26 19:15:06,658 - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-26 19:16:07,473 - INFO - Temporal_Series endpoint called
+2025-09-26 19:16:24,396 - INFO - Rows returned: 18
+2025-09-26 19:17:10,282 - INFO - Companies_list endpoint called
+2025-09-26 19:17:10,285 - INFO - Fraud by Country endpoint called
+2025-09-26 19:17:10,297 - INFO - Rows returned: 10
+2025-09-26 19:17:10,335 - INFO - TopN Customers endpoint called
+2025-09-26 19:17:10,341 - INFO - TopN Merchants endpoint called
+2025-09-26 19:17:10,347 - INFO - Temporal_Series endpoint called
+2025-09-26 19:17:10,407 - INFO - Fraud by Sector endpoint called
+2025-09-26 19:17:10,410 - INFO - Fraud by Month endpoint called
+2025-09-26 19:17:10,414 - INFO - Transactions by Customer endpoint called
+2025-09-26 19:17:10,419 - INFO - Fraud by Merchant endpoint called
+2025-09-26 19:17:11,179 - INFO - Rows returned: 10
+2025-09-26 19:21:06,560 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<Server.serve() done, defined at C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py:69> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\main.py", line 580, in run
+    server.run()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 67, in run
+    return asyncio.run(self.serve(sockets=sockets))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 92, in run_until_complete
+    self._run_once()
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\nest_asyncio.py", line 133, in _run_once
+    handle._run()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 396, in __wakeup
+    self.__step()
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 303, in __step
+    self.__step_run_and_handle_result(exc)
+  File "C:\Users\Eros\anaconda3\Lib\asyncio\tasks.py", line 314, in __step_run_and_handle_result
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 70, in serve
+    with self.capture_signals():
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Eros\anaconda3\Lib\contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "C:\Users\Eros\anaconda3\Lib\site-packages\uvicorn\server.py", line 331, in capture_signals
+    signal.raise_signal(captured_signal)
+KeyboardInterrupt
