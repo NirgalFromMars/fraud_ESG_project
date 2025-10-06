@@ -1,0 +1,1759 @@
+Rank,Name,Symbol,marketcap,price (USD),country,sector
+1,SAP,SAP,320858980352,275.51,Germany,sw
+2,ASML,ASML,299657723904,762.1,Netherlands,semiconductor
+3,LVMH,MC.PA,297706446197,599206,France,clothing
+4,Prosus,PRX.AS,267383014457,61.1935,Netherlands,investment
+5,Hermès,RMS.PA,260161734176,2481.61,France,clothing
+6,L'Oréal,OR.PA,250537229527,469.87,France,#N/D
+7,Novo Nordisk,NVO,244676820992,55885,Denmark,biotech
+8,Siemens,SIE.DE,216635474952,276597,Germany,#N/D
+9,Deutsche Telekom,DTE.DE,179581326258,36646,Germany,telecommunication
+10,Airbus,AIR.PA,165725681813,208595,Netherlands,manufacturing
+11,Allianz SE,ALV.DE,162811212535,422282,Germany,insurance
+12,Accenture,ACN,158930272256,255165,Ireland,services
+13,Inditex,ITX.MC,157719907952,50.6365,Spain,clothing
+14,Santander,SAN,143371862016,9.64,Spain,bank
+15,EssilorLuxottica,EL.PA,141851191669,307602,France,#N/D
+16,Spotify,SPOT,141174603776,686053,Sweden,entertainment
+17,Safran,SAF.PA,141098624014,336097,France,#N/D
+18,Schneider Electric,SU.PA,140560093048,249562,France,services
+19,Eaton,ETN,138711482368,356.31,Ireland,#N/D
+20,TotalEnergies,TTE,135906107392,62205,France,energy
+21,Iberdrola,IBE.MC,126282497940,18.9011,Spain,electricity
+22,Anheuser-Busch Inbev,BUD,121555886080,62745,Belgium,#N/D
+23,Sanofi,SNY,121472409600,49805,France,biotech
+24,Air Liquide,AI.PA,119468319029,207.17,France,#N/D
+25,UniCredit,UCG.MI,119245624440,77.2626,Italy,bank
+26,Medtronic,MDT,117924110336,91935,Ireland,#N/D
+27,Intesa Sanpaolo,ISP.MI,113881457280,6.31671,Italy,bank
+28,Banco Bilbao Vizcaya Argentaria,BBVA,105230393344,18.1645,Spain,bank
+29,Dior,CDI.PA,102604412981,568726,France,clothing
+30,BNP Paribas,BNP.PA,101044068011,89805,France,bank
+31,AXA,CS.PA,99406127208,46.5958,France,insurance
+32,Investor AB,INVE-B.ST,94834685612,30965,Sweden,investment
+33,Enel,ENEL.MI,94616624593,9.30515,Italy,electricity
+34,Trane Technologies,TT,94590017536,425095,Ireland,#N/D
+35,Siemens Energy,ENR.F,88214427803,107719,Germany,electricity
+36,Rheinmetall,RHM.F,85385121651,1913.46,Germany,#N/D
+37,Ferrari,RACE,85109784576,477.56,Italy,manufacturing
+38,Munich RE (Münchener Rück),MUV2.DE,82519203582,636693,Germany,insurance
+39,Vinci,DG.PA,76434177729,136751,France,#N/D
+40,Cement Roadstone Holding,CRH,76057804800,113235,Ireland,#N/D
+41,Atlas Copco,ATCO-B.ST,75589717399,14.3374,Sweden,manufacturing
+42,Johnson Controls,JCI,71354146816,109.04,Ireland,#N/D
+43,ING,ING,71145111552,23935,Netherlands,bank
+44,Deutsche Bank,DB,70734282752,35.28,Germany,bank
+45,CaixaBank,CABK.MC,70022146329,9.94511,Spain,bank
+46,BMW,BMW.DE,64132798590,105314,Germany,manufacturing
+47,Volvo Group,VOLV-A.ST,62783077419,30.8173,Sweden,manufacturing
+48,Siemens Healthineers,SHL.DE,62044025132,55.3194,Germany,healthcare
+49,Mercedes-Benz,MBG.DE,60407806342,62735,Germany,manufacturing
+50,NXP Semiconductors,NXPI,60402974720,239585,Netherlands,semiconductor
+51,Generali,G.MI,60088215020,39.1452,Italy,insurance
+52,Volkswagen,VOW3.DE,59841627496,117073,Germany,manufacturing
+53,Crédit Agricole,ACA.PA,55745579645,18323,France,bank
+54,Infineon,IFX.DE,55106090865,42.4092,Germany,semiconductor
+55,Merck KGaA,MRK.DE,54607467558,125599,Germany,#N/D
+56,Flutter Entertainment,FLUT,54372179968,309.36,Ireland,entertainment
+57,Compagnie de Saint-Gobain,SGO.PA,54311826571,109307,France,manufacturing
+58,Deutsche Börse,DB1.DE,54299145856,296275,Germany,financial
+59,Thales,HO.PA,54203311032,263926,France,#N/D
+60,Danone,BN.PA,53607116537,82.9616,France,food
+61,ENI,E,53593763840,35.61,Italy,energy
+62,DSV,DSV.VI,53187997628,225.33,Denmark,transportation
+63,Adyen,ADYEN.AS,53081376303,1684.69,Netherlands,financial
+64,Universal Music Group,UMG.AS,52791532761,28.7866,Netherlands,entertainment
+65,Nordea Bank,NDA-FI.HE,52785209146,15.3217,Finland,bank
+66,DHL Group (Deutsche Post),DHL.DE,51587692382,45.5681,Germany,transportation
+67,ENGIE,ENGI.PA,50894735089,20.7871,France,electricity
+68,Porsche,P911.DE,48960287508,54.0932,Germany,manufacturing
+69,BASF,BAS.DE,47831172941,53591,Germany,#N/D
+70,Experian,EXPGF,47594668032,52.11,Ireland,financial
+71,Société Générale,GLE.PA,47552264183,61.0767,France,bank
+72,KBC,KBCSF,47484030976,105.7,Belgium,insurance
+73,E.ON,EOAN.DE,47299707013,18.1011,Germany,electricity
+74,Heineken,HEIA.AS,45756122973,81.4201,Netherlands,#N/D
+75,UCB,UCB.VI,44276191242,233037,Belgium,biotech
+76,Aena,AENA.MC,43880649566,29.2538,Spain,#N/D
+77,Commerzbank,CBK.F,43070906285,37.5686,Germany,bank
+78,Argenx,ARGX,42906025984,701.08,Netherlands,biotech
+79,Orange,ORA.PA,42689977805,16.0399,France,telecommunication
+80,EQT,EQT.ST,42557165986,36.2525,Sweden,investment
+81,HeidelbergCement,HEI.DE,42195817383,236483,Germany,#N/D
+82,Dassault Systèmes,DSY.PA,41608663458,31.5193,France,sw
+83,Legrand,LR.PA,40183539584,152.75,France,manufacturing
+84,Ferrovial,FER.MC,39402773961,54.8873,Spain,#N/D
+85,Assa Abloy,ASSA-B.ST,39389319396,35461,Sweden,#N/D
+86,Amadeus IT Group,AMS.MC,37181972307,84.6199,Spain,sw
+87,Erste Group Bank,EBO.F,37031418118,95.3521,Austria,bank
+88,Skandinaviska Enskilda Banken,SEB-A.ST,36723937757,18.4587,Sweden,bank
+89,Ahold Delhaize,AD.AS,36722455444,39.9977,Netherlands,food
+90,Daimler Truck,DTG.F,36494893776,47.3899,Germany,manufacturing
+91,Seagate Technology,STX,36478357504,171.52,Ireland,tech
+92,Talanx,TLX.DE,35584515559,137802,Germany,financial
+93,Adidas,ADS.DE,35384518062,198178,Germany,clothing
+94,Hannover Rück,HNR1.DE,35208745944,291954,Germany,insurance
+95,Danske Bank,DANS.VI,33881485044,41.2239,Denmark,bank
+96,Kering,KER.PA,33645095665,274437,France,clothing
+97,Henkel,HEN3.DE,33521280516,84.3396,Germany,#N/D
+98,ČEZ Group,CEZ.PR,33472271407,62354,Czech Republic,electricity
+99,Ryanair,RYAAY,33436934144,63.06,Ireland,transportation
+100,Exor,EXO.AS,32724892405,100666,Netherlands,investment
+101,Leonardo,LDO.MI,32675783934,56.4755,Italy,#N/D
+102,KONE,KNEBV.HE,32244744866,62.2679,Finland,services
+103,Bayer,BAYN.DE,32038057826,32.6112,Germany,biotech
+104,Sandvik,SAND.ST,31958103018,25477,Sweden,manufacturing
+105,Endesa,ELE.MC,31821471600,30.5617,Spain,electricity
+106,Ingersoll Rand,IR,31748544512,79.88,Ireland,#N/D
+107,Swedbank,SWED-A.ST,31608255748,28.1155,Sweden,bank
+108,Maersk,MAERSK-B.CO,31349069190,2087.29,Denmark,transportation
+109,Poste Italiane,PST.MI,30858813537,23.4964,Italy,#N/D
+110,Sampo,SAMPO.HE,30833079005,11.4749,Finland,insurance
+111,SAAB AB,SAAB-B.ST,30532410204,56.8958,Sweden,#N/D
+112,Fresenius,FRE.DE,30493598429,54.1399,Germany,healthcare
+113,Naturgy,NTGY.MC,30472422448,31.7179,Spain,electricity
+114,Hexagon AB,HEXA-B.ST,30441184041,11.3401,Sweden,#N/D
+115,Telefónica,TEF,30134679552,5345,Spain,telecommunication
+116,Novozymes,NZYM.VI,30103084075,64.7437,Denmark,biotech
+117,Pernod Ricard,RI.PA,29506205558,117249,France,#N/D
+118,Wolters Kluwer,WKL.AS,29339959522,127642,Netherlands,sw
+119,RWE,RWE.DE,29304442997,40.3597,Germany,electricity
+120,Stellantis,STLA,28473636864,9605,Netherlands,manufacturing
+121,Vonovia,VNA.DE,27255546106,32.6171,Germany,real_state
+122,Ericsson,ERIC,26351773696,7895,Sweden,tech
+123,Philips,PHG,26226898944,27.57,Netherlands,#N/D
+124,EnBW Energie,EBK.DE,26065022630,80.3457,Germany,electricity
+125,Michelin,ML.PA,25981421275,36.4242,France,#N/D
+126,Prysmian Group,PRY.MI,25954168023,89.3145,Italy,#N/D
+127,Svenska Handelsbanken,SHB-A.ST,25869058353,12.9126,Sweden,bank
+128,ArcelorMittal,MT,25680904192,33105,Luxembourg,#N/D
+129,Beiersdorf,BEI.DE,25677172614,115987,Germany,#N/D
+130,PKO Bank Polski,PKO.WA,25044407375,20.0355,Poland,bank
+131,Dassault Aviation,AM.PA,24995580608,316945,France,manufacturing
+132,PKN Orlen,PKN.WA,24842490324,21.3986,Poland,energy
+133,Verbund AG,OEWA.F,24809127224,71.2951,Austria,electricity
+134,Hapag-Lloyd,HLAG.DE,24774297113,140955,Germany,transportation
+135,Cellnex Telecom,CLNX.MC,24705892525,36249,Spain,telecommunication
+136,International Consolidated Airlines,BABWF,24685893632,5.33,Spain,transportation
+137,Epiroc,EPI-A.ST,24578368435,21.0919,Sweden,manufacturing
+138,Capgemini,CAP.PA,24537938826,144867,France,services
+139,BioNTech,BNTX,24503871488,101.93,Germany,biotech
+140,ABN AMRO,ABN.AS,24412662357,28.6815,Netherlands,bank
+141,ASM International,ASM.AS,24351258232,497956,Netherlands,semiconductor
+142,Steris,STE,24168607744,245.39,Ireland,#N/D
+143,Smurfit Westrock,SW,24038635520,46.04,Ireland,#N/D
+144,Veolia,VIE.PA,24012430586,33.0492,France,#N/D
+145,MTU Aero Engines,MTX.DE,24000146891,446222,Germany,#N/D
+146,H&amp;M,HM-B.ST,23910709740,14.9126,Sweden,clothing
+147,Publicis Groupe,PUB.PA,23192536994,92.4676,France,services
+148,Nokia,NOK,23049443328,4285,Finland,tech
+149,Amer Sports,AS,22853871616,41.21,Finland,#N/D
+150,OTP Bank,OTP.BD,22567422804,87.5748,Hungary,bank
+151,AerCap,AER,22085476352,123.86,Ireland,#N/D
+152,Coloplast,COLO-B.CO,21461004977,95.2269,Denmark,#N/D
+153,Banco BPM,BAMI.MI,20991983347,13.6751,Italy,bank
+154,BPER Banca,BPE.MI,20774005161,10.3725,Italy,bank
+155,Snam,SRG.MI,20573756537,6.13336,Italy,energy
+156,Vestas Wind Systems,VWS.CO,20507457720,20.4974,Denmark,electricity
+157,Terna,TRN.MI,20248052067,10.0899,Italy,electricity
+158,Mediobanca,MB.MI,19871410683,24.2789,Italy,bank
+159,Grupo ACS,ACS.MC,19180326079,75.7912,Spain,#N/D
+160,Banco Sabadell,SAB.MC,19143136571,3.81058,Spain,bank
+161,Hochtief,HOT.F,19051568512,251547,Germany,#N/D
+162,Alfa Laval,ALFA.ST,19023480467,46.0254,Sweden,#N/D
+163,Tenaris,TS,18933975040,36295,Luxembourg,manufacturing
+164,Traton,8TRA.DE,18672866691,37.0197,Germany,#N/D
+165,EDP Group,EDP.F,18667815452,4.48324,Portugal,electricity
+166,Essity,ESSITY-B.ST,18476974226,26.9018,Sweden,#N/D
+167,Repsol,REP.MC,18362533582,16.2735,Spain,energy
+168,NN Group,NN.AS,18251346531,68.6675,Netherlands,financial
+169,Uniper,UN0.DE,18238716041,43.7931,Germany,electricity
+170,KPN,KPN.AS,18214929536,4.75067,Netherlands,telecommunication
+171,OMV,OMV.F,18161806621,55.2377,Austria,energy
+172,Evolution Gaming,EVO.ST,18134659106,89.7711,Sweden,entertainment
+173,Continental,CON.DE,17723292342,88.6138,Germany,#N/D
+174,AIB Group (Allied Irish Banks),A5G.IR,17679385785,8.16887,Ireland,bank
+175,JDE Peet's,JDEP.AS,17644021133,36.4592,Netherlands,#N/D
+176,Aptiv,APTV,17351116800,79.68,Ireland,#N/D
+177,Industrivarden,INDU-A.ST,17206788493,39.8303,Sweden,investment
+178,Wärtsilä,WRT1V.HE,17090305358,29.0436,Finland,manufacturing
+179,Carlsberg,CARL-B.CO,17086784128,122609,Denmark,#N/D
+180,Nebius Group (Yandex),NBIS,17078434816,71545,Netherlands,internet
+181,Euronext,ENX.PA,16862026184,165363,Netherlands,financial
+182,Knorr-Bremse,KBX.DE,16782646153,104111,Germany,manufacturing
+183,Bolloré,BOL.PA,16378167945,5.86243,France,#N/D
+184,Bouygues,EN.PA,16344056535,42.8938,France,#N/D
+185,Investment AB Latour,LATO-B.ST,16335140987,25.5509,Sweden,investment
+186,Lifco,LIFCO-B.ST,16298681993,35.8831,Sweden,#N/D
+187,bioMérieux,BIM.PA,16277943182,137569,France,biotech
+188,Nemetschek,NEM.F,16105509857,138386,Germany,sw
+189,Moncler,MONC.MI,16049117508,59.0914,Italy,clothing
+190,Tryg,TRYG.CO,15834042140,26.2555,Denmark,insurance
+191,Fortum,FORTUM.HE,15513247292,17.2895,Finland,electricity
+192,Genmab,GMAB,15456733184,25.13,Denmark,biotech
+193,Jerónimo Martins,JEM.F,15249949064,24.1971,Portugal,retail
+194,Banca Mediolanum,BMED.MI,15247294293,20.1565,Italy,bank
+195,Unipol Assicurazioni,UNI.MI,15230638598,20.9915,Italy,financial
+196,Kerry Group,KRZ.IR,15208038369,93.1916,Ireland,food
+197,Amundi,AMUN.PA,15172049486,74273,France,investment
+198,UPM-Kymmene,UPM.HE,15124462126,28.6815,Finland,manufacturing
+199,Unibail-Rodamco-Westfield,URW.PA,14892883623,103071,France,real_state
+200,Fresenius Medical Care,FMS,14855439360,25.1121,Germany,healthcare
+201,Bank of Ireland Group,BIRG.IR,14795992869,15.0823,Ireland,bank
+202,ASR Nederland,ASRNL.AS,14745906198,69.6718,Netherlands,financial
+203,Prada,1913.HK,14714125872,5.75036,Italy,clothing
+204,Allegion,ALLE,14695202816,171.18,Ireland,#N/D
+205,Telia Company,TELIA.ST,14578386321,3.70757,Sweden,telecommunication
+206,Powszechny Zakład Ubezpieczeń,PZU.WA,14564155227,16866,Poland,insurance
+207,Sartorius,SRT.DE,14390520916,187785,Germany,#N/D
+208,Santander Polska,SPL.WA,14376625427,140687,Poland,bank
+209,Kingspan Group,KRX.IR,14322955810,78.4188,Ireland,#N/D
+210,Neste,NESTE.HE,14269438267,18.5741,Finland,energy
+211,Galp Energia,GZ5.F,14099324876,19.0646,Portugal,energy
+212,Eurobank Ergasias Services and Holdings,EUROB.AT,13772368359,3.77204,Greece,bank
+213,FinecoBank,FBK.MI,13685844365,22.0834,Italy,financial
+214,ageas,AGS.BR,13572766686,70828,Belgium,insurance
+215,Eurofins Scientific,ERF.PA,13532879357,75.7211,Luxembourg,#N/D
+216,Mapfre,MAP.MC,13514676241,4.39799,Spain,financial
+217,ICON plc,ICLR,13501236224,173.6,Ireland,biotech
+218,Symrise,SY1.DE,13495677890,96.5549,Germany,#N/D
+219,Bureau Veritas,BVI.PA,13467986959,30.2698,France,services
+220,Bankinter,BKT.MC,13428204864,14.9422,Spain,bank
+221,Bank Pekao (Bank Polska Kasa Opieki),PEO.WA,13373108760,50951,Poland,bank
+222,Covestro,1COV.F,13189538601,69.8821,Germany,#N/D
+223,Porsche SE,PAH3.DE,13114780502,42.8238,Germany,financial
+224,Aéroports de Paris,ADP.PA,13099513179,132197,France,#N/D
+225,Ørsted,DOGEF,13027284992,31,Denmark,electricity
+226,National Bank of Greece,ETE.AT,12924434650,14.2006,Greece,bank
+227,Recordati,REC.MI,12722730686,62.0694,Italy,biotech
+228,Banco Comercial Português (Millennium bcp),BCP.LS,12706126411,0.851104,Portugal,bank
+229,Elia Group,ELI.BR,12677250400,116256,Belgium,electricity
+230,SPEEH Hidroelectrica,H2O.RO,12668978706,28.1427,Romania,electricity
+231,Lundbergföretagen,LUND-B.ST,12615656923,50.8696,Sweden,investment
+232,EDP Renováveis,EDPR.LS,12568664306,11.9584,Spain,electricity
+233,DWS Group,DWS.F,12495621046,62.4781,Germany,financial
+234,AEGON,AEG,12370285568,7815,Netherlands,insurance
+235,Dino Polska,DNP.WA,12102344387,12.3443,Poland,retail
+236,Edison,EDNR.MI,12085041649,2.55168,Italy,energy
+237,Tele2,TEL2-B.ST,12073619653,17.4086,Sweden,telecommunication
+238,Banca Monte dei Paschi di Siena,BMPS.MI,12033515183,9.29581,Italy,bank
+239,Accor,AC.PA,12013671372,49.9591,France,#N/D
+240,Hensoldt,HAG.F,12009731070,100899,Germany,#N/D
+241,AkzoNobel,AKZA.AS,11988695003,69.2748,Netherlands,#N/D
+242,GEA Group,G1A.F,11968218591,73514,Germany,#N/D
+243,James Hardie Industries,JHX,11964642304,20665,Ireland,#N/D
+244,Eiffage,FGR.PA,11921822290,124956,France,#N/D
+245,Ascendis Pharma,ASND,11793878016,194765,Denmark,biotech
+246,SKF (Svenska Kullagerfabriken),SKF-B.ST,11783598162,25.8781,Sweden,#N/D
+247,D'Ieteren Group,DIE.BR,11659191342,219432,Belgium,retail
+248,Renault,RNO.PA,11554532395,39.5656,France,manufacturing
+249,Ipsen,IPN.PA,11388633153,137685,France,biotech
+250,Klépierre,LI.PA,11314507655,38.7948,France,real_state
+251,Orion Corporation,ORNAV.HE,11277178233,79.5282,Finland,biotech
+252,ING Bank Slaski,ING.WA,11270435464,86629,Poland,bank
+253,Alstom,ALO.PA,11250141428,23.9285,France,manufacturing
+254,Lufthansa,LHA.DE,11167061460,9.31916,Germany,transportation
+255,BE Semiconductor,BESI.AS,11134051422,139846,Netherlands,semiconductor
+256,INWIT,INW.MI,11107469037,12157,Italy,telecommunication
+257,Acciona,ANA.MC,11030485475,202382,Spain,#N/D
+258,GBL,GBLB.VI,10949662062,88.7539,Belgium,#N/D
+259,HELLA,HLE.F,10899595721,98.0965,Germany,manufacturing
+260,Raiffeisen Bank International,RAW.F,10862927599,33.0959,Austria,bank
+261,Metso,METSO.HE,10826723465,13.0795,Finland,manufacturing
+262,Strabag,XD4.F,10796487781,92.6077,Austria,#N/D
+263,Puig Brands,PUIG.MC,10781836318,19.1405,Spain,#N/D
+264,Pandora,PNDORA.CO,10730992774,140728,Denmark,#N/D
+265,Telecom Italia,TIT.MI,10674169827,0.483475,Italy,telecommunication
+266,Allegro.eu,ALE.WA,10620901460,10.0835,Poland,ecommerce
+267,Swedish Orphan Biovitrum,SOBI.ST,10590778641,30.7328,Sweden,biotech
+268,Red Eléctrica,RED.MC,10507757569,19.4441,Spain,electricity
+269,Deutsche Wohnen,DWNI.DE,10499331662,26451,Germany,real_state
+270,mBank,MBK.WA,10499018469,246886,Poland,bank
+271,Carrefour,CA.PA,10486530167,14.4926,France,retail
+272,CTP N.V.,CTPNV.AS,10477466876,21.8148,Netherlands,real_state
+273,Getlink,GET.PA,10340965033,18.9887,France,transportation
+274,Skanska,SKA-B.ST,10250042229,24886,Sweden,#N/D
+275,BAWAG Group,0B2.F,10243078142,130211,Austria,bank
+276,Sofina,SOF.VI,10126428481,305734,Belgium,investment
+277,Qiagen,QGEN,9954848768,45.91,Netherlands,biotech
+278,Piraeus Financial Holdings,TPEIR.AT,9885526591,7.91545,Greece,bank
+279,Boliden,BOL.ST,9801089088,34.5006,Sweden,#N/D
+280,Birkenstock,BIRK,9607249920,52.24,Germany,#N/D
+281,Rexel,RXL.PA,9601311880,32.3018,France,#N/D
+282,Addtech AB,ADDT-B.ST,9581844042,35.5032,Sweden,#N/D
+283,Svenska Cellulosa Aktiebolaget (SCA),SCA-B.ST,9562113648,13.6198,Sweden,#N/D
+284,Autoliv,ALV,9508731904,123.8,Sweden,#N/D
+285,Scout24 (ImmoScout24),G24.F,9487614157,131379,Germany,internet
+286,Ayvens,AYV.PA,9393245435,11.3336,France,#N/D
+287,Buzzi Unicem,BZU.MI,9318689433,51.4072,Italy,#N/D
+288,Alpha Services and Holdings,ALPHA.AT,9289680086,4.01261,Greece,bank
+289,Komerční banka,KOMB.PR,9269843568,49.0842,Czech Republic,bank
+290,SPIE,SPIE.PA,9252552761,55.0508,France,services
+291,Indutrade,INDT.ST,9235719619,25.3504,Sweden,manufacturing
+292,Syensqo,SYENS.BR,9218353457,88.6372,Belgium,#N/D
+293,Davide Campari-Milano,CPR.MI,9214461588,7.67488,Italy,#N/D
+294,Stora Enso,STEAV.HE,9188156638,12.1453,Finland,#N/D
+295,Italgas,IG.MI,9165744754,9.03305,Italy,energy
+296,Brenntag,BNR.DE,9051251198,62.6883,Germany,#N/D
+297,Sodexo,SW.PA,9036055626,60.2593,France,food
+298,Evonik Industries,EVK.DE,9033750042,19.3857,Germany,#N/D
+299,CTS Eventim,EVD.F,9012846115,93.8923,Germany,entertainment
+300,Acciona Energías Renovables,ANE.MC,8938893416,27.5371,Spain,electricity
+301,Kesko,KESKOA.HE,8811791494,22.1651,Finland,retail
+302,Trelleborg AB,TREL-B.ST,8765625967,38.5638,Sweden,#N/D
+303,Securitas AB,SECU-B.ST,8760147175,15.3031,Sweden,#N/D
+304,LPP SA,LPP.WA,8727001946,4702.33,Poland,clothing
+305,Grifols,GRFS,8700609536,9.97,Spain,biotech
+306,Beijer Ref,BEIJ-B.ST,8666696468,17.0972,Sweden,#N/D
+307,KION Group,KGX.DE,8636518042,65.8648,Germany,#N/D
+308,Ackermans &amp; Van Haaren,ACKB.BR,8560265738,260656,Belgium,#N/D
+309,Elisa,ELISA.HE,8544001680,53229,Finland,telecommunication
+310,Fastighets AB Balder,BALD-B.ST,8527621441,7.16607,Sweden,real_state
+311,Rational AG,RAA.F,8511234416,748569,Germany,#N/D
+312,Metlen Energy &amp; Metals,MYTIL.AT,8506406183,61.5439,Greece,#N/D
+313,NIBE Industrier,NIBE-B.ST,8449220336,4.19094,Sweden,#N/D
+314,Merlin Properties,MRL.MC,8399816548,14.9247,Spain,real_state
+315,Financière de Tubize,TUB.BR,8358783602,187785,Belgium,biotech
+316,Randstad,RAND.AS,8232494254,46.8527,Netherlands,services
+317,Technip Energies,TE.PA,8170604019,46.2455,France,energy
+318,Copenhagen Airport,KBHL.CO,8129216056,1035.82,Denmark,#N/D
+319,Millicom,TIGO,8108024832,48.54,Luxembourg,telecommunication
+320,Demant,DEMANT.CO,8099201602,38.0219,Denmark,#N/D
+321,OPAP (Organization of Football Prognostics),OPAP.AT,8069929022,22.5038,Greece,entertainment
+322,Rockwool,ROCK-B.CO,8046443662,38.5852,Denmark,manufacturing
+323,Brunello Cucinelli,BC.MI,7998059480,117833,Italy,clothing
+324,Lotus Bakeries,LOTB.BR,7992874307,9716.22,Belgium,food
+325,CPI Property Group,O5G.DE,7965927788,0.951769,Luxembourg,real_state
+326,A2A,A2A.MI,7957572436,2.5435,Italy,electricity
+327,Fraport,FRA.DE,7957326092,86.1264,Germany,#N/D
+328,Delivery Hero,DHER.F,7894128203,26.1474,Germany,food
+329,OTE Group,OTE.F,7789484802,18.7551,Greece,telecommunication
+330,Sagax,SAGA-B.ST,7773789141,21.6776,Sweden,investment
+331,Jazz Pharmaceuticals,JAZZ,7585916928,125059,Ireland,biotech
+332,Nexi,NEXI.MI,7533131430,6.35525,Italy,financial
+333,InPost,INPST.AS,7509416078,14.9364,Luxembourg,transportation
+334,Covivio,COV.PA,7459275594,65.5144,France,real_state
+335,AAK,AAK.ST,7429112875,28.6221,Sweden,food
+336,AUTO1,AG1.F,7350900566,33.0025,Germany,internet
+337,Zalando,ZAL.DE,7346444259,28.3429,Germany,clothing
+338,Fincantieri,FCT.MI,7331786218,22.6323,Italy,manufacturing
+339,Nordnet AB,SAVE.ST,7308555247,29.2131,Sweden,financial
+340,Gecina,GFC.PA,7299268269,97.9213,France,investment
+341,Compagnie de l'Odet,ODET.PA,7296021556,1728.37,France,#N/D
+342,A1 Telekom Austria,TA1.F,7266703681,10.8724,Austria,telecommunication
+343,Romgaz,SNG.RO,7177913557,1.86235,Romania,energy
+344,Unicaja Banco,UNI.MC,7143579729,2.78174,Spain,bank
+345,RENK Group,R3NK.DE,7097979860,70.9798,Germany,manufacturing
+346,PGE Polska,PGE.WA,7071643462,3.15176,Poland,electricity
+347,Indra Sistemas,IDR.MC,7068183050,40.2195,Spain,services
+348,Andritz,AZ2.F,7024402057,71.5871,Austria,#N/D
+349,KGHM Polska Miedź,KGH.WA,7006960250,35.0348,Poland,#N/D
+350,Edenred,EDEN.PA,6990312173,28.9151,France,financial
+351,Pirelli,PIRC.MI,6986834662,6.87843,Italy,#N/D
+352,Compagnie du Cambodge,CBDG.PA,6983331441,115.03,France,investment
+353,CD Projekt,CDR.WA,6967873184,69.7412,Poland,tech
+354,Vienna Insurance Group,WSV2.F,6958309033,54.3618,Austria,insurance
+355,ALK-Abelló,ALK-B.CO,6940473969,31.3251,Denmark,biotech
+356,Lottomatica Group,LTMC.MI,6864977107,27.4904,Italy,entertainment
+357,MOL Group,MOL.BD,6844142149,8.67514,Hungary,energy
+358,Gaztransport & Technigaz,GTT.PA,6838947800,184515,France,#N/D
+359,Banca Transilvania,TLV.RO,6838064807,6.27852,Romania,bank
+360,Sectra AB,SECT-B.ST,6811822408,35.3554,Sweden,tech
+361,LEG Immobilien,LEG.DE,6808232583,84.1411,Germany,real_state
+362,Nexans,NEX.PA,6783257410,154852,France,#N/D
+363,Axfood,AXFO.ST,6772622288,31.3661,Sweden,retail
+364,Grupo Catalana Occidente,GCO.MC,6746730997,57.1645,Spain,insurance
+365,Thyssenkrupp,TKA.F,6688419919,10.7439,Germany,manufacturing
+366,Banca Generali,BGN.MI,6687809441,58.4491,Italy,bank
+367,Konecranes,KCR.HE,6628173369,83.6739,Finland,manufacturing
+368,Banca Popolare di Sondrio,BPSO.MI,6627777545,14.4926,Italy,bank
+369,IMCD,IMCD.AS,6614045087,112.04,Netherlands,#N/D
+370,Ternium,TX,6465404416,32935,Luxembourg,manufacturing
+371,Jyske Bank,JYSK.CO,6454217639,108042,Denmark,bank
+372,Valmet,VALMT.HE,6409425060,34.7892,Finland,manufacturing
+373,Elis,ELIS.PA,6351259277,27.1634,France,services
+374,Stevanato Group,STVN,6335981568,23.21,Italy,#N/D
+375,Hera Group,HER.MI,6335572812,4.31858,Italy,electricity
+376,RTL Group,RRTL.F,6315856955,40.8151,Luxembourg,#N/D
+377,Volvo Car,VOLCAR-B.ST,6278138199,2.11816,Sweden,manufacturing
+378,IONOS Group,IOS.DE,6242683348,44.9609,Germany,internet
+379,Sweco,SWEC-A.ST,6221868837,17.2028,Sweden,services
+380,DCC plc,DCC.L,6219622524,63438,Ireland,energy
+381,Schaeffler,SHA0.DE,6179324618,6.53976,Germany,manufacturing
+382,Public Power Corporation,PPC.AT,6166718643,16.6998,Greece,electricity
+383,Oberbank,OBS.VI,6129498043,86.8854,Austria,bank
+384,Fomento de Construcciones y Contratas,FCC.MC,6075435196,12846,Spain,#N/D
+385,KBC Ancora,KBCA.BR,6069932526,77.7765,Belgium,financial
+386,Subsea 7,SUBC.OL,6065407141,20518,Luxembourg,#N/D
+387,Lundbeck,HLUN-B.CO,6048795633,6.31821,Denmark,biotech
+388,Française des Jeux,FDJ.VI,6029271486,32.6288,France,entertainment
+389,Holmen,HOLM-B.ST,6024596452,38.8804,Sweden,#N/D
+390,Zabka Group,ZAB.WA,6021606745,6.02161,Poland,retail
+391,Warehouses De Pauw,WDP.BR,5993631790,25762,Belgium,real_state
+392,Avanza Bank,AZA.ST,5979021412,38.0255,Sweden,bank
+393,Nordex,NDX1.F,5948051054,25.0847,Germany,energy
+394,Getinge,GETI-B.ST,5927329093,21.7621,Sweden,#N/D
+395,Corporación Financiera Alba,ALB.MC,5871019284,97.9515,Spain,investment
+396,Scor,SCR.PA,5856767606,32.7455,France,insurance
+397,Bechtle,BC8.F,5850657449,46.1988,Germany,services
+398,Voestalpine,VAS.F,5841707763,33.3995,Austria,#N/D
+399,DiaSorin,DIA.MI,5753453384,100432,Italy,biotech
+400,SSAB,SSAB-B.ST,5751832680,5.73074,Sweden,#N/D
+401,GamaLife,BTRVB.LS,5749279528,114986,Portugal,insurance
+402,Fortnox AB,FNOX.ST,5745976981,9.41177,Sweden,sw
+403,Iveco Group,IVG.MI,5731021171,21482,Italy,manufacturing
+404,United Internet,UTDI.F,5643612851,31.8346,Germany,internet
+405,Fuchs Petrolub,FPE.F,5637164868,37.3701,Germany,oil_gas
+406,Ringkjøbing Landbobank,RILBA.CO,5627853042,227506,Denmark,bank
+407,Castellum,CAST.ST,5606462704,11.3929,Sweden,real_state
+408,Richter Gedeon,RIG2.F,5603617298,30.6435,Hungary,biotech
+409,Vopak,VPK.AS,5503862501,48.0439,Netherlands,#N/D
+410,Saipem,SPM.MI,5474349704,2.79692,Italy,energy
+411,Arkema,AKE.PA,5466201831,71.5871,France,#N/D
+412,Fluidra,FDR.MC,5459700035,28.7516,Spain,#N/D
+413,Credito Emiliano,CE.MI,5436302777,15.8122,Italy,bank
+414,SOL S.p.A.,SOL.MI,5433738292,59.9089,Italy,#N/D
+415,Reply,REY.MI,5411281564,145159,Italy,services
+416,Fielmann,FIE.F,5373389498,63.2956,Germany,retail
+417,Colruyt,COLR.BR,5367607002,44.0033,Belgium,retail
+418,De' Longhi,DLG.MI,5338002125,35.5483,Italy,#N/D
+419,TUI,TUI1.F,5328537031,10.4519,Germany,#N/D
+420,Springer Nature AG,SPG.DE,5295837313,26.5678,Germany,#N/D
+421,NKT A/S,NKT.CO,5239630128,98.0277,Denmark,#N/D
+422,Technoprobe,TPRO.MI,5220090850,8.03457,Italy,manufacturing
+423,Azimut Holding,AZM.MI,5188437495,36.5059,Italy,financial
+424,Flughafen Wien (Vienna Airport),FLU.VI,5140770461,61.2911,Austria,#N/D
+425,Interpump Group,IP.MI,5127874645,48.0206,Italy,manufacturing
+426,Merus,MRUS,5127256064,67.79,Netherlands,biotech
+427,Jumbo S.A.,5JB.F,5045334002,35.6417,Greece,retail
+428,ACEA,ACE.MI,5033835976,23.6833,Italy,electricity
+429,Krones,KRN.F,5010327206,158589,Germany,manufacturing
+430,Aurubis,NDA.F,4948138608,113044,Germany,#N/D
+431,EVN Group,EVN.F,4861397867,27.2685,Austria,electricity
+432,Zealand Pharma,ZEAL.CO,4860942469,69.0653,Denmark,biotech
+433,ISS A/S,ISS.CO,4856781450,29.0719,Denmark,#N/D
+434,Bank Millennium,MIL.WA,4803850867,3.96331,Poland,bank
+435,Alkermes,ALKS,4778182656,28945,Ireland,biotech
+436,Maire Tecnimont,MAIRE.MI,4747422110,14.5276,Italy,#N/D
+437,Just Eat Takeaway,TKWY.AS,4706679455,23.5665,Netherlands,food
+438,Teleperformance,TEP.PA,4571417700,78.5706,France,services
+439,Webuild S.p.A.,WBD.MI,4561765756,4.55448,Italy,#N/D
+440,Eurazeo,RF.PA,4560438071,65748,France,investment
+441,Uniqa Insurance Group,UN9.F,4502448376,14621,Austria,insurance
+442,Mycronic,MYCR.ST,4460716959,22.8544,Sweden,manufacturing
+443,Carl Zeiss Meditec,AFXA.F,4418704417,49.2818,Germany,#N/D
+444,Hiab Oyj,HIAB.HE,4339924101,67.2661,Finland,#N/D
+445,Logista (Compañía de Distribución Integral Logista),LOG.MC,4325657101,32.7689,Spain,transportation
+446,Aroundtown,AT1.F,4314725306,3.93554,Luxembourg,real_state
+447,Vallourec,VK.PA,4302504094,17.9552,France,manufacturing
+448,DMG Mori Aktiengesellschaft,GIL.F,4289593179,53.8363,Germany,manufacturing
+449,Tauron Polska,TPE.WA,4279788538,2.44204,Poland,electricity
+450,VEON,VEON,4276118528,60925,Netherlands,telecommunication
+451,Covivio Hotels,COVH.PA,4261940814,26.9765,France,investment
+452,Arcadis,ARCAD.AS,4224126777,46736,Netherlands,services
+453,Air France-KLM,AF.PA,4223580875,15.9173,France,transportation
+454,1&1,1U1.DE,4189775900,23765,Germany,internet
+455,VusionGroup,VU.PA,4180686002,250847,France,sw
+456,Glanbia plc,GL9.IR,4157334783,16583,Ireland,food
+457,Wendel,MF.PA,4120730341,96.7535,France,#N/D
+458,Sixt,SIX2.F,4118404726,99.3227,Germany,#N/D
+459,Groupe SEB,SK.PA,4100722998,74.8569,France,#N/D
+460,Inmobiliaria Colonial,COL.MC,4081286071,6.65071,Spain,investment
+461,Enagás,ENG.MC,4066257917,15.6429,Spain,energy
+462,Ambu,AMBU-B.CO,4059800345,15.2401,Denmark,#N/D
+463,SCHOTT Pharma,1SXP.DE,4045480751,26.8597,Germany,biotech
+464,Amplifon,AMP.MI,4019635603,18.2763,Italy,#N/D
+465,DEME Group,DEME.BR,4009788736,154619,Belgium,#N/D
+466,Alm. Brand,ALMB.CO,3991352303,2.80079,Denmark,financial
+467,Shurgard Self Storage,SHUR.BR,3972621350,39.5305,Luxembourg,#N/D
+468,Freenet,FNTN.F,3940475308,33.2827,Germany,telecommunication
+469,Tikehau Capital,TKO.PA,3939296805,22.8425,France,investment
+470,Iren,IRE.MI,3895839886,3.03632,Italy,electricity
+471,Umicore,UMI.VI,3871441707,15.9874,Belgium,#N/D
+472,Bilfinger,GBF.F,3869520586,103994,Germany,#N/D
+473,Brederode,BREB.BR,3860440554,131262,Luxembourg,investment
+474,FLSmidth,FLS.CO,3859584030,68.5959,Denmark,#N/D
+475,Sydbank A/S,SYDB.CO,3847757572,77.5147,Denmark,bank
+476,Royal Unibrew,RBREW.CO,3847598309,77.5772,Denmark,#N/D
+477,Wienerberger,WIB.F,3841135469,35.1746,Austria,#N/D
+478,Alior Bank S.A.,ALR.WA,3828882518,29328,Poland,bank
+479,Aalberts,AALB.AS,3825355130,35.4082,Netherlands,#N/D
+480,Wacker Chemie,WCH.F,3802864620,76.5503,Germany,#N/D
+481,CIE Automotive,CIE.MC,3781819285,31.5894,Spain,#N/D
+482,Azelis Group,AZE.BR,3774553345,15.1466,Belgium,#N/D
+483,Budimex,BDX.WA,3772029444,147748,Poland,#N/D
+484,Spar Nord Bank A/S,SPNO.CO,3772016451,32.7959,Denmark,bank
+485,Athens International Airport,AIA.AT,3752189594,12.5073,Greece,#N/D
+486,Bank Handlowy w Warszawie,BHW.WA,3743158245,28.6847,Poland,bank
+487,MONETA Money Bank,MONET.PR,3733137886,7.30555,Czech Republic,bank
+488,Société Foncière Lyonnaise,FLY.PA,3717447976,86.4183,France,investment
+489,Huhtamäki,HUH1V.HE,3716722697,35.4082,Finland,#N/D
+490,JCDecaux,DEC.PA,3708225937,17.4004,France,#N/D
+491,flatexDEGIRO AG,FTK.DE,3683599651,33.4462,Germany,financial
+492,L.D.C. S.A.,LOUP.PA,3667169970,105.57,France,food
+493,Jungheinrich,JUN3.F,3666632439,35.8052,Germany,#N/D
+494,Sopra Steria Group,SOP.PA,3641672812,188135,France,services
+495,Vidrala,VID.MC,3618070168,107906,Spain,manufacturing
+496,Asseco,ACP.WA,3613471743,52.9901,Poland,sw
+497,Aedifica,AED.BR,3612147758,75.9664,Belgium,real_state
+498,Vivendi,VIV.PA,3584803920,3.60271,France,#N/D
+499,Solvay,SOLB.VI,3582253188,33.2827,Belgium,#N/D
+500,CCC S.A.,CCC.WA,3562978467,46.2569,Poland,#N/D
+501,Brembo,BRE.MI,3562194125,11.0884,Italy,manufacturing
+502,Kemira,KEMIRA.HE,3560314559,23.2162,Finland,#N/D
+503,Pandox AB,PNDX-B.ST,3557202416,18.2793,Sweden,real_state
+504,PUMA,PUM.DE,3553419331,24.1504,Germany,clothing
+505,ERG,ERG.MI,3551123313,24.4307,Italy,electricity
+506,Corporación América Airports,CAAP,3539950336,21.7059,Luxembourg,#N/D
+507,Verallia,VRLA.PA,3536373492,29.0319,France,#N/D
+508,Laboratorios Farmaceuticos Rovi,ROVI.MC,3485429402,68142,Spain,biotech
+509,Mandatum,MANTA.HE,3453069901,6.86909,Finland,financial
+510,Technogym,TGYM.MI,3428293538,17.2136,Italy,#N/D
+511,Trigano,TRI.PA,3428014010,177625,France,manufacturing
+512,HUGO BOSS,BOSS.DE,3420585734,49.5621,Germany,#N/D
+513,Groupe Lagardère,MMB.PA,3416477417,24057,France,entertainment
+514,Rubis,RUI.PA,3389690543,32.8857,France,energy
+515,Cofinimmo,COFB.BR,3382222506,88.8123,Belgium,real_state
+516,Orange Polska,OPL.WA,3362160948,2.56192,Poland,telecommunication
+517,Sacyr,SCYR.MC,3351964699,4.2345,Spain,#N/D
+518,Husqvarna,HUSQ-A.ST,3325357099,5.77296,Sweden,#N/D
+519,Rémy Cointreau,RCO.PA,3311408595,63.8211,France,#N/D
+520,SYNLAB,SYAB.VI,3310869569,15.0648,Germany,biotech
+521,Titan Cement International,TITC.BR,3305009641,44085,Belgium,#N/D
+522,B&M European Value Retail,BME.L,3300638731,3.28808,Luxembourg,retail
+523,NH Hotel Group,NHH.MC,3296740689,7.56744,Spain,#N/D
+524,Signify,LIGHT.AS,3291404241,26416,Netherlands,manufacturing
+525,Virbac SA,VIRP.PA,3287338078,392386,France,biotech
+526,Melexis NV,MELE.BR,3259446843,80.2873,Belgium,semiconductor
+527,Perrigo,PRGO,3259341568,23.69,Ireland,biotech
+528,Motor Oil (Hellas) Corinth Refineries,MOH.AT,3246455807,29.9428,Greece,energy
+529,Carel Industries,CRL.MI,3212307326,27.9108,Italy,manufacturing
+530,Viscofan,VIS.MC,3202006039,69.7186,Spain,#N/D
+531,Immofinanz,IMO1.F,3179807614,22.8425,Austria,real_state
+532,TAG Immobilien,TEG.F,3168657577,17.7508,Germany,real_state
+533,ID Logistics Group,IDL.PA,3148610173,482308,France,transportation
+534,Ebro Foods,EBRO.MC,3148096260,20.4601,Spain,food
+535,Vicat S.A.,VCT.PA,3136311231,70.4192,France,#N/D
+536,VGP NV,VGP.BR,3136053527,113512,Belgium,real_state
+537,Danieli &amp; C. Officine Meccaniche,DAN.MI,3127340319,48.2308,Italy,#N/D
+538,HEXPOL AB,HPOL-B.ST,3111678383,9.0341,Sweden,#N/D
+539,Acerinox,ACX.MC,3099904701,12.4372,Spain,#N/D
+540,Wihlborgs Fastigheter AB,WIHL.ST,3075824156,10.0051,Sweden,real_state
+541,Thule Group AB,THULE.ST,3072888070,28.4954,Sweden,#N/D
+542,HELLENiQ ENERGY,ELPE.AT,3067771813,10.0374,Greece,energy
+543,Pluxee,PLX.PA,3062832983,20.4835,France,services
+544,Kojamo,KOJAMO.HE,3051482942,12.3555,Finland,real_state
+545,Valeo,FR.PA,2991108138,12.1219,France,#N/D
+546,Samsonite International,1SO.F,2990681820,2.14061,Luxembourg,#N/D
+547,Globant,GLOB,2984197632,67.74,Luxembourg,sw
+548,Sonae,SON.LS,2942556630,1.50181,Portugal,#N/D
+549,Loomis AB,LOOMIS.ST,2940251293,43.2708,Sweden,transportation
+550,SES S.A.,SESG.PA,2928416390,6.95434,Luxembourg,telecommunication
+551,DO &amp; CO Aktiengesellschaft,DOC.VI,2924486851,266262,Austria,food
+552,LEW (Lechwerke),LEC.F,2918188049,82331,Germany,electricity
+553,Unibel S.A.,UNBL.PA,2915692559,1370.66,France,food
+554,Bavarian Nordic,BAVA.CO,2888434878,37.0988,Denmark,biotech
+555,BioArctic AB,BIOA-B.ST,2887137402,32.6114,Sweden,biotech
+556,Almirall,ALM.MC,2856563291,13.3131,Spain,biotech
+557,Benefit Systems,BFT.WA,2855673477,871764,Poland,services
+558,Carmila,CARM.PA,2844963618,20.0164,France,investment
+559,Société Industrielle et Financière de l'Artois,ARTO.PA,2844481993,10685.5,France,investment
+560,Corem Property Group AB,CORE-PREF.ST,2838676637,26.6485,Sweden,real_state
+561,Proximus,PROX.VI,2831618613,8.66519,Belgium,telecommunication
+562,Coface,COFA.PA,2812173017,18.8369,France,insurance
+563,Catena AB,CATE.ST,2806762047,46.5003,Sweden,real_state
+564,The Navigator Company,NVG.LS,2798908731,3.88415,Portugal,#N/D
+565,Altarea,ALTA.PA,2791915144,119117,France,real_state
+566,Fabege AB,FABG.ST,2768880183,8.80192,Sweden,real_state
+567,Ströer,SAX.F,2735999339,48.9898,Germany,#N/D
+568,ALTEN,ATE.PA,2732660546,78.5356,France,services
+569,Bank für Tirol und Vorarlberg,BTS.VI,2729644332,73.5723,Austria,bank
+570,Cenergy Holdings,CENER.BR,2702316041,12.6591,Belgium,energy
+571,NewAmsterdam Pharma Company,NAMS,2701945600,23.99,Netherlands,biotech
+572,ENAV,ENAV.MI,2695708712,4.96789,Italy,#N/D
+573,Van Lanschot Kempen,VLK.AS,2689307366,62.4781,Netherlands,bank
+574,Enea,ENA.WA,2682358557,5.06362,Poland,electricity
+575,Hufvudstaden AB,HUFV-A.ST,2671033777,13.2029,Sweden,real_state
+576,Sinch,SINCH.ST,2649339508,3.13555,Sweden,telecommunication
+577,GN Store Nord,GN.CO,2642931552,18.1504,Denmark,#N/D
+578,CMB.TECH,CMBT,2642251008,8415,Belgium,energy
+579,Hemnet Group AB,HEM.ST,2636863736,27.8411,Sweden,internet
+580,Gek Terna,GEKTERNA.AT,2621854968,26.1357,Greece,#N/D
+581,Polestar,PSNY,2617323264,1235,Sweden,#N/D
+582,BIC,BB.PA,2599364159,62.4781,France,manufacturing
+583,CA Immo,BZY.F,2594568232,27.07,Austria,real_state
+584,Cementir,CEM.MI,2564459906,16.4195,Italy,#N/D
+585,Forvia SE,FRVIA.PA,2557073784,13.3481,France,manufacturing
+586,Kalmar Oyj,KALMAR.HE,2552559179,46736,Finland,#N/D
+587,Kinnevik,KINV-A.ST,2545066091,9.46681,Sweden,investment
+588,Munters Group AB,MTRS.ST,2529509418,13.8572,Sweden,#N/D
+589,Ceconomy,CEC.DE,2518752112,5.19094,Germany,retail
+590,Tradegate Exchange,T2G.F,2505096785,102768,Germany,financial
+591,BFF Bank,BFF.MI,2494008933,13173,Italy,bank
+592,KWS,KWS.F,2485694239,75.3241,Germany,#N/D
+593,Financière Moncey Société anonyme,FMONC.PA,2481946319,133131,France,investment
+594,Grupa Kety,KTY.WA,2473492564,251813,Poland,#N/D
+595,K+S,SDF.F,2470175790,13.7218,Germany,#N/D
+596,H&amp;K AG (Heckler &amp; Koch),MLHK.PA,2465522169,69485,Germany,#N/D
+597,Lanxess,LXS.F,2464456374,28.3779,Germany,#N/D
+598,Bakkafrost,BAKKA.OL,2441041005,41175,Denmark,food
+599,Antin Infrastructure Partners,ANTIN.PA,2433131427,13.6167,France,investment
+600,Hornbach Baumarkt,HBM.HM,2432962066,76.4919,Germany,retail
+601,XTB S.A.,XTB.WA,2428190323,20676,Poland,financial
+602,MFE-Mediaforeurope,MFEA.MI,2416551219,3.53147,Italy,entertainment
+603,KRUK Spólka Akcyjna,KRU.WA,2407596026,124127,Poland,financial
+604,Südzucker,SZU.F,2400571324,11.7599,Germany,food
+605,EMEIS,EMEIS.PA,2385391298,14.5276,France,#N/D
+606,BillerudKorsnäs,BILL.ST,2368878884,9.52485,Sweden,#N/D
+607,Anima Holding,ANIM.MI,2368008082,7.26965,Italy,financial
+608,Betsson AB,BETS-B.ST,2364421368,17.15,Sweden,entertainment
+609,Lisi S.A.,FII.PA,2362555638,50.6832,France,manufacturing
+610,Solvac,SOLV.BR,2361409572,110475,Belgium,investment
+611,Aperam,APAM.AS,2357160145,30.5033,Luxembourg,#N/D
+612,NOS,NOS.LS,2351368082,4.55448,Portugal,telecommunication
+613,Philip Morris ČR,TABAK.PR,2350382054,856.12,Czech Republic,#N/D
+614,OPmobility,OPM.PA,2345322350,16.0808,France,manufacturing
+615,MVV Energie,MVV1.F,2332097527,35268,Germany,electricity
+616,REN (Redes Energéticas Nacionais),RENE.LS,2316123910,3.49177,Portugal,electricity
+617,Gestamp Automoción,GEST.MC,2312621138,4064,Spain,#N/D
+618,Peugeot Invest Société anonyme,PEUG.PA,2304608245,90856,France,investment
+619,Grafton Group,GFTU.L,2290722091,11.8055,Ireland,#N/D
+620,Österreichische Post,POST.VI,2287779302,33.8666,Austria,#N/D
+621,NV Bekaert,BEKB.BR,2285743828,45136,Belgium,manufacturing
+622,Grand City Properties,GYC.DE,2274823693,12916,Luxembourg,real_state
+623,AddLife AB,ALIF-B.ST,2272600596,18.6487,Sweden,healthcare
+624,Clas Ohlson AB,CLAS-B.ST,2260811726,35.6298,Sweden,retail
+625,Peab,PEAB-B.ST,2255575879,7.84679,Sweden,#N/D
+626,Bure Equity AB,BURE.ST,2249007294,30.3318,Sweden,investment
+627,Gelsenwasser,WWG.F,2248043845,653976,Germany,#N/D
+628,Exail Technologies,EXA.PA,2240420199,128693,France,tech
+629,Elecnor,ENO.MC,2235452370,26.3926,Spain,#N/D
+630,ProSiebenSat.1 Media,PSM.F,2234806166,9.62863,Germany,entertainment
+631,Inter Cars,CAR.WA,2218182756,156562,Poland,#N/D
+632,TietoEVRY,TIETO.HE,2215111685,18.7084,Finland,services
+633,Imerys,NK.PA,2191563004,25762,France,#N/D
+634,Cyfrowy Polsat,CPS.WA,2178843439,3.95647,Poland,telecommunication
+635,Ardagh Metal Packaging,AMBP,2178616320,3645,Luxembourg,#N/D
+636,Star Bulk Carriers,SBLK,2173642496,19015,Greece,transportation
+637,Mainova,MNV6.F,2170691813,394721,Germany,electricity
+638,Galapagos NV,GLPG,2150222336,32.63,Belgium,biotech
+639,Grenergy Renovables,GRE.MC,2140741637,75908,Spain,energy
+640,Aktieselskabet Schouw & Co.,SCHO.CO,2120206622,92786,Denmark,#N/D
+641,Ermenegildo Zegna,ZGN,2117831808,8335,Italy,clothing
+642,Atrium Ljungberg,ATRLJ-B.ST,2107151371,3.34188,Sweden,real_state
+643,TF1,TFI.PA,2098913455,9.92643,France,entertainment
+644,Moltiply Group (Gruppo Mutuionline),MOL.MI,2091413878,54.3034,Italy,financial
+645,Sanoma,SANOMA.HE,2079570851,12.7759,Finland,#N/D
+646,Construcciones y Auxiliar de Ferrocarriles,CAF.MC,2075460590,60.6096,Spain,manufacturing
+647,Solaria Energía,SLR.MC,2073518243,16.5947,Spain,electricity
+648,Meliá Hotels International,MEL.MC,2067208529,9.38923,Spain,#N/D
+649,Técnicas Reunidas,TRE.MC,2064832539,26.4393,Spain,#N/D
+650,Dermapharm,DMP.F,2043442653,37954,Germany,#N/D
+651,STEF SA,STF.PA,2038493509,161158,France,transportation
+652,Caisse Régionale de Crédit Agricole Mutuel du Languedoc,CRLA.PA,2035183416,102429,France,bank
+653,Wacker Neuson,WAC.F,2029418110,29.8377,Germany,manufacturing
+654,Optima bank,OPTIMA.AT,2028935737,9.16735,Greece,bank
+655,Adient,ADNT,2026679040,24945,Ireland,#N/D
+656,Believe S.A.,BLV.PA,2022782828,20.0864,France,entertainment
+657,Embracer Group,EMBRAC-B.ST,2014701623,8.95495,Sweden,entertainment
+658,Constellium,CSTM,2005873280,14375,France,#N/D
+659,NCC,NCC-B.ST,2002577515,20.4534,Sweden,#N/D
+660,Viohalco,VIO.BR,1988646903,7.67254,Belgium,#N/D
+661,Ariston Holding,ARIS.MI,1986211719,5.2902,Italy,manufacturing
+662,Bravida Holding,BRAV.ST,1982966000,9.69372,Sweden,#N/D
+663,Robertet,CBE.PA,1976921667,817471,France,#N/D
+664,Vitrolife AB,VITR.ST,1968405097,14.5327,Sweden,biotech
+665,Vossloh AG,VOS.DE,1962971117,101.6,Germany,#N/D
+666,Basic-Fit,BFIT.AS,1960583916,29.9895,Netherlands,#N/D
+667,Argan SA,ARG.PA,1958391488,75.7912,France,investment
+668,Outokumpu,OUT1V.HE,1952168622,4.12706,Finland,#N/D
+669,Vaisala,VAIAS.HE,1951620777,53.7779,Finland,#N/D
+670,OEM International,OEM-B.ST,1950356295,14.0577,Sweden,#N/D
+671,Paradox Interactive,PDX.ST,1944088798,18.4059,Sweden,entertainment
+672,Métropole Télévision (Groupe M6),MMT.PA,1940737563,15.4152,France,entertainment
+673,Systemair AB,SYSR.ST,1928805761,9.28739,Sweden,#N/D
+674,Atoss,AOF.F,1928149077,121219,Germany,sw
+675,Hornbach Holding,HBH.DE,1920437985,120051,Germany,retail
+676,Redcare Pharmacy,RDC.DE,1912396094,95.1185,Netherlands,ecommerce
+677,Gimv NV,GIMB.BR,1910113380,51.3255,Belgium,financial
+678,Bufab AB,BUFAB.ST,1902817163,10042,Sweden,#N/D
+679,Rai Way,RWAY.MI,1897066587,7.0536,Italy,#N/D
+680,AQ Group,AQ.ST,1894639611,20.6539,Sweden,#N/D
+681,Elekta AB,EKTA-B.ST,1888043792,4.92232,Sweden,#N/D
+682,Cadeler A/S,CDLR,1867739776,21.21,Denmark,#N/D
+683,MM Group (Mayr-Melnhof AG),MYM.F,1861060963,94.3595,Austria,#N/D
+684,Per Aarsleff Holding A/S B,PAAL-B.CO,1858863224,99.3577,Denmark,#N/D
+685,Icade,ICAD.PA,1852121741,24.3139,France,investment
+686,OVH Groupe,OVH.PA,1851418735,12.2153,France,internet
+687,Alleima AB,ALLEI.ST,1850724548,7.39825,Sweden,#N/D
+688,Hamburger Hafen,HHFA.F,1844689280,24.5241,Germany,#N/D
+689,Aktor,AKTR.AT,1841298170,9.02721,Greece,#N/D
+690,Ipsos,IPS.PA,1835379945,42.5318,France,services
+691,Montea Comm,MONT.BR,1835350198,79.7618,Belgium,real_state
+692,Tessenderlo Group,TESB.BR,1832409771,30188,Belgium,#N/D
+693,Jeudan,JDAN.CO,1828570942,33.0149,Denmark,real_state
+694,Metrovacesa,MVC.MC,1823243039,12.0285,Spain,real_state
+695,KSB SE &amp; Co. KGaA,KSB.DE,1819880778,1068.55,Germany,manufacturing
+696,Pfeiffer Vacuum,PFV.F,1811555173,182413,Germany,manufacturing
+697,Clariane,CLARI.PA,1809028507,5.03795,France,#N/D
+698,Neinor Homes,HOME.MC,1808777829,20.1798,Spain,real_state
+699,Afry AB,AFRY.ST,1800039456,15.8941,Sweden,#N/D
+700,Dometic Group,DOM.ST,1797252941,5.62521,Sweden,#N/D
+701,Kontron AG,KTN.F,1796783527,29102,Austria,tech
+702,Netcompany Group,NETC.CO,1795297370,38.2097,Denmark,services
+703,Fagron,FAGR.BR,1775335792,24.2906,Belgium,biotech
+704,Vimian Group,VIMIAN.ST,1771853981,3.3308,Sweden,healthcare
+705,Storskogen Group,STOR-B.ST,1767333459,1.04779,Sweden,investment
+706,Dürr,DUE.F,1761772396,25.4584,Germany,#N/D
+707,Prodea Real Estate Investment Company,PRODEA.AT,1760388357,6.89011,Greece,investment
+708,Dom Development,DOM.WA,1751193520,67.8799,Poland,real_state
+709,Proeduca Altus,PRO.MC,1751047033,38.7715,Spain,#N/D
+710,Eurocommercial Properties,ECMPA.AS,1736833547,31823,Netherlands,investment
+711,(DIA) Distribuidora Internacional de Alimentación,DIA.MC,1725431636,29.7209,Spain,food
+712,Eramet,ERA.PA,1722288065,60.1425,France,#N/D
+713,Lindab International,LIAB.ST,1721988719,22.3531,Sweden,#N/D
+714,Gerresheimer,GXI.F,1719134329,49.7723,Germany,manufacturing
+715,Aixtron,AIXA.F,1714905681,15205,Germany,manufacturing
+716,AlzChem Group,ACT.DE,1708362777,169.1,Germany,#N/D
+717,Eutelsat,ETL.PA,1704974955,3.59103,France,telecommunication
+718,Pharma Mar,PHM.MC,1686625947,96.7535,Spain,biotech
+719,Elmos Semiconductor,ELG.DE,1685592888,98.33,Germany,semiconductor
+720,Realia Business,RLIA.MC,1681827479,1.1141,Spain,real_state
+721,Danaos,DAC,1678267136,91.66,Greece,transportation
+722,Semapa,SEM.LS,1669414184,20.6703,Portugal,#N/D
+723,Friedrich Vorwerk Group,VH2.DE,1667639853,83382,Germany,energy
+724,TeamViewer,TMV.DE,1663428992,10.6563,Germany,internet
+725,Xior Student Housing,XIOR.BR,1660476307,35.56,Belgium,investment
+726,Caisse Régionale de Crédit Agricole Mutuel Nord de France,CNDF.PA,1657041399,27.9458,France,bank
+727,NP3 Fastigheter AB,NP3.ST,1654033372,26.8596,Sweden,real_state
+728,Prosegur,PSG.MC,1648440600,3.09471,Spain,#N/D
+729,TKH Group,TWEKA.AS,1643249448,41.2005,Netherlands,manufacturing
+730,Deutsche EuroShop,DEQ.F,1641722357,21.6746,Germany,investment
+731,Nolato AB,NOLA-B.ST,1638969828,6.0843,Sweden,manufacturing
+732,Truecaller,TRUE-B.ST,1637810761,4.76612,Sweden,sw
+733,Electrolux,ELUX-A.ST,1634456331,7.75708,Sweden,#N/D
+734,Biotest,BIO.F,1631286537,49.2818,Germany,biotech
+735,Fluxys Belgium,FLUX.BR,1593527808,23.3563,Belgium,energy
+736,Soitec,SOI.PA,1576820392,42.9873,France,semiconductor
+737,Dalata Hotel Group,DHG.IR,1575665507,7.45066,Ireland,#N/D
+738,Terveystalo,TTALO.HE,1573758288,12.4256,Finland,healthcare
+739,Gränges,GRNG.ST,1570757811,14.7754,Sweden,#N/D
+740,Douglas Group,DOU.DE,1556962529,14.4576,Germany,retail
+741,Vitec Software Group,VIT-B.ST,1553629562,39.0704,Sweden,sw
+742,Industrie De Nora,DNR.MI,1549284173,7.75429,Italy,#N/D
+743,Faes Farma,FAE.MC,1533949884,4.92818,Spain,biotech
+744,Cimpress,CMPR,1533496064,62.64,Ireland,ecommerce
+745,Wüstenrot &amp; Württembergische,WUW.F,1531050115,16.2093,Germany,#N/D
+746,Planisware,PLNW.PA,1524271631,21698,France,sw
+747,Pharvaris,PHVS,1514896128,23.56,Netherlands,biotech
+748,Palfinger,PFI.F,1512390038,43.5011,Austria,manufacturing
+749,Aegean Airlines,AEGN.AT,1507997559,16.8866,Greece,#N/D
+750,Ubisoft,UBI.PA,1502686074,11.1293,France,entertainment
+751,Cibus Nordic Real Estate,CIBUS.ST,1493542143,18.1948,Sweden,real_state
+752,New Wave Group,NEWA-B.ST,1489982484,11.2293,Sweden,retail
+753,OHB SE,OHB.DE,1489645112,77.7765,Germany,#N/D
+754,Norion Bank,NORION.ST,1487280373,7.31382,Sweden,bank
+755,secunet,YSN.F,1479257724,227257,Germany,tech
+756,Dynavox Group,DYVOX.ST,1447942029,13414,Sweden,#N/D
+757,Avadel Pharmaceuticals,AVDL,1445783296,14.89,Ireland,biotech
+758,DEUTZ,DEZ.DE,1445471285,10.4169,Germany,manufacturing
+759,Metsä Board,METSA.HE,1445091306,6.3062,Finland,#N/D
+760,Nexus AG,NXU.DE,1438106838,83.2652,Germany,sw
+761,Qt Group,QTCOM.HE,1432202365,56.4055,Finland,sw
+762,Wavestone SA,WAVE.PA,1422992733,57.5733,France,services
+763,ChemoMetec,CHEMM.CO,1422740685,81755,Denmark,biotech
+764,Italmobiliare,ITM.MI,1419160805,33.0492,Italy,food
+765,Salzgitter,SZG.F,1418678282,26.1824,Germany,#N/D
+766,HelloFresh,HFG.DE,1413260517,8.70256,Germany,food
+767,Electrica,ECEA.F,1409772245,14.0138,Romania,electricity
+768,Barco NV,BAR.BR,1395858018,16653,Belgium,manufacturing
+769,RHI Magnesita,RHF.F,1386424016,29.3122,Austria,#N/D
+770,Dole PLC,DOLE,1385573376,14.56,Ireland,food
+771,SeSa S.p.A.,SES.MI,1377132020,88462,Italy,services
+772,About You,YOU.DE,1374990565,7.82436,Germany,clothing
+773,PORR,ABS2.F,1369209713,34.8593,Austria,#N/D
+774,thyssenkrupp nucera,NCH2.DE,1369069500,10.7906,Germany,energy
+775,CompuGroup Medical,COP.DE,1369036614,26.4627,Germany,healthcare
+776,Caisse Régionale de Crédit Agricole Mutuel Alpes Provence,CRAP.PA,1368152289,172813,France,bank
+777,Intercos,ICOS.MI,1357176098,14.0838,Italy,#N/D
+778,Drägerwerk,DRW8.F,1346905604,64.9305,Germany,#N/D
+779,Fiskars,FSKRS.HE,1338282383,16583,Finland,#N/D
+780,Karnov Group,KAR.ST,1334331020,12.3691,Sweden,services
+781,B.F. S.p.A.,BFG.MI,1333422778,5.09167,Italy,food
+782,Compagnie des Alpes,CDA.PA,1332358478,26.2758,France,#N/D
+783,Sanlorenzo,SL.MI,1330059620,38.1292,Italy,manufacturing
+784,Siltronic,WAF.F,1325895248,43.9332,Germany,semiconductor
+785,Caisse régionale de Crédit Agricole Mutuel Atlantique Vendée,CRAV.PA,1321658826,175172,France,bank
+786,Alma Media,ALMA.HE,1321213973,16.0575,Finland,#N/D
+787,Juventus Turin,JUVE.MI,1321104852,3.46374,Italy,#N/D
+788,Nokian Tyres,TYRES.HE,1313833382,9.52937,Finland,#N/D
+789,Navitas Semiconductor,NVTS,1309627776,6.1454,Ireland,semiconductor
+790,Puuilo,PUUILO.HE,1307139204,15.4969,Finland,retail
+791,Befesa,BFSA.DE,1298654402,32.1616,Luxembourg,#N/D
+792,Électricite de Strasbourg,ELEC.PA,1293499723,179.26,France,electricity
+793,Eckert &amp; Ziegler,EUZ.F,1288896177,20.6003,Germany,#N/D
+794,Ramsay Générale de Santé,GDS.PA,1288823978,11.6782,France,healthcare
+795,Modern Times Group (MTG),MTG-B.ST,1287414597,10.4378,Sweden,entertainment
+796,Criteo,CRTO,1287254016,24.6,France,tech
+797,Northern Data AG,NB2.DE,1283457037,19.9112,Germany,tech
+798,VIEL &amp; Cie,VIL.PA,1276667192,19.9112,France,investment
+799,Adtran Networks,ADV.DE,1276590509,24.5241,Germany,telecommunication
+800,Evotec,EVO,1260952960,3.55,Germany,biotech
+801,Cosmo Pharmaceuticals,C43.F,1256423819,78.8275,Ireland,biotech
+802,engcon AB,ENGCON-B.ST,1253631992,8.22145,Sweden,manufacturing
+803,AMS-Osram,AMS.SW,1253070816,12.5843,Austria,manufacturing
+804,Tarkett,TKTT.PA,1251247615,19.0938,France,#N/D
+805,PNE AG,PNE3.DE,1248840384,16.3027,Germany,electricity
+806,Comer Industries,COM.MI,1243526134,43.4427,Italy,manufacturing
+807,Cembre S.p.A.,CMB.MI,1240992144,71.9374,Italy,manufacturing
+808,Yubico,YUBICO.ST,1237313739,14.3163,Sweden,tech
+809,Prosegur Cash,CASH.MC,1229571473,0.839659,Spain,transportation
+810,Altri,ALTR.LS,1228922504,5.87411,Portugal,#N/D
+811,Sedlmayr Grund und Immobilien AG,SPB.F,1226251291,1669.98,Germany,real_state
+812,Grupa Pracuj,GPP.WA,1220115682,17.8732,Poland,services
+813,Lenzing,LEN.F,1219925583,31.5894,Austria,manufacturing
+814,Rusta AB,RUSTA.ST,1218746194,7.96816,Sweden,retail
+815,OCI,OCI.AS,1217396077,5.76667,Netherlands,#N/D
+816,Curevac,CVAC,1215934208,5.4,Germany,biotech
+817,Biotage AB,BIOT.ST,1209834079,15.1131,Sweden,biotech
+818,Polenergia,PEP.WA,1204725595,15.6014,Poland,electricity
+819,Elvalhalcor Hellenic Copper and Aluminium Industry,ELHA.AT,1198720454,3.19981,Greece,#N/D
+820,Mercialys,MERY.PA,1192653197,12.6591,France,investment
+821,GasLog,GLOP-PA,1188540672,25.9,Greece,oil_gas
+822,Corticeira Amorim,COR.LS,1188073643,8817,Portugal,#N/D
+823,OVS S.p.A.,OVS.MI,1180762710,4.83709,Italy,clothing
+824,Corbion,CRBN.AS,1179905216,20.2032,Netherlands,food
+825,Neurones,NRO.PA,1173161187,47.8804,France,services
+826,Telia Lietuva,ZWS.F,1170261866,1.95025,Lithuania,telecommunication
+827,Banco di Desio e della Brianza,BDB.MI,1163846022,8.70022,Italy,bank
+828,LuxExperience,LUXE,1163270144,8.53,Germany,clothing
+829,Jenoptik,JEN.F,1159735014,20.2616,Germany,#N/D
+830,Trustpilot Group,TRST.L,1159065994,2.83958,Denmark,internet
+831,CTT - Correios De Portugal,CTT.LS,1155332444,8.61847,Portugal,#N/D
+832,Caisse Régionale de Crédit Agricole Mutuel Sud Rhône Alpes,CRSU.PA,1147738695,251139,France,bank
+833,eDreams ODIGEO,EDR.MC,1147114465,10.1483,Spain,#N/D
+834,Retail Estates NV,RET.BR,1138636240,76.7254,Belgium,investment
+835,Hypoport,HYQ.F,1133678874,169333,Germany,financial
+836,Altareit,AREIT.PA,1133216307,648137,France,real_state
+837,Creades AB,CRED-A.ST,1131921890,8.33755,Sweden,investment
+838,Bilia AB,BILI-A.ST,1130159352,12.2108,Sweden,retail
+839,Inwido AB,INWI.ST,1129958771,19493,Sweden,#N/D
+840,Derichebourg,DBG.PA,1123954282,7.00689,France,#N/D
+841,Mips AB,MIPS.ST,1123924600,42.4265,Sweden,#N/D
+842,X-FAB,XFAB.PA,1116327647,8.32068,Belgium,semiconductor
+843,Jumia,JMIA,1116250240,9115,Germany,ecommerce
+844,Zeal Network,TIMA.F,1116232577,52902,Germany,internet
+845,EL.En. S.p.A. (Elen Group),ELN.MI,1114190826,13.9204,Italy,#N/D
+846,Scandinavian Tobacco Group,STG.CO,1111216871,14.1135,Denmark,#N/D
+847,BASSAC,BASS.PA,1107129973,66.5655,France,real_state
+848,Frey SA,FREY.PA,1102763354,34.5673,France,investment
+849,Kinepolis Group,KIN.BR,1094870494,40.5816,Belgium,entertainment
+850,Voltalia,VLTSA.PA,1088878874,8.17471,France,electricity
+851,Ferretti,F3T1.F,1085879551,3.13208,Italy,manufacturing
+852,Avio S.p.A.,AVIO.MI,1076150027,41.2823,Italy,#N/D
+853,TF Bank AB,TFBANK.ST,1072586216,16.5907,Sweden,bank
+854,GL Events SA,GLO.PA,1063573276,36.1439,France,#N/D
+855,Wild Bunch,WBAH.F,1062504491,44377,Germany,entertainment
+856,Aedas Homes,AEDAS.MC,1062030639,24.5825,Spain,#N/D
+857,Plejd AB,PLEJD.ST,1060625729,94.8792,Sweden,#N/D
+858,GVS S.p.A.,GVS.MI,1059046114,5.45954,Italy,#N/D
+859,Lectra SA,LSS.PA,1054481135,27.3269,France,sw
+860,Develia,DVL.WA,1053869384,2.27452,Poland,real_state
+861,D/S Norden (Dampskibsselskabet Norden),DNORD.CO,1049935011,36.1756,Denmark,transportation
+862,Kempower,KEMPOWR.HE,1043143576,18.8369,Finland,manufacturing
+863,Einhell Germany,EIN.DE,1041148814,91.6735,Germany,manufacturing
+864,Vetoquinol,VETO.PA,1038975541,88.0533,France,biotech
+865,Navigo Invest,NAVIGO-STAM.ST,1038646691,0.236406,Sweden,investment
+866,Spadel,SPA.BR,1027530281,247577,Belgium,#N/D
+867,MBB SE,MBB.DE,1022306542,191755,Germany,#N/D
+868,Fnac Darty,FNAC.PA,1018298825,34.8593,France,retail
+869,Atos,ATO.PA,1016211332,52.0262,France,services
+870,Volati AB,VOLO.ST,1015997286,11.4404,Sweden,investment
+871,atai Life Sciences,ATAI,1008460288,4705,Germany,biotech
+872,Worldline,WLN.PA,1001116286,3.37382,France,financial
+873,AMAG Austria Metall,AM8.F,1000753721,28.1443,Austria,#N/D
+874,Pharming Group,PHAR,1000316096,14.6,Netherlands,biotech
+875,Arjo AB,ARJO-B.ST,998044992,3.6643,Sweden,healthcare
+876,GAG Immobilien,GWK3.HM,989940464,61.3103,Germany,real_state
+877,MedCap,MCAP.ST,978577212,65.2228,Sweden,biotech
+878,Cloetta,CLA-B.ST,978482649,3.41312,Sweden,food
+879,EuroTeleSites,ETS.VI,973896368,5.86243,Austria,telecommunication
+880,Ponsse,PON1V.HE,967726119,34.5673,Finland,#N/D
+881,Newag,NWG.WA,966878393,21.4862,Poland,manufacturing
+882,Samhällsbyggnadsbolaget i Norden,SBB-B.ST,966856643,0.516928,Sweden,real_state
+883,Asseco South Eastern Europe,ASE.WA,957346685,18448,Poland,services
+884,Savencia Fromage &amp; Dairy,SAVE.PA,955565596,73.1052,France,food
+885,Montepino Logística,MLMTP.PA,953971762,11.0942,Spain,investment
+886,Mensch und Maschine,MUM.F,953211505,56.4639,Germany,sw
+887,Caisse Régionale de Crédit Agricole Mutuel Loire Haute-Loire,CRLO.PA,951203087,118533,France,bank
+888,Crédit Agricole Mutuel de la Touraine et du Poitou,CRTO.PA,946262762,145673,France,bank
+889,Renta 4 Banco,R4.MC,945690402,23.2395,Spain,financial
+890,Salvatore Ferragamo,SFER.MI,945343683,5.70594,Italy,#N/D
+891,Bergman &amp; Beving,BERG-B.ST,942152692,35.1971,Sweden,#N/D
+892,BKS Bank,BKS.VI,939492275,20.5535,Austria,bank
+893,Rhön-Klinikum,RHK.DE,938061450,14.0138,Germany,healthcare
+894,Paul Hartmann,PHH2.F,937397234,263926,Germany,manufacturing
+895,SMA Solar Technology,S92.F,936895952,26.9999,Germany,energy
+896,AT&amp;S Austria Technologie &amp; Systemtechnik,ATS.VI,936882498,24.1154,Austria,semiconductor
+897,Sto SE &amp; Co. KGaA,STO3.DE,935045684,145.51,Germany,#N/D
+898,Sipef,SIP.BR,934341482,88.5204,Belgium,#N/D
+899,Admie Holding,ADMIE.AT,923021711,3.98225,Greece,#N/D
+900,JOST Werke SE,JST.DE,904823080,60.7264,Germany,manufacturing
+901,Frequentis,FQT.VI,902334531,67.9668,Austria,tech
+902,MLP SE,MLP.DE,900741594,8.24477,Germany,financial
+903,Grenke,GLJ.F,890471325,20.1565,Germany,financial
+904,Voyageurs du Monde,ALVDM.PA,889684759,193857,France,#N/D
+905,Aktia Bank,AKTIA.HE,887525740,12.1219,Finland,bank
+906,Troax Group AB,TROAX.ST,886764490,14.8176,Sweden,manufacturing
+907,Nürnberger Versicherung,NBG6.F,885222248,74.9737,Germany,insurance
+908,Synsam,SYNSAM.ST,884598144,6.12124,Sweden,#N/D
+909,Synergie SE,SDG.PA,883866238,38.6547,France,services
+910,uniQure,QURE,882259776,16.08,Netherlands,biotech
+911,YIT,YIT.HE,880780590,3.81876,Finland,#N/D
+912,Placoplatre,MLPLC.PA,876749106,671494,France,#N/D
+913,Pierre et Vacances,VAC.PA,875863584,1.87084,France,#N/D
+914,Cancom,COK.F,874337390,27.6188,Germany,services
+915,Zignago Vetro,ZV.MI,868879116,9.69286,Italy,#N/D
+916,Séché Environnement,SCHP.PA,864105985,107439,France,#N/D
+917,AmRest,EAT.MC,863994398,3.99393,Spain,food
+918,Caisse régionale de Crédit Agricole Mutuel d'Ille-et-Vilaine,CIV.PA,860594244,136634,France,bank
+919,Deutsche Pfandbriefbank,PBB.DE,859019319,6.38795,Germany,bank
+920,Inventiva,IVA,855219008,6.15,France,biotech
+921,Logistea AB,LOGI-A.ST,855003849,1.65696,Sweden,real_state
+922,Adecoagro,AGRO,851587200,8.51,Luxembourg,#N/D
+923,Manitou Group,MTU.PA,850887739,22.2352,France,manufacturing
+924,DFDS A/S,DFDS.CO,850779941,15.7564,Denmark,transportation
+925,GH Research,GHRS,850423104,13.71,Ireland,biotech
+926,Harvia Oyj,HARVIA.HE,844702169,45.1944,Finland,#N/D
+927,Piaggio,PIA.MI,844051556,2.36599,Italy,manufacturing
+928,Agrana,AGR.VI,842868120,13.4883,Austria,food
+929,Thermador Groupe,THEP.PA,831047141,89.5714,France,#N/D
+930,Equasens,EQS.PA,818803208,53.7195,France,healthcare
+931,NEUCA,NEU.WA,809055302,180374,Poland,#N/D
+932,Ascopiave,ASC.MI,805020076,3.70197,Italy,energy
+933,Scanfil,SCANFL.HE,803901814,12.3088,Finland,manufacturing
+934,Momentum Group AB,MMGR-B.ST,801403042,16.2107,Sweden,#N/D
+935,Verbio,VBK.F,798595337,12.4723,Germany,#N/D
+936,ENCE Energía y Celulosa,ENC.MC,798356766,3.29324,Spain,energy
+937,Bénéteau,BEN.PA,795400045,9.87971,France,manufacturing
+938,Südwestdeutsche Salzwerke,SSH.F,791467667,75.3241,Germany,food
+939,Burelle,BUR.PA,790208669,446105,France,investment
+940,Nagarro,NA9.DE,790008589,59.7337,Germany,services
+941,Tinexta,TNXT.MI,788362661,17.1085,Italy,services
+942,Better Collective A/S,BETCO-DKK.CO,783737625,13.0104,Denmark,entertainment
+943,Citycon,CTY1S.HE,780323684,4.25085,Finland,investment
+944,2G Energy AG,2GB.DE,777267260,43.3259,Germany,manufacturing
+945,Musti Group,MUSTI.HE,772019604,23.1227,Finland,#N/D
+946,TomTom,TOM2.AS,770917784,6.23029,Netherlands,tech
+947,CEWE,CWC.F,769985700,111877,Germany,ecommerce
+948,Société de la Tour Eiffel,EIFF.PA,768140066,5.73397,France,#N/D
+949,Groupe CRIT,CEN.PA,767753959,72.8717,France,services
+950,Finnair,FIA1S.HE,767697231,3.74869,Finland,transportation
+951,Audax Renovables,ADX.MC,767682507,1.70034,Spain,electricity
+952,Elior Group,ELIOR.PA,765832838,2.96859,France,food
+953,Valneva SE,VALN,764034240,8.87,France,biotech
+954,Archicom,ARH.WA,763720129,13.0559,Poland,real_state
+955,Ålandsbanken,ALBAV.HE,762646067,49.8657,Finland,bank
+956,Patrizia Immobilien,P1Z.VI,762290752,8817,Germany,real_state
+957,MilDef Group,MILDEF.ST,757302421,16.0735,Sweden,#N/D
+958,Asseco Business Solutions,ABS.WA,749724076,22.7179,Poland,sw
+959,Kri-Kri Milk Industry,KRI.AT,748720405,22.7023,Greece,food
+960,Revenio,REG1V.HE,747170518,28086,Finland,#N/D
+961,Olvi plc,OLVAS.HE,733861837,35.4432,Finland,#N/D
+962,Jastrzebska Spólka Weglowa,JSW.WA,730147330,6.21868,Poland,energy
+963,MARR S.p.A.,MARR.MI,727803100,11.3044,Italy,food
+964,Caisse Régionale de Crédit Agricole du Morbihan,CMO.PA,719596406,130795,France,bank
+965,Mühlbauer Holding,MUB.DE,719285487,50.6832,Germany,tech
+966,Energiekontor,EKT.DE,718027087,51.5006,Germany,electricity
+967,Mutares,MUX.DE,715515892,33.5163,Germany,investment
+968,Auto Partner,APR.WA,715038432,5.47419,Poland,#N/D
+969,Safilo Group,SFL.MI,713952328,1.78676,Italy,#N/D
+970,Oeneo,SBT.PA,710665032,11.0942,France,#N/D
+971,Bahnhof AB,3B7.F,707366001,6.45802,Sweden,telecommunication
+972,Aubay,AUB.PA,699992361,53.9531,France,services
+973,Exmar,EXM.BR,699021038,11.9117,Belgium,energy
+974,Atal S.A.,1AT.WA,697866264,16.1489,Poland,real_state
+975,Mersen,MRN.PA,693847374,28.2611,France,manufacturing
+976,Stabilus,STM.DE,692280746,28.0276,Luxembourg,manufacturing
+977,Recticel,RECT.BR,689731807,12.0986,Belgium,#N/D
+978,Klöckner &amp; Co,KCO.DE,689618127,6.91346,Germany,#N/D
+979,EuroGroup Laminations,EGLA.MI,688416156,4.23216,Italy,manufacturing
+980,PIERER Mobility,PKTM.VI,680429348,20.1331,Austria,#N/D
+981,Gielda Papierów Wartosciowych w Warszawie,GPW.WA,677799661,16.1489,Poland,financial
+982,Globe Trade Centre,GTC.WA,675869594,1.17695,Poland,real_state
+983,Jensen-Group,JEN.BR,675588577,71.4703,Belgium,manufacturing
+984,Sygnity,SGN.WA,673675154,29.6975,Poland,services
+985,Kaufman &amp; Broad,KOF.PA,672183639,33925,France,real_state
+986,ADS-TEC Energy,ADSE,667132224,12165,Ireland,electricity
+987,Obrascón Huarte Lain,OHLA.MC,665958905,0.481724,Spain,#N/D
+988,Abivax,ABVX,665080000,10,France,biotech
+989,Indus Holding,INH.F,660035822,26.3342,Germany,investment
+990,Rosetti Marino,YRM.MI,656779019,169333,Italy,#N/D
+991,Tsakos Energy Navigation,TEN,656480448,21.79,Greece,energy
+992,Groupe Guillin,ALGIL.PA,655265606,35268,France,#N/D
+993,IDI,IDIP.PA,654946465,91.7903,France,investment
+994,NRJ Group,NRG.PA,649228619,8.38491,France,entertainment
+995,Immatics,IMTX,646699200,5.32,Germany,biotech
+996,Nexa Resources,NEXA,642329152,4.85,Luxembourg,#N/D
+997,Miquel y Costas &amp; Miquel,MCM.MC,642109843,16.9917,Spain,#N/D
+998,Laurent-Perrier,LPE.PA,640661378,108373,France,#N/D
+999,Autohellas,OTOEL.AT,639707320,13.3131,Greece,#N/D
+1000,Arnoldo Mondadori Editore,MN.MI,636294311,2.44073,Italy,#N/D
+1001,Tokmanni,TOKMAN.HE,635686823,10.8315,Finland,retail
+1002,adesso SE,ADN1.DE,635408490,99.2643,Germany,services
+1003,NTG Nordic Transport Group A/S,NTG.CO,634930925,29.2284,Denmark,transportation
+1004,ProCredit,PCZ.DE,634175128,10.7673,Germany,bank
+1005,Quadient,QDT.PA,632219701,18.7551,France,sw
+1006,eQ Oyj,EQV1V.HE,628627390,15.1816,Finland,investment
+1007,SNP Schneider-Neureither &amp; Partner,SHF.DE,628202418,86.1847,Germany,services
+1008,Attica Holdings,ATTICA.AT,627574974,2.58087,Greece,transportation
+1009,Nederman Holding,NMAN.ST,626513234,17836,Sweden,#N/D
+1010,Nexity,NXI.PA,622249588,10.6271,France,real_state
+1011,Waga Energy,WAGA.PA,621073103,25.0496,France,energy
+1012,RCS MediaGroup,RCS.MI,611427997,1.16548,Italy,#N/D
+1013,Boozt,BOOZT.ST,609369152,9.7887,Sweden,clothing
+1014,Credit Agricole Mutuel Toulouse 31,CAT31.PA,608724646,131963,France,bank
+1015,Evli,EVLI.HE,606217524,22.8892,Finland,investment
+1016,Viaplay Group,VPLAY-B.ST,605653276,0.13319,Sweden,entertainment
+1017,Ontex Group,ONTEX.BR,603378632,7.56744,Belgium,#N/D
+1018,Basler Aktiengesellschaft,BSL.DE,602528014,19.5959,Germany,#N/D
+1019,SMCP S.A.,SMCP.PA,600271795,7.66087,France,clothing
+1020,Norma Group,NOEJ.F,596838643,18.7318,Germany,manufacturing
+1021,Wiit S.p.A.,WIIT.MI,591426372,22.7724,Italy,sw
+1022,SÜSS MicroTec,SMHN.DE,589336898,30.8303,Germany,semiconductor
+1023,DATAGROUP SE,D6H.DE,585075924,70.6528,Germany,services
+1024,Fiera Milano,FM.MI,582221411,8.19806,Italy,#N/D
+1025,Xvivo Perfusion AB,XVIVO.ST,581772073,18.4692,Sweden,#N/D
+1026,cBrain,CBRAIN.CO,580971745,29.6978,Denmark,sw
+1027,WashTec AG,WSU.DE,578237872,43.2092,Germany,#N/D
+1028,PostNL,PNL.AS,575636915,1.12869,Netherlands,#N/D
+1029,TINC NV,TINC.BR,573007332,11.8183,Belgium,investment
+1030,Groupe SAMSE,SAMS.PA,569576086,168165,France,#N/D
+1031,Marimekko,MEKKO.HE,569506316,14.0371,Finland,clothing
+1032,Ellaktor,ELLAKTOR.AT,569240689,1.63494,Greece,#N/D
+1033,Sligro Food,SLIGR.AS,567649023,12.7292,Netherlands,food
+1034,Global Dominion Access,DOM.MC,564619505,3.77788,Spain,services
+1035,Oatly,OTLY,559840448,18.47,Sweden,food
+1036,Lindex Group,LINDEX.HE,556509487,3.3925,Finland,clothing
+1037,Rosenbauer International,ROS.VI,549129980,53.8363,Austria,manufacturing
+1038,Hamborner REIT,HABA.DE,544315892,6.69158,Germany,investment
+1039,Pharmanutra,PHN.MI,543774735,56.6974,Italy,biotech
+1040,GFT Technologies,GFT.DE,541090555,20.5535,Germany,services
+1041,Care Property Invest NV,CPINV.BR,537359189,14.5276,Belgium,investment
+1042,Nyab AB,NYAB.ST,537092296,0.754601,Sweden,#N/D
+1043,PSI Software,PSAN.DE,535378725,34.5673,Germany,sw
+1044,Synektik Spólka Akcyjna,SNT.WA,535068056,62.7342,Poland,#N/D
+1045,Tallink Grupp,T5N.F,534100257,0.692514,Estonia,transportation
+1046,Aramis Group,ARAMI.PA,532225587,6.4697,France,retail
+1047,Grupo Empresarial San José,GSJ.MC,530809784,8.16303,Spain,#N/D
+1048,Wirtualna Polska (WP Holding),WPL.WA,529735654,17.7911,Poland,ecommerce
+1049,Hanza AB,HANZA.ST,527732063,11.4826,Sweden,#N/D
+1050,Villeroy &amp; Boch,VIB3.DE,524437811,19.6777,Germany,manufacturing
+1051,RVRC Holding,RVRC.ST,522265592,4.90754,Sweden,clothing
+1052,Core Laboratories,CLB,520990112,11.11,Netherlands,#N/D
+1053,init innovation in traffic systems,IXX.DE,520732531,52.4349,Germany,#N/D
+1054,F.I.L.A. - Fabbrica Italiana Lapis ed Affini,FILA.MI,520400722,10.2184,Italy,#N/D
+1055,HOMAG Group,HG1.F,520307371,33.1659,Germany,manufacturing
+1056,Malteries Franco-Belges,MALT.PA,515503634,1039.36,France,#N/D
+1057,Aurelius Group,AR4.DE,513292829,19.24,Germany,investment
+1058,Hexatronic Group AB,HTRO.ST,510662929,2.48332,Sweden,manufacturing
+1059,SP Group A/S,SPG.CO,508583113,42.6378,Denmark,#N/D
+1060,Brunel International,BRNL.AS,508442782,10.1016,Netherlands,services
+1061,Formycon AG,FYB.DE,507467310,28.7282,Germany,biotech
+1062,Bittium,BITTI.HE,506008644,14.2473,Finland,#N/D
+1063,Verve Group SE,VER.ST,502189855,2.50971,Sweden,internet
+1064,Bpost,13B.F,501010657,2.49329,Belgium,#N/D
+1065,Schoeller-Bleckmann Oilfield Equipment,SBO.VI,498753318,31.6478,Austria,energy
+1066,Home Invest Belgium,HOMI.BR,497500635,24.9912,Belgium,investment
+1067,Addiko Bank,ZYE1.F,495513406,25.5751,Austria,bank
+1068,Nextensa,NEXTA.BR,494506133,48.9315,Belgium,investment
+1069,BHG Group AB,BHG.ST,492953472,2.75033,Sweden,ecommerce
+1070,Van de Velde,VAN.BR,491683646,36319,Belgium,clothing
+1071,MT Højgaard Holding,MTHH.CO,490020193,63.3699,Denmark,#N/D
+1072,Fiducial Real Estate,ORIA.PA,487706273,200864,France,real_state
+1073,John Mattson Fastighetsföretagen,JOMA.ST,486350088,6.41674,Sweden,real_state
+1074,Plastika Kritis,PLAKR.AT,486002384,17.7508,Greece,manufacturing
+1075,PlayWay,PLW.WA,484137160,73.3541,Poland,entertainment
+1076,Acinque,AC5.MI,483968891,2.4057,Italy,electricity
+1077,EPC Groupe,EXPL.PA,482399124,226556,France,#N/D
+1078,ATHEX  (Athens Stock Exchange),EXAE.AT,478311323,8.26813,Greece,financial
+1079,Fastned,FAST.AS,474146801,24.5241,Netherlands,electricity
+1080,Borussia Dortmund,BVB.F,471776977,4.25669,Germany,#N/D
+1081,Jacquet Metals,JCQ.PA,471173488,23.0527,France,#N/D
+1082,Raisio plc,RAIVV.HE,468773544,2.94289,Finland,food
+1083,Nilfisk Holding,NLFSK.CO,466887924,17.2116,Denmark,manufacturing
+1084,Instone Real Estate Group,INS.DE,463429884,10.6972,Germany,real_state
+1085,Auna,AUNA,462610848,6.2504,Luxembourg,healthcare
+1086,Viridien,VIRI.PA,460338818,63.7043,France,#N/D
+1087,TXT e-solutions,TXT.MI,458311080,35.56,Italy,services
+1088,Duni AB,DUNI.ST,454354932,9.66733,Sweden,#N/D
+1089,Patrimoine et Commerce SA,PAT.PA,454298617,28.6115,France,real_state
+1090,Seco S.p.A.,IOT.MI,452430524,3.41586,Italy,tech
+1091,Mirbud S.A.,MRB.WA,448988951,4.07827,Poland,#N/D
+1092,Medios AG,ILM1.DE,448566757,17307,Germany,biotech
+1093,Prothena,PRTA,441944288,8.21,Ireland,biotech
+1094,FACC AG,FACC.VI,440627819,9.6228,Austria,#N/D
+1095,"Amper, S.A.",AMP.MC,437677040,0.152517,Spain,#N/D
+1096,Campine,CAMB.BR,436178911,290786,Belgium,#N/D
+1097,Lumibird,LBIRD.PA,435795232,19.4441,France,#N/D
+1098,JDC Group AG,JDC.DE,435091741,33.5163,Germany,financial
+1099,Nanobiotix,NBTX,434423040,9.0654,France,biotech
+1100,Boiron,BOI.PA,433904717,24.6993,France,biotech
+1101,Uzin Utz,UZU.DE,432976183,85.8344,Germany,#N/D
+1102,Murapol S.A.,MUR.WA,432734520,10.6062,Poland,#N/D
+1103,Euroseas,ESEA,432482976,61725,Greece,transportation
+1104,MCI Capital Alternatywna Spólka Inwestycyjna,MCI.WA,432207947,8.23865,Poland,investment
+1105,Immobiliare Grande Distribuzione SIIQ,IGD.MI,431677797,3.91218,Italy,real_state
+1106,Talgo S.A.,TLGO.MC,429148627,3.49177,Spain,manufacturing
+1107,Viking Line Abp,VIK1V.HE,427812684,24.7577,Finland,transportation
+1108,Enento Group,ENENTO.HE,426782653,18.0311,Finland,services
+1109,IVU Traffic Technologies,IVU.DE,426063279,24.6409,Germany,sw
+1110,Avax S.A.,AVAX.AT,425237064,2.86699,Greece,#N/D
+1111,Delta Plus Group,ALDLT.PA,424731409,59325,France,#N/D
+1112,Greenyard,GREEN.BR,424085841,8.61847,Belgium,food
+1113,Cairo Communication,CAI.MI,423814347,3.12974,Italy,#N/D
+1114,Fonciere Inea,INEA.PA,417045542,38.5379,France,investment
+1115,BayWa,BYW.F,415782321,22.9476,Germany,#N/D
+1116,ASBISc Enterprises,ASB.WA,410457326,7.39563,Cyprus,#N/D
+1117,Ion Beam Applications,IBAB.BR,409958119,13.7101,Belgium,healthcare
+1118,STEICO SE,ST5.DE,406239011,28845,Germany,#N/D
+1119,Grenevia,GEA.WA,405819769,0.70617,Poland,manufacturing
+1120,Roche Bobois,RBO.PA,403118498,38.7715,France,retail
+1121,Brinova Fastigheter,BRIN-B.ST,400973294,1.74139,Sweden,real_state
+1122,STRATEC,SBS.F,399799773,31.4726,Germany,#N/D
+1123,Simona,SIM0.F,399392738,66.5655,Germany,#N/D
+1124,Selectirente,SELER.PA,398564243,95.7608,France,real_state
+1125,Marie Brizard Wine &amp; Spirits,MBWS.PA,395967994,3.48009,France,#N/D
+1126,ABO Energy,AB9.DE,395196377,42.8588,Germany,energy
+1127,illimity Bank,ILTY.MI,393787599,4.73899,Italy,bank
+1128,Text (LiveChat),TXT.WA,391869717,15.2182,Poland,sw
+1129,PharmaSGP,PSG.DE,389889638,33.8666,Germany,biotech
+1130,XANO Industri,XANO-B.ST,389344343,6.5645,Sweden,manufacturing
+1131,Ascencio,ASCE.BR,385144236,58.3908,Belgium,investment
+1132,Amadeus Fire,AAD.DE,381894235,70.3025,Germany,services
+1133,Shoper,SHO.WA,377334514,13.4118,Poland,ecommerce
+1134,Sidetrade,ALBFR.PA,375895141,266262,France,sw
+1135,kneat.com,FOBK.F,375764010,3.92386,Ireland,healthcare
+1136,PCC Rokita,PCR.WA,375491789,18.9133,Poland,#N/D
+1137,Neonode,NEON,373419520,22.25,Sweden,tech
+1138,A.L.A. società per azioni,ALA.MI,370148594,40.8735,Italy,#N/D
+1139,Oma Säästöpankki,OMASP.HE,370099042,11.1526,Finland,bank
+1140,LNA Santé,LNA.PA,369158960,35.3848,France,healthcare
+1141,Fastighets AB Trianon,TRIAN-B.ST,366601375,1.98835,Sweden,real_state
+1142,Toscana Aeroporti,TYA.MI,365154270,19.6193,Italy,#N/D
+1143,Stalprodukt,STP.WA,365046548,67.6062,Poland,#N/D
+1144,Linedata Services,LIN.PA,362381111,73.1052,France,services
+1145,Lubawa,LBW.WA,362152393,2.41001,Poland,#N/D
+1146,Byggmax Group,BMAX.ST,361332350,6.16345,Sweden,retail
+1147,Eagle Football Group,EFG.PA,359546964,2.19549,France,#N/D
+1148,TAKKT AG,TTK.DE,355904390,5.5588,Germany,#N/D
+1149,Alantra Partners,ALNT.MC,354777533,9.36588,Spain,financial
+1150,Incap Oyj,ICP1V.HE,354210292,12.0285,Finland,manufacturing
+1151,Aeroporto G. Marconi Bologna,ADB.MI,352688134,9.71622,Italy,#N/D
+1152,Acast AB,ACAST.ST,349706669,1.93136,Sweden,entertainment
+1153,Bang &amp; Olufsen A/S,BO.CO,349391209,2.42527,Denmark,#N/D
+1154,Green Landscaping Group,GREEN.ST,349117787,6.17401,Sweden,#N/D
+1155,Novabase,NBA.LS,348092661,9.22574,Portugal,services
+1156,ElringKlinger,ZIL2.DE,347765971,5.48873,Germany,manufacturing
+1157,WithSecure Oyj,WITH.HE,347463685,1.97594,Finland,sw
+1158,Intracom Holdings,INTRK.AT,346445612,4.17494,Greece,telecommunication
+1159,OVB Holding,O4B.DE,346171951,24.2906,Germany,financial
+1160,Bijou Brigitte,BIJ.DE,345936781,45.5448,Germany,#N/D
+1161,Relais Group Oyj,RELAIS.HE,344843145,19.0938,Finland,manufacturing
+1162,Infotel SA,INF.PA,339614735,48.4643,France,sw
+1163,Deceuninck,DECB.BR,338974735,2.45241,Belgium,manufacturing
+1164,F-Secure,FSECURE.HE,338616318,1.93857,Finland,sw
+1165,Celon Pharma,CLN.WA,337569559,6.26794,Poland,biotech
+1166,Econocom Group,ECONB.BR,336391939,2.06003,Belgium,services
+1167,Euroapi,EAPI.PA,336021863,3.52914,France,biotech
+1168,Nobia AB,NOBI.ST,334686813,0.497298,Sweden,#N/D
+1169,Brødrene A &amp; O Johansen,AOJ-B.CO,334476732,15.4904,Denmark,#N/D
+1170,Bourrelier Group,ALBOU.PA,333402482,53.7195,France,retail
+1171,Bredband2 i Skandinavien AB,BRE2.ST,329799037,0.344583,Sweden,telecommunication
+1172,Nordic Paper,NPAPER.ST,329063935,4.9181,Sweden,#N/D
+1173,Ecoener,ENER.MC,327130325,5.74565,Spain,electricity
+1174,EnviTec Biogas,ETG.DE,325163500,21.8965,Germany,energy
+1175,WCM Beteiligungs- und Grundbesitz,WCMK.DE,323079704,2.14695,Germany,real_state
+1176,Parken Sport (F.C. Copenhagen),PARKEN.CO,322377492,33.0149,Denmark,#N/D
+1177,SFC Energy AG,F3C.DE,321935958,18.5215,Germany,energy
+1178,The Italian Sea Group,TISG.MI,320606144,5.99089,Italy,manufacturing
+1179,Amarin Corporation,AMRN,319962912,15.47,Ireland,biotech
+1180,VIB Vermögen,VIH1.F,316533590,9.57608,Germany,investment
+1181,Immobel,IMMO.BR,316520772,30.1296,Belgium,real_state
+1182,Unimot,UNT.WA,315481133,38.4835,Poland,energy
+1183,Knowit,KNOW.ST,314703370,11.5248,Sweden,services
+1184,Semperit,SEM.VI,312817565,15205,Austria,manufacturing
+1185,Materialise NV,MTLS,311874816,5.28,Belgium,sw
+1186,Cereno Scientific,CRNO-B.ST,311643731,1.07016,Sweden,biotech
+1187,Koenig &amp; Bauer,SKB.DE,311468244,18.8485,Germany,#N/D
+1188,Parrot S.A.,PARRO.PA,310520781,9.66951,France,tech
+1189,Guerbet,GBT.PA,310387090,24.2906,France,biotech
+1190,Eisen- und Hüttenwerke,EIS.F,310358521,17634,Germany,#N/D
+1191,BAUER AG,B5A0.HM,309098009,7.18206,Germany,manufacturing
+1192,Eurocash,EUR.WA,305864465,2.19789,Poland,retail
+1193,ZE PAK SA,ZEP.WA,305343568,6.00792,Poland,electricity
+1194,Etteplan,ETTE.HE,305192667,12.0869,Finland,#N/D
+1195,Bank Ochrony Srodowiska,BOS.WA,302620698,3.25714,Poland,bank
+1196,Chargeurs,CRI.PA,301448092,12.4956,France,#N/D
+1197,Powersoft,PWS.MI,300638338,22.9476,Italy,#N/D
+1198,Ercros,ECR.MC,300053384,3.28156,Spain,#N/D
+1199,Inmobiliaria del Sur,ISUR.MC,299580055,16.3494,Spain,real_state
+1200,Bonduelle,BON.PA,298215094,9.29581,France,food
+1201,Eurobio Scientific,ALERS.PA,297059499,29.6041,France,biotech
+1202,Steyr Motors AG,4X0.DE,296899742,56.2887,Germany,manufacturing
+1203,Gaumont SA,GAM.PA,294663871,94593,France,entertainment
+1204,Equita Group,EQUI.MI,292274821,5.82156,Italy,financial
+1205,M1 Kliniken AG,M12.DE,292100452,15.5553,Germany,healthcare
+1206,Casino Guichard-Perrachon,CO.PA,288536000,0.698937,France,retail
+1207,StealthGas,GASS,288248960,7795,Greece,oil_gas
+1208,Baader Bank,BWB.DE,287780415,5.89747,Germany,bank
+1209,Datalogic S.p.A.,DAL.MI,286680296,5.2902,Italy,#N/D
+1210,Westwing Group,WEW.DE,285790308,14.7145,Germany,ecommerce
+1211,Funkwerk AG,FEW.F,284248213,35268,Germany,#N/D
+1212,DBV Technologies,DBVT,282373760,10.32,France,biotech
+1213,Sino AG,XTP.DE,281166060,120285,Germany,financial
+1214,Martifer SGPS,MAR.LS,280990196,2.69765,Portugal,#N/D
+1215,Cogelec SA,ALLEC.PA,279932417,33.7499,France,#N/D
+1216,MAX Automation,MXHN.DE,279353686,6.77333,Germany,investment
+1217,Mo-BRUK S.A.,MBR.WA,278837394,79.3757,Poland,#N/D
+1218,Ernst Russ,HXCK.DE,276187319,8.17471,Germany,transportation
+1219,Stillfront Group,SF.ST,275514597,0.531914,Sweden,entertainment
+1220,Esprinet,PRT.MI,273981512,5.52377,Italy,#N/D
+1221,Laboratorio Reig Jofre,RJF.MC,271843626,3.33995,Spain,biotech
+1222,Groupe Pizzorno Environnement,GPE.PA,271686690,70.3025,France,#N/D
+1223,eVISO S.p.A.,EVISO.MI,270722000,11.4212,Italy,#N/D
+1224,HMS Bergbau,HMU.DE,270567419,59.5586,Germany,energy
+1225,Neon Equity AG,D77.DE,270103096,6.13103,Germany,financial
+1226,SQLI SA,SQI.PA,264114197,56687,France,services
+1227,Groupe SFPI,SFPI.PA,262890951,2.81443,France,manufacturing
+1228,Admicom Oyj,ADMCM.HE,262776056,52.3765,Finland,sw
+1229,Burgenland Holding,BHD.VI,262758380,87.5861,Austria,electricity
+1230,Anora Group,ANORA.HE,262309622,3.88298,Finland,#N/D
+1231,Nexters,GDEV,262030704,14.4528,Cyprus,entertainment
+1232,Cellectis,CLLS,261677392,2.63,France,biotech
+1233,All for One Group,A1OS.DE,260719506,53.9531,Germany,services
+1234,Compagnie d'Entreprises CFE,CFEB.BR,259517665,10.3936,Belgium,#N/D
+1235,Bourse Direct,BSD.PA,259159996,5.0216,France,financial
+1236,The Platform Group,TPG.F,258512784,12.4372,Germany,sw
+1237,STINAG Stuttgart Invest,STG.F,257296706,17.2837,Germany,investment
+1238,KlaraBo Sverige,KLARA-B.ST,256983202,1.67384,Sweden,real_state
+1239,Hydratec Industries,HYDRA.AS,256235414,197361,Netherlands,#N/D
+1240,Generalfinance,GF.MI,256047611,20.0864,Italy,financial
+1241,Nueva Expresión Textil,NXT.MC,255996432,0.632956,Spain,clothing
+1242,Gofore Oyj,GOFORE.HE,255467477,16.2326,Finland,services
+1243,Compagnie Du Mont-Blanc,MLCMB.PA,252099536,261591,France,transportation
+1244,Surteco Group,SUR.DE,251698275,16.2326,Germany,#N/D
+1245,Neobo Fastigheter,NEOBO.ST,251357811,1.72872,Sweden,real_state
+1246,MotorK,MTRK.AS,251015187,5.25517,Italy,sw
+1247,Nyxoah,NYXH,249925888,6.4012,Belgium,#N/D
+1248,Solar A/S,SOLAR-B.CO,249684654,34.1884,Denmark,#N/D
+1249,Iberpapel Gestión,IBG.MC,248889783,22.8308,Spain,#N/D
+1250,Atrys Health,ATRY.MC,248204976,3.26988,Spain,healthcare
+1251,Alfen,ALFEN.AS,248029991,11.4096,Netherlands,electricity
+1252,Akwel SA,AKW.PA,247989724,9.34252,France,manufacturing
+1253,Enter Air,ENT.WA,247297997,14096,Poland,#N/D
+1254,Oryzon Genomics,ORY.MC,244858878,3.15894,Spain,biotech
+1255,"Prim, S.A.",PRM.MC,244384035,14.3641,Spain,healthcare
+1256,Biesse,BSS.MI,242874937,8817,Italy,manufacturing
+1257,ÖKOWORLD,VVV3.DE,242679623,34.4505,Germany,financial
+1258,Koskisen Oyj,KOSKI.HE,242547856,10.0666,Finland,#N/D
+1259,ALM Equity,ALM.ST,242250709,6.54339,Sweden,real_state
+1260,Italian Wine Brands,IWB.MI,240109589,25.6919,Italy,#N/D
+1261,Dala Energi,DE.ST,238953367,9.64622,Sweden,electricity
+1262,Hexaom,ALHEX.PA,237846195,33.9834,France,#N/D
+1263,Hawesko,HAW.DE,237095468,26.3926,Germany,#N/D
+1264,Allgeier,AEIN.DE,237070224,20.6119,Germany,services
+1265,Kendrion,KENDR.AS,236764350,15275,Netherlands,manufacturing
+1266,Bastide Le Confort Médical,BLC.PA,236549472,31.1223,France,#N/D
+1267,trivago,TRVG,234418416,3327,Germany,internet
+1268,ProQR,PRQR,234390384,2225,Netherlands,biotech
+1269,Olimpo Real Estate,YORE.MC,234122341,1.19117,Spain,real_state
+1270,Caltagirone Editore,CED.MI,233991303,2.13126,Italy,#N/D
+1271,Josef Manner &amp; Comp,MAN.VI,233960062,123788,Austria,food
+1272,Eleving Group,OT8.F,232522622,1.91522,Luxembourg,financial
+1273,Frauenthal Holding,FKA.VI,232376822,26.8597,Austria,#N/D
+1274,Bertrandt,BDT.DE,231783180,22.9359,Germany,#N/D
+1275,Árima Real Estate,ARM.MC,231170628,8.93378,Spain,real_state
+1276,Sporting Clube de Portugal,SCP.LS,231169227,1.14446,Portugal,#N/D
+1277,Dustin Group,DUST.ST,230220759,0.1696,Sweden,services
+1278,Austriacard Holdings,ACAG.VI,229994068,6.34124,Austria,services
+1279,United Bankers Oyj,UNITED.HE,229865048,21.0791,Finland,investment
+1280,Wawel,WWL.WA,229834462,177911,Poland,food
+1281,Deutsche Rohstoff,DR0.DE,229332188,47.3549,Germany,energy
+1282,Remedy Entertainment,REMEDY.HE,229067365,16.7932,Finland,entertainment
+1283,Serviceware,SJJ.DE,228687368,21.7798,Germany,sw
+1284,Bitcoin Group,ADE.DE,228541400,45.7083,Germany,investment
+1285,LPKF Laser &amp; Electronics,LPK.DE,228286891,9.31916,Germany,manufacturing
+1286,Lang &amp; Schwarz,LUS1.DE,228152060,24.1738,Germany,financial
+1287,2CRSI,AL2SI.PA,224832401,9.85636,France,tech
+1288,Flat Capital AB,FLAT-B.ST,224238543,2.29546,Sweden,investment
+1289,Creotech Instruments,CRI.WA,224222308,78.5546,Poland,tech
+1290,Atland SAS,ATLD.PA,223694052,51.7342,France,investment
+1291,Stille AB,STIL.ST,222853188,24.8016,Sweden,manufacturing
+1292,Pullup Entertainment,ALPUL.PA,221419597,26.6262,France,entertainment
+1293,Banque nationale de Belgique,BNB.BR,220483476,551209,Belgium,bank
+1294,Groupe Partouche,PARP.PA,219615818,22.7724,France,entertainment
+1295,Smartbroker Holding,SB1.DE,218511607,13.0211,Germany,financial
+1296,NoHo Partners,NOHO.HE,218234582,10.3702,Finland,food
+1297,Squirrel Media,SQRL.MC,218066492,2.4057,Spain,#N/D
+1298,UmweltBank,UBK.DE,216763565,6.00257,Germany,bank
+1299,Newron Pharmaceuticals,NWRN.SW,214577024,10.7509,Italy,biotech
+1300,Digital Bros,DIB.MI,214479580,14.7378,Italy,entertainment
+1301,Lubelski Wegiel Bogdanka,LWB.WA,213660874,6.28163,Poland,energy
+1302,Oriola,OKDBV.HE,213327213,1.17525,Finland,healthcare
+1303,Alan Allman Associates,AAA.PA,213001108,4.62455,France,services
+1304,Zumtobel Group,ZAG.VI,212850394,5.02744,Austria,manufacturing
+1305,Biotalys,BTLS.BR,211187276,5.62887,Belgium,#N/D
+1306,Aspo Oyj,ASPO.HE,210599613,6.70326,Finland,#N/D
+1307,Agfa-Gevaert,AGFB.BR,210284397,1.28226,Belgium,manufacturing
+1308,Digia Oyj,DIGIA.HE,208864259,7.82436,Finland,sw
+1309,Sabaf S.p.A.,SAB.MI,208591457,16.5246,Italy,manufacturing
+1310,Dexelance,DEX.MI,208159310,7.75429,Italy,#N/D
+1311,Innate Pharma,IPHA,207405056,2.19,France,biotech
+1312,Exacompta Clairefontaine,ALEXA.PA,206132057,182179,France,manufacturing
+1313,Vista Alegre Atlantis,VAF.LS,205573393,1.22621,Portugal,manufacturing
+1314,Byggmästare Anders J Ahlström,AJA-B.ST,205346203,28.1788,Sweden,investment
+1315,Carbios SAS,ALCRB.PA,204459653,12.1453,France,biotech
+1316,Civitanavi Systems,CNS.MI,203943037,6.64366,Italy,manufacturing
+1317,technotrans,TTR1.DE,203285111,29.4289,Germany,manufacturing
+1318,Genfit,GNFT,203106384,4.0619,France,biotech
+1319,ADM Hamburg,OEL.F,202874732,261591,Germany,#N/D
+1320,Verkkokauppa.com,VERK.HE,202108907,4.46105,Finland,ecommerce
+1321,Teixeira Duarte,TDSA.LS,201097747,0.478804,Portugal,#N/D
+1322,Pkp Cargo,PKP.WA,200918366,4.4861,Poland,transportation
+1323,Fountaine Pajot,ALFPC.PA,200505394,120285,France,manufacturing
+1324,lastminute.com,LMN.SW,199773347,18.8329,Netherlands,internet
+1325,Fabasoft,FAA.DE,199469757,18.5099,Austria,sw
+1326,Heidelberg Pharma,HPHA.DE,199199235,4.2742,Germany,#N/D
+1327,Knaus Tabbert AG,KTA.DE,198263039,19.1055,Germany,manufacturing
+1328,Roularta Media Group,ROU.BR,197106884,15.9991,Belgium,#N/D
+1329,TOYA S.A.,TOA.WA,195148835,2.63582,Poland,manufacturing
+1330,BEST S.A.,BST.WA,194884498,6.84273,Poland,financial
+1331,Latécoère S.A.,LAT.PA,192692412,0.0151816,France,#N/D
+1332,Azerion Group,AZRN.AS,192644990,1.57655,Netherlands,entertainment
+1333,Branicks Group,BRNK.DE,191469732,2.29125,Germany,investment
+1334,Solocal Group,LOCAL.PA,190106739,5.3194,France,#N/D
+1335,Diana Shipping,DSX,189292128,1635,Greece,transportation
+1336,Lafinca Global Assets,YLFG.MC,188019583,4.97489,Spain,investment
+1337,Emak S.p.A.,EM.MI,187880398,1.15263,Italy,#N/D
+1338,La Française de l'Energie,FDE.PA,187668640,34.4505,France,energy
+1339,029 Group,Z29.DE,186850404,37.3701,Germany,#N/D
+1340,UBM Development,UBS.VI,186739060,24.9912,Austria,real_state
+1341,Gobarto,GOB.WA,185663881,6.67851,Poland,food
+1342,Intred,ITD.MI,184902638,11.6314,Italy,internet
+1343,Visiativ SA,ALVIV.PA,184832369,40.1999,France,services
+1344,Quirin Privatbank,QB7.DE,184541587,4.25085,Germany,bank
+1345,Arctic Paper,ARP.ST,181905201,2.61208,Poland,#N/D
+1346,Talenom,TNOM.HE,181635839,3.99393,Finland,financial
+1347,Aumann AG,AAG.DE,180592373,12589,Germany,manufacturing
+1348,Vente-Unique.com,ALVU.PA,180235507,18.1011,France,ecommerce
+1349,Annehem Fastigheter,ANNE-B.ST,179868756,2.03267,Sweden,real_state
+1350,Fasadgruppen Group,FG.ST,178866717,3.32974,Sweden,#N/D
+1351,BICO Group,BICO.ST,178760943,2.53293,Sweden,biotech
+1352,Lhyfe SA,LHYFE.PA,178661236,3.72533,France,energy
+1353,Vitruvio Real Estate,YVIT.MC,178102086,18.5683,Spain,investment
+1354,Gefran,GE.MI,177457808,12.4956,Italy,#N/D
+1355,Precia S.A.,ALPM.PA,176067846,31.1807,France,manufacturing
+1356,SNGULAR,SNG.MC,174582796,3.29324,Spain,sw
+1357,LEWAG Holding,KGR.F,174252949,36.6694,Germany,#N/D
+1358,CM.com,CMCOM.AS,174155806,5.33691,Netherlands,telecommunication
+1359,The NAGA Group,N4G.DE,173982390,0.747402,Germany,financial
+1360,Sanok Rubber Company,SNK.WA,173806843,6.95222,Poland,manufacturing
+1361,WALLIX Group,ALLIX.PA,172905422,25.9255,France,sw
+1362,Cegedim SA,CGM.PA,172849908,12554,France,sw
+1363,Deezer,DEEZR.PA,172548986,1.37802,France,entertainment
+1364,MDxHealth,MDXH,172003120,3475,Belgium,biotech
+1365,Mediclin,MED.DE,171960762,3.62023,Germany,healthcare
+1366,Streamwide,ALSTW.PA,171619667,64697,France,sw
+1367,Detection Technology,DETEC.HE,171150299,11.6782,Finland,#N/D
+1368,Soltec Power Holdings,SOL.MC,169845784,1.86617,Spain,energy
+1369,Björn Borg,BORG.ST,168536989,6.7017,Sweden,clothing
+1370,Seanergy Maritime,SHIP,167637264,8.02,Greece,transportation
+1371,Aquafil,ECNL.MI,167052314,1.92456,Italy,#N/D
+1372,Inclusio,INCLU.BR,166875217,21.8965,Belgium,real_state
+1373,OSE Immunotherapeutics,OSE.PA,164942119,7.20542,France,biotech
+1374,Merkur PrivatBank,MBK.DE,161697705,20.7871,Germany,bank
+1375,Transgene SA,TNG.PA,161210324,1.21453,France,biotech
+1376,Dadelo,DAD.WA,160396362,13.7402,Poland,retail
+1377,Leifheit,LEI.DE,159920178,17.5172,Germany,#N/D
+1378,Ekopak,EKOP.BR,159857509,8.99218,Belgium,#N/D
+1379,OMER S.p.A.,OMER.MI,159847269,5.58216,Italy,manufacturing
+1380,Franchi Umberto Marmi,FUM.MI,159412244,4.84643,Italy,#N/D
+1381,NSE SA,ALNSE.PA,159349275,45.8951,France,#N/D
+1382,Gévelot SA,ALGEV.PA,158969278,211375,France,manufacturing
+1383,Selvita,SLV.WA,158258293,8.62185,Poland,biotech
+1384,Kulmbacher Brauerei,KUL.MU,156954339,46.7126,Germany,#N/D
+1385,Masterflex,MZX.DE,156692403,16291,Germany,manufacturing
+1386,Westag AG,WUG3.F,156547865,38.5379,Germany,manufacturing
+1387,Nicolás Correa,NEA.MC,156158123,12846,Spain,manufacturing
+1388,Bike24 Holding,BIKE.DE,155762813,3.50345,Germany,ecommerce
+1389,AGROB Immobilien,AGR.F,153723238,45.7783,Germany,real_state
+1390,Nightingale Health,HEALTH.HE,153321164,2.53416,Finland,healthcare
+1391,Brouwerij Handelsmaatschappij,COBH.BR,153275722,2043.68,Belgium,#N/D
+1392,Quercus TFI,QRS.WA,152946580,3.25714,Poland,financial
+1393,Bastei Lübbe,BST.DE,152302923,11538,Germany,entertainment
+1394,CBo Territoria,CBOT.PA,152144006,4.26252,France,real_state
+1395,Sloman Neptun,NEP.HM,151732450,75908,Germany,transportation
+1396,Lemonsoft,LEMON.HE,151337541,8.43162,Finland,sw
+1397,Texaf,TEXF.BR,150766779,40.4064,Belgium,investment
+1398,Unifiedpost Group,UPG.BR,150674352,4.05784,Belgium,sw
+1399,VITA 34,V3V.DE,150642673,8.64183,Germany,biotech
+1400,Answear.com,ANR.WA,149561727,7.88283,Poland,clothing
+1401,Arise AB,ARISE.ST,149362339,3.66219,Sweden,electricity
+1402,Sport Lisboa e Benfica,SLBEN.LS,149340185,6.49305,Portugal,#N/D
+1403,Easy Software,ESY.HM,148957590,23.1227,Germany,sw
+1404,Valsoia S.p.A.,VLS.MI,147797380,13.6634,Italy,food
+1405,Entech SA,ALESE.PA,147301787,9.71622,France,electricity
+1406,Bloober Team,6BO.SG,146556226,6.66822,Poland,entertainment
+1407,CI Games,CI7.F,146525611,0.750905,Poland,entertainment
+1408,Heliad AG,A7A.DE,146342255,17.4004,Germany,investment
+1409,clearvise AG,ABO.DE,146082140,1.93857,Germany,energy
+1410,Freelance.com SA,ALFRE.PA,145825165,2.58087,France,internet
+1411,Tele Columbus,TC1.HM,145485872,0.490482,Germany,telecommunication
+1412,Ten Square Games,TEN.WA,145006888,22.8547,Poland,entertainment
+1413,Fortinova Fastigheter AB,FNOVA-B.ST,142488992,2.77566,Sweden,real_state
+1414,Keyrus,ALKEY.PA,142232863,8.94546,France,services
+1415,Nabaltec,NTG.DE,139250263,15.8239,Germany,#N/D
+1416,Ambra,AMB.WA,137985660,5.47419,Poland,#N/D
+1417,q.beyond,QBY.DE,137338055,1.10242,Germany,services
+1418,Piquadro,PQ.MI,137010226,2.89618,Italy,#N/D
+1419,FCR Immobilien,FC9.DE,136016948,13.7802,Germany,real_state
+1420,GEOX,GEO.MI,135127549,0.36903,Italy,clothing
+1421,Schloss Wachenheim,SWA.DE,135036787,17.0501,Germany,#N/D
+1422,Vranken-Pommery Monopole,VRAP.PA,134918380,15.1816,France,#N/D
+1423,Brockhaus Technologies,BKHT.DE,134198688,12.7292,Germany,investment
+1424,Piscines Desjoyaux,ALPDX.PA,134155301,14948,France,#N/D
+1425,Naturhouse Health,NTH.MC,133718959,2.23053,Spain,food
+1426,NFON AG,NFN.DE,133448082,8.05792,Germany,sw
+1427,ADLPartner (Dékuple),DKUPL.PA,133121411,32.8156,France,#N/D
+1428,Sequans Communications,SQNS,132511808,0.9285,France,semiconductor
+1429,Orrön Energy,ORRON.ST,129446453,0.45276,Sweden,energy
+1430,Laiqon AG,LQAG.DE,128868098,6.09599,Germany,financial
+1431,R. Stahl AG,RSL2.DE,128604462,19.9696,Germany,manufacturing
+1432,Banca Profilo,PRO.MI,127299545,0.192689,Italy,bank
+1433,Deutsche Konsum REIT-AG,DKG.DE,127009675,2.52248,Germany,investment
+1434,Suominen,SUY1V.HE,126501741,2.18965,Finland,#N/D
+1435,Columbus Energy,CLC.WA,125744185,1.82838,Poland,#N/D
+1436,PCC Exol,PCX.WA,125353512,0.719856,Poland,#N/D
+1437,Altisource Portfolio,ASPS,124714432,11.3514,Luxembourg,financial
+1438,Dominion Hosting,DHH.MI,124424515,23.8234,Italy,internet
+1439,Llorente &amp; Cuenca,LLYC.MC,124375028,10.6855,Spain,services
+1440,Bulten AB,BULTEN.ST,123156396,5.86794,Sweden,manufacturing
+1441,Micro Systemation,MSAB-B.ST,122795086,6.64893,Sweden,sw
+1442,Gateway Real Estate,GTY.F,122575453,0.656312,Germany,real_state
+1443,Kapsch TrafficCom,KTCG.VI,121908210,8.52505,Austria,services
+1444,Fleury Michon,ALFLE.PA,121763289,29.3122,France,food
+1445,Catana Group,CATG.PA,121214843,3.89351,France,manufacturing
+1446,11 bit studios,11B.WA,120810050,49.9793,Poland,entertainment
+1447,centrotherm international,CTNK.F,120603191,5.69894,Germany,manufacturing
+1448,Reworld Media,ALREW.PA,120229247,2.17214,France,#N/D
+1449,Somec S.p.A.,SOM.MI,119888862,16.4662,Italy,#N/D
+1450,Beta Systems Software,BSS.F,118965519,25.8621,Germany,sw
+1451,Vitura SA,VTR.PA,117467393,6.89011,France,investment
+1452,Umbrella Solar Investment,USI.MC,117386848,5.44516,Spain,energy
+1453,MRM,MRM.PA,116992105,36549,France,investment
+1454,Sensorion,ALSEN.PA,116872704,0.378372,France,biotech
+1455,Fractal Gaming Group,FRACTL.ST,116787946,3.87854,Sweden,#N/D
+1456,Netfonds AG,NF4.DE,116459185,49.9825,Germany,financial
+1457,Clere AG,CAG0.HM,116411240,14948,Germany,electricity
+1458,SCHMID Group,SHMD,115863688,2.6906,Germany,manufacturing
+1459,Pekabex,PBX.WA,114499897,4612,Poland,#N/D
+1460,KHD Humboldt Wedag International,KWG.DE,114347888,2.3006,Germany,#N/D
+1461,Grammer AG,GMM.DE,114033335,7.64919,Germany,manufacturing
+1462,Procaps Group,PROC,113952240,1.01,Luxembourg,biotech
+1463,VIGO Photonics,VGO.WA,113734334,130012,Poland,manufacturing
+1464,Erbud,ERB.WA,113632374,9.52509,Poland,#N/D
+1465,Imperial Petroleum,IMPP,113102120,3.2864,Greece,oil_gas
+1466,Lokum Deweloper,LKD.WA,112823008,6.26794,Poland,real_state
+1467,Magnachip,MX,112262496,3125,Luxembourg,semiconductor
+1468,Wielton,WLT.WA,110718862,1.83385,Poland,manufacturing
+1469,Urbas Grupo Financiero,UBS.MC,110655509,0.00245241,Spain,real_state
+1470,CeoTronics,CEK.DE,110432092,13.8386,Germany,#N/D
+1471,Prime Office A/S,PRIMOF.CO,109868657,29.1032,Denmark,real_state
+1472,Aiforia Technologies Oyj,AIFORIA.HE,108886456,3.44505,Finland,sw
+1473,Enad Global 7,EG7.ST,108846644,1.22847,Sweden,entertainment
+1474,Bilendi SA,ALBLD.PA,108801168,23.5899,France,#N/D
+1475,Eurofins-Cerep,ALECR.PA,108384445,21487.8,France,biotech
+1476,Prodware,ALPRO.PA,108158917,14.0138,France,services
+1477,High Co.,HCO.PA,107882294,5.4537,France,#N/D
+1478,IO Biotech,IOBT,106727056,1.62,Denmark,biotech
+1479,Deoleo,OLE.MC,106563121,0.213126,Spain,food
+1480,Almawave,AIW.MI,106442602,3.55016,Italy,sw
+1481,Nexstim,NXTMH.HE,106115960,14.7729,Finland,#N/D
+1482,Ekinops,EKI.PA,105907453,3.88882,France,#N/D
+1483,Garo Aktiebolag,GARO.ST,105010863,2.10022,Sweden,electricity
+1484,Gascogne Groupe,ALBI.PA,104622446,2.7794,France,#N/D
+1485,Senzime AB,SEZI.ST,104365217,0.663838,Sweden,#N/D
+1486,Tubos Reunidos,TRG.MC,104164476,0.597921,Spain,#N/D
+1487,Mercor,MCR.WA,104100129,6.80415,Poland,#N/D
+1488,Møns Bank,MNBA.CO,103895293,51.9476,Denmark,bank
+1489,Ringmetall,HP3A.DE,103878473,3.57351,Germany,manufacturing
+1490,MGI Digital Technology,ALMDG.PA,103848044,16.5363,France,manufacturing
+1491,Elica S.p.A.,ELC.MI,103178970,1.73421,Italy,#N/D
+1492,Edel SE &amp; Co. KGaA,EDL.DE,102857457,4.83475,Germany,entertainment
+1493,Nacon,NACON.PA,102504739,0.913231,France,entertainment
+1494,PWO AG,PWO.DE,102183815,32.6988,Germany,manufacturing
+1495,CTEK AB,CTEK.ST,101472623,1.4501,Sweden,#N/D
+1496,Kamux,KAMUX.HE,100114231,2.5108,Finland,retail
+1497,Apetit Oyj,APETIT.HE,99850081,16.0575,Finland,food
+1498,Exasol AG,EXL.DE,99656579,3.74869,Germany,sw
+1499,Rottneros,RROS.ST,98626149,0.369385,Sweden,#N/D
+1500,Qrf,QRF.BR,97911592,12.4372,Belgium,investment
+1501,Prevas AB,PREV-B.ST,97774012,7.49324,Sweden,services
+1502,Mr.Bricolage,ALMRB.PA,96107944,9.36588,France,retail
+1503,ATARI,ALATA.PA,96067780,0.172837,France,entertainment
+1504,DATA MODUL,DAM.DE,95535883,27.0933,Germany,manufacturing
+1505,Guillemot Corporation,GUI.PA,95385870,6.51641,France,#N/D
+1506,SBF AG,CY1K.DE,95362514,9.51769,Germany,manufacturing
+1507,Daldrup &amp; Söhne,4DS.DE,94729586,15.8239,Germany,#N/D
+1508,ad pepper media International,APM.DE,93887573,4.2742,Germany,#N/D
+1509,Synthaverse,SVE.WA,92978771,1.31381,Poland,biotech
+1510,Athos Immobilien,ATH.VI,92484410,53.0188,Austria,real_state
+1511,Scandinavian Enviro Systems,SES.ST,91938557,0.0839032,Sweden,#N/D
+1512,Global Fashion Group,GFG.DE,91851034,0.407567,Luxembourg,clothing
+1513,Sogeclair,ALSOG.PA,91684457,29.7793,France,#N/D
+1514,Catering International &amp; Services,ALCIS.PA,91373313,11.7365,France,#N/D
+1515,BioPorto,BIOPOR.CO,91058742,0.20028,Denmark,#N/D
+1516,S.S. Lazio,SSL.MI,91028257,1.2554,Italy,#N/D
+1517,Unibep,UNI.WA,90731394,2.76446,Poland,#N/D
+1518,Cavatina Holding Spólka Akcyjna,CAV.WA,90471348,3.55822,Poland,real_state
+1519,Enapter AG,H2O.DE,90273559,2.94289,Germany,energy
+1520,Maisons du Monde,MDM.PA,90128292,2.32629,France,retail
+1521,Crossject,ALCJ.PA,89931174,1.77508,France,#N/D
+1522,Abitare In S.p.A.,ABT.MI,89768577,3.45673,Italy,real_state
+1523,Haulotte Group,PIG.PA,89726022,3048,France,manufacturing
+1524,Linz Textil,LTH.VI,89688194,298961,Austria,manufacturing
+1525,Creepy Jar,CRJ.WA,89394300,127822,Poland,entertainment
+1526,Delfingen Industry,ALDEL.PA,89233680,32.4653,France,manufacturing
+1527,MPH Health Care AG,93M1.DE,88749700,20.6703,Germany,healthcare
+1528,Vocento,VOC.MC,88304296,0.733388,Spain,#N/D
+1529,Ateme SA,ATEME.PA,87269219,7.54409,France,internet
+1530,Hoffmann Green Cement Technologies,ALHGR.PA,86851272,5.88579,France,#N/D
+1531,Wittchen,WTN.WA,86058032,4.65853,Poland,#N/D
+1532,Optomed,OPTOMED.HE,85916927,4.36763,Finland,#N/D
+1533,Hydrogène de France,HDF.PA,84898900,5.73397,France,energy
+1534,Nanoform Finland,NANOFS.ST,84528089,0.965678,Finland,biotech
+1535,Polytec Holding,PYT.VI,84252295,3.83043,Austria,manufacturing
+1536,OEX S.A.,OEX.WA,84244537,13.2621,Poland,services
+1537,Infant Bacterial Therapeutics AB,IBT-B.ST,84167724,6.24788,Sweden,biotech
+1538,SergeFerrari Group,SEFER.PA,83230364,7.28717,France,manufacturing
+1539,DEMIRE Deutsche Mittelstand Real Estate,DMRE.DE,83173281,0.788275,Germany,real_state
+1540,Heidmar Maritime Holdings,HMR,83167056,1.4287,Greece,transportation
+1541,AFYREN,ALAFY.PA,82752578,3.08303,France,#N/D
+1542,InflaRx,IFRX,81736888,1.2065,Germany,biotech
+1543,Groupe LDLC,ALLDL.PA,81595591,13.0795,France,ecommerce
+1544,Teract S.A.,TRACT.PA,81316586,1.10942,France,retail
+1545,KAP AG,IUR.F,81186108,10.4519,Germany,#N/D
+1546,ALBA SE,ABA.F,79586725,8.08808,Germany,#N/D
+1547,Mister Spex,MRX.F,79586594,2.33563,Germany,ecommerce
+1548,Poujoulat,ALPJT.PA,78559440,9.92643,France,manufacturing
+1549,G5 Entertainment,G5EN.ST,78322138,9.82564,Sweden,entertainment
+1550,ACTIA Group,ALATI.PA,77384478,3.85379,France,#N/D
+1551,mwb fairtrade AG,MWB0.DE,76799047,10.3352,Germany,financial
+1552,Vantiva,VANTI.PA,76724746,0.156487,France,tech
+1553,Nordwest Handel,NWX.F,75605517,23.5899,Germany,#N/D
+1554,InfraCom Group AB,INFRA.ST,75501297,2.17409,Sweden,services
+1555,Gigas Hosting,GIGA.MC,75388971,6.13103,Spain,internet
+1556,Artnet AG,ART.DE,75299068,13.1963,Germany,ecommerce
+1557,CDON AB,CDON.ST,75115590,6.98665,Sweden,ecommerce
+1558,Pricer AB,PRIC-B.ST,74931355,0.458565,Sweden,#N/D
+1559,Titanium Oyj,TITAN.HE,74792433,7.24045,Finland,financial
+1560,FRIWO,CEA.DE,74319748,8.64183,Germany,manufacturing
+1561,Affluent Medical SA,AFME.PA,73808787,1.78676,France,#N/D
+1562,Scherzer &amp; Co. AG,PZS.DE,73681878,2.70933,Germany,investment
+1563,CombinedX,CX.ST,73500252,3.80994,Sweden,services
+1564,Miko Group,MIKO.BR,73101483,58.8579,Belgium,#N/D
+1565,HiPay Group,ALHYP.PA,71847171,11.0709,France,financial
+1566,audius SE,3ITN.DE,71826598,14.4809,Germany,services
+1567,DocCheck,AJ91.DE,71695929,14.1306,Germany,healthcare
+1568,Infas Holding AG,IFS.F,71470279,7.94114,Germany,#N/D
+1569,McPhy Energy,MCPHY.PA,71172382,2.53774,France,energy
+1570,LumenRadio,LUMEN.ST,71035128,5.64631,Sweden,#N/D
+1571,Wallbox,WBX,70763024,4.1572,Spain,electricity
+1572,Smart Good Things Holding,MLSGT.PA,70186711,3.26988,France,food
+1573,Doxa AB,DOXA.ST,70142930,0.0545634,Sweden,investment
+1574,Genenta Science,GNTA,69501616,3.8,Italy,biotech
+1575,WASGAU Produktions &amp; Handels AG,MSH.F,69368212,10.5103,Germany,food
+1576,Moulinvest,ALMOU.PA,69094719,22.1885,France,#N/D
+1577,Sequana Medical,SEQUA.BR,68762331,1.17249,Belgium,#N/D
+1578,Gabriel Holding A/S,GABR.CO,68608446,36.3008,Denmark,#N/D
+1579,Nilörngruppen,NIL-B.ST,68485566,5.89961,Sweden,#N/D
+1580,SRP Groupe (Showroomprive.com),SRP.PA,67943955,0.575733,France,ecommerce
+1581,3U Holding,UUU.DE,67501016,1.83347,Germany,#N/D
+1582,Railcare Group AB,RAIL.ST,67215274,2.78622,Sweden,#N/D
+1583,Paref SA,PAR.PA,66877894,43.4427,France,investment
+1584,Schwälbchen Molkerei,SMB.F,66712423,51.6174,Germany,#N/D
+1585,Pattern S.p.A.,PTR.MI,66335528,4.55448,Italy,clothing
+1586,Bever Holding,BEVER.AS,65736074,3.26988,Netherlands,real_state
+1587,CGRE AG,LKB.DE,65164078,10.8607,Germany,investment
+1588,Icape Holding,ALICA.PA,64725989,8.19806,France,#N/D
+1589,EDAP TMS,EDAP,64688332,1.73,France,#N/D
+1590,YOC AG,YOC.DE,63943198,18.3931,Germany,internet
+1591,Wolford,WOL.VI,63864431,4.32092,Austria,clothing
+1592,Grupa Kapitałowa Immobile,GKI.WA,63594068,0.848499,Poland,investment
+1593,ORBIS AG,OBS.DE,63587491,6.71494,Germany,services
+1594,Captor Therapeutics,CTX.WA,62043651,11.2221,Poland,biotech
+1595,Tessellis,TSL.MI,62042448,0.155787,Italy,telecommunication
+1596,Acanthe Développement,ACAN.PA,61808862,0.367862,France,real_state
+1597,IBU-tec advanced materials AG,IBU.DE,60740979,12.7876,Germany,#N/D
+1598,Fernheizwerk Neukölln,FHW.F,59628635,25.9255,Germany,energy
+1599,Duro Felguera,MDF.MC,58927339,0.273853,Spain,#N/D
+1600,cyan AG,CYR.DE,58733416,2.70933,Germany,sw
+1601,BRAIN Biotech,BNN.DE,58681827,2.68597,Germany,biotech
+1602,Rapala VMC Corporation,RAP1V.HE,58339120,1.50064,Finland,manufacturing
+1603,Agile Content,AGIL.MC,58188154,2.54584,Spain,sw
+1604,Balco Group,BALCO.ST,58069029,2.52237,Sweden,#N/D
+1605,Dr. Hönle AG,HNL.DE,57765615,9.52937,Germany,manufacturing
+1606,Cantourage Group SE,HIGH.DE,57510947,4.61287,Germany,#N/D
+1607,Estoril Sol,ESON.LS,57126601,4.78804,Portugal,entertainment
+1608,Groupe Berkem,ALKEM.PA,57095719,3.24336,France,#N/D
+1609,Coheris SA,COH.PA,56968675,10.0199,France,sw
+1610,M2i Formation,ALMII.PA,56625164,9.86804,France,#N/D
+1611,Trophy Games,TGAMES.CO,56502817,2.10451,Denmark,entertainment
+1612,Francotyp-Postalia Holding AG,FPH.DE,55832223,3.57351,Germany,manufacturing
+1613,FORTEC Elektronik AG,FEV.DE,55799916,17.1669,Germany,#N/D
+1614,Hydrogen-Refueling-Solutions,ALHRS.PA,55793484,3.62023,France,energy
+1615,ecotel communication,E4C.DE,55508761,15.7655,Germany,telecommunication
+1616,Cabka,7GW.F,55249721,2.11958,Germany,manufacturing
+1617,Gentili Mosconi,GM.MI,55249329,2.90786,Italy,#N/D
+1618,Alcadon Group AB,ALCA.ST,54582653,2.22686,Sweden,#N/D
+1619,LUDWIG BECK am Rathauseck - Textilhaus Feldmeier,ECK.DE,54369964,14.7145,Germany,clothing
+1620,Forsee Power,FORSE.PA,53905071,0.461287,France,electricity
+1621,Netel Holding,NETEL.ST,53553901,1.10393,Sweden,#N/D
+1622,Fermentalg,ALGAE.PA,53448152,0.595586,France,biotech
+1623,Toro Corp.,TORO,53024328,2.78,Cyprus,oil_gas
+1624,MS Industrie,MSAG.DE,51727516,1.74004,Germany,investment
+1625,People Can Fly,PCF.WA,51153424,1.42329,Poland,entertainment
+1626,Wiener Privatbank,WPB.VI,50847096,10.16,Austria,bank
+1627,Prodways Group,PWG.PA,49660034,0.98181,France,#N/D
+1628,Artifex Mundi,ART.WA,48610988,4.08922,Poland,entertainment
+1629,IT Link SA,ALITL.PA,47771440,27.4437,France,services
+1630,OT Logistics,OTS.WA,47325491,3.61296,Poland,transportation
+1631,Hutter &amp; Schrantz Stahlbau AG,HST.VI,47154619,31531,Austria,#N/D
+1632,Müller - Die lila Logistik,MLL.DE,46918767,5.89747,Germany,transportation
+1633,Wolftank-Adisa Holding,WOLF.VI,46259928,8.75861,Austria,#N/D
+1634,LACROIX Group SA,LACR.PA,45931706,9.80965,France,manufacturing
+1635,SGT German Private Equity,GAI.DE,45690791,0.986804,Germany,investment
+1636,Elbstein AG,EBS.HM,45544786,1.51816,Germany,investment
+1637,SHW AG,SW10.HM,45097816,7.00689,Germany,manufacturing
+1638,edding AG,EDD3.F,44868943,41.8078,Germany,manufacturing
+1639,Touax SCA,TOUP.PA,44641107,6.39963,France,#N/D
+1640,Hvidbjerg Bank,HVID.CO,43639919,25.9738,Denmark,bank
+1641,Orapi SA,ORAP.PA,43596174,6.69206,France,#N/D
+1642,Berentzen-Gruppe,BEZ.DE,43551265,4.63623,Germany,#N/D
+1643,GORE German Office Real Estate,GAG.DE,43246897,0.842199,Germany,investment
+1644,RATH Aktiengesellschaft,RAT.VI,42041341,28.0276,Austria,#N/D
+1645,Dierig Holding AG,DIE.DE,41687456,10.16,Germany,#N/D
+1646,Delticom AG,DEX.DE,41568796,2.80276,Germany,ecommerce
+1647,Lava Therapeutics,LVTX,40904740,1555,Netherlands,biotech
+1648,GBK Beteiligungen AG,GBQ.HM,40596170,6.01425,Germany,investment
+1649,Softing AG,SYT.DE,40106907,4.04064,Germany,services
+1650,MAG Interactive,MAGI.ST,39566405,1.49337,Sweden,entertainment
+1651,Asetek,ASTK.CO,39132786,0.123454,Denmark,#N/D
+1652,Nanexa AB,NANEXA.ST,38253238,0.243794,Sweden,biotech
+1653,Hoftex Group AG,NBH.MU,38151115,7.00689,Germany,manufacturing
+1654,Adler Group,ADJ.DE,37362006,0.246409,Luxembourg,real_state
+1655,Mentice AB,MNTC.ST,37291979,1.4406,Sweden,sw
+1656,Hunyvers,ALHUN.PA,36639661,9.48266,France,retail
+1657,Halloren Schokoladenfabrik,H2RB.HM,36573839,6.18942,Germany,food
+1658,Netgem,ALNTG.PA,36345482,1.08607,France,entertainment
+1659,Graines Voltz,GRVO.PA,36302067,24.5241,France,#N/D
+1660,Mural Oncology,MURA,35775712,2065,Ireland,biotech
+1661,DATRON AG,DAR.DE,35134224,8.87539,Germany,manufacturing
+1662,PAL Next AG,PAL.DE,34967327,1.36634,Germany,entertainment
+1663,Varengold Bank AG,VG8.DE,33822668,3.36779,Germany,bank
+1664,Artmarket.com,PRC.PA,33406545,4.99825,France,#N/D
+1665,FC Porto,FCP.LS,33370165,1.48313,Portugal,#N/D
+1666,Poulaillon,ALPOU.PA,33127077,6.48137,France,food
+1667,Lilium,LILM,32897334,52,Germany,manufacturing
+1668,KPS AG,KSC.DE,32776539,0.79645,Germany,services
+1669,STS Group,SF3.DE,32690646,5.06832,Germany,manufacturing
+1670,Natuzzi,NTZ,32629650,2.9624,Italy,#N/D
+1671,genOway,ALGEN.PA,32275207,3.50345,France,biotech
+1672,Warimpex Finanz- und Beteiligungs AG,WXF.VI,32222551,0.618942,Austria,investment
+1673,SW Umwelttechnik Stoiser &amp; Wolschner AG,SWUT.VI,32217636,44377,Austria,#N/D
+1674,HWA AG,H9W.DE,32004919,3.26988,Germany,manufacturing
+1675,Starbreeze,STAR-B.ST,31966987,0.0191236,Sweden,entertainment
+1676,BigBen Interactive,BIG.PA,31491611,1.68399,France,entertainment
+1677,Iterum Therapeutics,ITRM,31291090,0.7007,Ireland,biotech
+1678,Innovatec,INC.MI,30917877,0.320565,Italy,energy
+1679,Aquaporin,AQP.CO,30500026,1.31121,Denmark,#N/D
+1680,GenSight Biologics,SIGHT.PA,29400787,0.188252,France,biotech
+1681,Trinity Biotech,TRIB,29065918,1.56,Ireland,biotech
+1682,Pyxis Tankers,PXS,28385332,2707,Greece,energy
+1683,Delignit AG,DLX.DE,28228497,2.75604,Germany,manufacturing
+1684,U10 Corp,ALU10.PA,28207635,1.64078,France,#N/D
+1685,SM Wirtschaftsberatungs AG,SMWN.DE,27952575,7.12367,Germany,investment
+1686,AURES Technologies,ALAUR.PA,27810461,7.0567,France,#N/D
+1687,CS Diagnostics,CSDX,27468000,0.2,Germany,#N/D
+1688,Wedia SA,ALWED.PA,27123623,31.7526,France,sw
+1689,Nebelhornbahn-Aktiengesellschaft,NHB0.MU,26841060,19.8529,Germany,transportation
+1690,All in! Games,ALG.WA,26494263,0.350348,Poland,entertainment
+1691,Top Ships,TOPS,26276816,5.68,Greece,oil_gas
+1692,Ebusco Holding,EBUS.AS,25564732,0.373934,Netherlands,manufacturing
+1693,Veganz Group,VEZ.DE,25330854,17.8676,Germany,food
+1694,Biosynex,ALBIO.PA,25291933,1.37218,France,#N/D
+1695,Turbo Energy,TURB,24898646,2.26,Spain,electricity
+1696,BoomBit,BBT.WA,24789749,1.81743,Poland,entertainment
+1697,Games Operators,GOP.WA,24143395,4.3903,Poland,entertainment
+1698,A.S. Création Tapeten,ACWN.DE,24141801,8.75861,Germany,#N/D
+1699,INTERSHOP Communications,ISHA.DE,24011494,1.64662,Germany,ecommerce
+1700,DF Deutsche Forfait AG,DFTK.DE,23877730,2.00864,Germany,financial
+1701,Performance Shipping,PSHG,23619936,1.8999,Greece,oil_gas
+1702,Pyramid AG,M3BK.DE,23436966,1016,Germany,services
+1703,hGears AG,HGEA.DE,23197478,2.23053,Germany,manufacturing
+1704,bet-at-home.com,ACX.DE,22784118,3.24653,Germany,internet
+1705,Forever Entertainment,8FE.SG,22077629,0.731052,Poland,entertainment
+1706,Passat SA,PSAT.PA,22042275,5.60551,France,#N/D
+1707,Muehlhan AG,M4N.HM,21917361,1.57655,Germany,energy
+1708,Kostad AG,KES.VI,21147836,0.852505,Austria,#N/D
+1709,Sporting Clube de Braga,SCB.LS,20880533,17.4004,Portugal,#N/D
+1710,Cherry SE,C3RY.DE,20852584,0.899218,Germany,#N/D
+1711,5th Planet Games,5PG.OL,20789676,0.0774639,Denmark,entertainment
+1712,Verimatrix,VMX.PA,20742331,0.235899,France,sw
+1713,Cliq Digital AG,CLIQ.DE,20420007,3.48593,Germany,entertainment
+1714,Geratherm Medical,GME.DE,19529247,3.60855,Germany,#N/D
+1715,Vivid Games,VVD.WA,18392811,0.331188,Poland,entertainment
+1716,VIA optronics AG,VIAO,17465854,0.2231,Germany,tech
+1717,Ultimate Games,ULG.WA,17321151,3.31188,Poland,entertainment
+1718,Gaming Corps,GCOR.ST,17038210,0.117148,Sweden,entertainment
+1719,Big Cheese Studio,BCS.WA,15392321,3.72245,Poland,entertainment
+1720,CR Energy,CRZK.DE,15374920,0.653976,Germany,investment
+1721,Brera Holdings,BREA,15091938,6.25,Ireland,#N/D
+1722,LL Lucky Games,LADYLU.ST,15065703,0.0525582,Sweden,entertainment
+1723,AHT Syngas Technology,3SQ1.DE,14727940,5.95586,Germany,energy
+1724,Predilife,ALPRE.PA,14331486,3.78372,France,#N/D
+1725,Moolec Science,MLEC,14268257,1.31,Luxembourg,food
+1726,Alligator Bioscience AB,ATORX.ST,14238978,0.40912,Sweden,biotech
+1727,Don't Nod Entertainment,ALDNE.PA,13934132,1.07205,France,entertainment
+1728,Bertelsmann SE & Co. KGaA,BTG.F,12765012,152.4,Germany,#N/D
+1729,Groupe OKwind,ALOKW.PA,12520778,1.51816,France,electricity
+1730,Manz AG,M5Z.DE,12485800,1.20763,Germany,#N/D
+1731,Groupe Airwell,ALAIR.PA,11632023,1.93273,France,#N/D
+1732,OceanPal,OP,10914676,0.0652,Greece,transportation
+1733,Gaming Factory,GIF.WA,10779632,1.77364,Poland,entertainment
+1734,Mauna Kea Technologies,ALMKT.PA,9770975,0.122387,France,#N/D
+1735,Fragbite Group,FRAG.ST,9378995,1.17675,Sweden,entertainment
+1736,Oncodesign Precision Medicine,ALOPM.PA,8532012,0.462455,France,biotech
+1737,Mainz Biomed,MYNZ,7598773,1.6599,Germany,biotech
+1738,Kalray,ALKAL.PA,7488825,0.618942,France,semiconductor
+1739,Witbe S.A.,ALWIT.PA,6935156,1.68165,France,sw
+1740,Brüder Mannesmann AG,BMM.F,6831718,1.51816,Germany,retail
+1741,Réalités,ALREA.PA,6095372,1.2846,France,real_state
+1742,ManyDev Studio,MAN.WA,5414746,0.189327,Poland,entertainment
+1743,Nitro Games,NITRO.ST,4082513,0.163796,Finland,entertainment
+1744,PunkPirates,PUN.WA,3942991,0.13,Poland,entertainment
+1745,Mynaric,M0YN.DE,3874750,0.613256,Germany,tech
+1746,Affimed,AFMD,2975202,0.1815,Germany,biotech
+1747,Qiiwi Games,QIIWI.ST,2967581,0.320837,Sweden,entertainment
+1748,Medigene AG,MDG1.DE,2321497,0.157522,Germany,biotech
+1749,Thunderful Group,THUNDR.ST,1879997,0.0252237,Sweden,entertainment
+1750,T-Bull,TBL.WA,1274986,1.07294,Poland,entertainment
+1751,Compleo Charging Solutions,C0M.F,1194142,0.0770758,Germany,electricity
+1752,Sporttotal AG,WIG1.DE,1179024,0.0332827,Germany,entertainment
+1753,Maximum Entertainment,8R7.F,1073658,0.0081747,Sweden,entertainment
+1754,Global Bioenergies,ALGBE.PA,724036,0.0377204,France,energy
+1755,Sozap,SOZAP.ST,586747,0.0263846,Sweden,entertainment
+1756,Esports Entertainment,GMBL,389633,0.34,Malta,entertainment
+1757,Qiwi,QIWI.ME,0,2.56,Cyprus,financial
+1758,X5 Retail Group,FIVE.ME,0,32.42,Netherlands,food

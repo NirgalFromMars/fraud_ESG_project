@@ -1,0 +1,694 @@
+Rank,company_id,Name,Symbol,marketcap,price (USD),country,sector
+1,1,SAP,SAP,320858980352,275.51,Germany,tech
+2,2,ASML,ASML,299657723904,762.1,Netherlands,tech
+3,3,LVMH,MC.PA,297706446197,599206,France,retail
+4,4,Prosus,PRX.AS,267383014457,61.1935,Netherlands,financial
+5,5,Herm�s,RMS.PA,260161734176,2481.61,France,retail
+7,6,Novo Nordisk,NVO,244676820992,55885,Denmark,biotech
+9,7,Deutsche Telekom,DTE.DE,179581326258,36646,Germany,tech
+10,8,Airbus,AIR.PA,165725681813,208595,Netherlands,manufacturing
+11,9,Allianz SE,ALV.DE,162811212535,422282,Germany,insurance
+12,10,Accenture,ACN,158930272256,255165,Ireland,services
+13,11,Inditex,ITX.MC,157719907952,50.6365,Spain,retail
+14,12,Santander,SAN,143371862016,9.64,Spain,bank
+16,13,Spotify,SPOT,141174603776,686053,Sweden,entertainment
+18,14,Schneider Electric,SU.PA,140560093048,249562,France,services
+20,15,TotalEnergies,TTE,135906107392,62205,France,energy
+21,16,Iberdrola,IBE.MC,126282497940,18.9011,Spain,energy
+23,17,Sanofi,SNY,121472409600,49805,France,biotech
+25,18,UniCredit,UCG.MI,119245624440,77.2626,Italy,bank
+27,19,Intesa Sanpaolo,ISP.MI,113881457280,6.31671,Italy,bank
+28,20,Banco Bilbao Vizcaya Argentaria,BBVA,105230393344,18.1645,Spain,bank
+29,21,Dior,CDI.PA,102604412981,568726,France,retail
+30,22,BNP Paribas,BNP.PA,101044068011,89805,France,bank
+31,23,AXA,CS.PA,99406127208,46.5958,France,insurance
+32,24,Investor AB,INVE-B.ST,94834685612,30965,Sweden,financial
+33,25,Enel,ENEL.MI,94616624593,9.30515,Italy,energy
+35,26,Siemens Energy,ENR.F,88214427803,107719,Germany,energy
+37,27,Ferrari,RACE,85109784576,477.56,Italy,manufacturing
+38,28,Munich RE (M�nchener R�ck),MUV2.DE,82519203582,636693,Germany,insurance
+41,29,Atlas Copco,ATCO-B.ST,75589717399,14.3374,Sweden,manufacturing
+43,30,ING,ING,71145111552,23935,Netherlands,bank
+44,31,Deutsche Bank,DB,70734282752,35.28,Germany,bank
+45,32,CaixaBank,CABK.MC,70022146329,9.94511,Spain,bank
+46,33,BMW,BMW.DE,64132798590,105314,Germany,manufacturing
+47,34,Volvo Group,VOLV-A.ST,62783077419,30.8173,Sweden,manufacturing
+48,35,Siemens Healthineers,SHL.DE,62044025132,55.3194,Germany,healthcare
+49,36,Mercedes-Benz,MBG.DE,60407806342,62735,Germany,manufacturing
+50,37,NXP Semiconductors,NXPI,60402974720,239585,Netherlands,tech
+51,38,Generali,G.MI,60088215020,39.1452,Italy,insurance
+52,39,Volkswagen,VOW3.DE,59841627496,117073,Germany,manufacturing
+53,40,Cr�dit Agricole,ACA.PA,55745579645,18323,France,bank
+54,41,Infineon,IFX.DE,55106090865,42.4092,Germany,tech
+56,42,Flutter Entertainment,FLUT,54372179968,309.36,Ireland,entertainment
+57,43,Compagnie de Saint-Gobain,SGO.PA,54311826571,109307,France,manufacturing
+58,44,Deutsche B�rse,DB1.DE,54299145856,296275,Germany,financial
+60,45,Danone,BN.PA,53607116537,82.9616,France,food
+61,46,ENI,E,53593763840,35.61,Italy,energy
+62,47,DSV,DSV.VI,53187997628,225.33,Denmark,transportation
+63,48,Adyen,ADYEN.AS,53081376303,1684.69,Netherlands,financial
+64,49,Universal Music Group,UMG.AS,52791532761,28.7866,Netherlands,entertainment
+65,50,Nordea Bank,NDA-FI.HE,52785209146,15.3217,Finland,bank
+66,51,DHL Group (Deutsche Post),DHL.DE,51587692382,45.5681,Germany,transportation
+67,52,ENGIE,ENGI.PA,50894735089,20.7871,France,energy
+68,53,Porsche,P911.DE,48960287508,54.0932,Germany,manufacturing
+70,54,Experian,EXPGF,47594668032,52.11,Ireland,financial
+71,55,Soci�t� G�n�rale,GLE.PA,47552264183,61.0767,France,bank
+72,56,KBC,KBCSF,47484030976,105.7,Belgium,insurance
+73,57,E.ON,EOAN.DE,47299707013,18.1011,Germany,energy
+75,58,UCB,UCB.VI,44276191242,233037,Belgium,biotech
+77,59,Commerzbank,CBK.F,43070906285,37.5686,Germany,bank
+78,60,Argenx,ARGX,42906025984,701.08,Netherlands,biotech
+79,61,Orange,ORA.PA,42689977805,16.0399,France,tech
+80,62,EQT,EQT.ST,42557165986,36.2525,Sweden,financial
+82,63,Dassault Syst�mes,DSY.PA,41608663458,31.5193,France,tech
+83,64,Legrand,LR.PA,40183539584,152.75,France,manufacturing
+86,65,Amadeus IT Group,AMS.MC,37181972307,84.6199,Spain,tech
+87,66,Erste Group Bank,EBO.F,37031418118,95.3521,Austria,bank
+88,67,Skandinaviska Enskilda Banken,SEB-A.ST,36723937757,18.4587,Sweden,bank
+89,68,Ahold Delhaize,AD.AS,36722455444,39.9977,Netherlands,food
+90,69,Daimler Truck,DTG.F,36494893776,47.3899,Germany,manufacturing
+91,70,Seagate Technology,STX,36478357504,171.52,Ireland,tech
+92,71,Talanx,TLX.DE,35584515559,137802,Germany,financial
+93,72,Adidas,ADS.DE,35384518062,198178,Germany,retail
+94,73,Hannover R�ck,HNR1.DE,35208745944,291954,Germany,insurance
+95,74,Danske Bank,DANS.VI,33881485044,41.2239,Denmark,bank
+96,75,Kering,KER.PA,33645095665,274437,France,retail
+98,76,?EZ Group,CEZ.PR,33472271407,62354,Czech Republic,energy
+99,77,Ryanair,RYAAY,33436934144,63.06,Ireland,transportation
+100,78,Exor,EXO.AS,32724892405,100666,Netherlands,financial
+102,79,KONE,KNEBV.HE,32244744866,62.2679,Finland,services
+103,80,Bayer,BAYN.DE,32038057826,32.6112,Germany,biotech
+104,81,Sandvik,SAND.ST,31958103018,25477,Sweden,manufacturing
+105,82,Endesa,ELE.MC,31821471600,30.5617,Spain,energy
+107,83,Swedbank,SWED-A.ST,31608255748,28.1155,Sweden,bank
+108,84,Maersk,MAERSK-B.CO,31349069190,2087.29,Denmark,transportation
+110,85,Sampo,SAMPO.HE,30833079005,11.4749,Finland,insurance
+112,86,Fresenius,FRE.DE,30493598429,54.1399,Germany,healthcare
+113,87,Naturgy,NTGY.MC,30472422448,31.7179,Spain,energy
+115,88,Telef�nica,TEF,30134679552,5345,Spain,tech
+116,89,Novozymes,NZYM.VI,30103084075,64.7437,Denmark,biotech
+118,90,Wolters Kluwer,WKL.AS,29339959522,127642,Netherlands,tech
+119,91,RWE,RWE.DE,29304442997,40.3597,Germany,energy
+120,92,Stellantis,STLA,28473636864,9605,Netherlands,manufacturing
+121,93,Vonovia,VNA.DE,27255546106,32.6171,Germany,real_estate
+122,94,Ericsson,ERIC,26351773696,7895,Sweden,tech
+124,95,EnBW Energie,EBK.DE,26065022630,80.3457,Germany,energy
+127,96,Svenska Handelsbanken,SHB-A.ST,25869058353,12.9126,Sweden,bank
+130,97,PKO Bank Polski,PKO.WA,25044407375,20.0355,Poland,bank
+131,98,Dassault Aviation,AM.PA,24995580608,316945,France,manufacturing
+132,99,PKN Orlen,PKN.WA,24842490324,21.3986,Poland,energy
+133,100,Verbund AG,OEWA.F,24809127224,71.2951,Austria,energy
+134,101,Hapag-Lloyd,HLAG.DE,24774297113,140955,Germany,transportation
+135,102,Cellnex Telecom,CLNX.MC,24705892525,36249,Spain,tech
+136,103,International Consolidated Airlines,BABWF,24685893632,5.33,Spain,transportation
+137,104,Epiroc,EPI-A.ST,24578368435,21.0919,Sweden,manufacturing
+138,105,Capgemini,CAP.PA,24537938826,144867,France,services
+139,106,BioNTech,BNTX,24503871488,101.93,Germany,biotech
+140,107,ABN AMRO,ABN.AS,24412662357,28.6815,Netherlands,bank
+141,108,ASM International,ASM.AS,24351258232,497956,Netherlands,tech
+146,109,H&M,HM-B.ST,23910709740,14.9126,Sweden,retail
+147,110,Publicis Groupe,PUB.PA,23192536994,92.4676,France,services
+148,111,Nokia,NOK,23049443328,4285,Finland,tech
+150,112,OTP Bank,OTP.BD,22567422804,87.5748,Hungary,bank
+153,113,Banco BPM,BAMI.MI,20991983347,13.6751,Italy,bank
+154,114,BPER Banca,BPE.MI,20774005161,10.3725,Italy,bank
+155,115,Snam,SRG.MI,20573756537,6.13336,Italy,energy
+156,116,Vestas Wind Systems,VWS.CO,20507457720,20.4974,Denmark,energy
+157,117,Terna,TRN.MI,20248052067,10.0899,Italy,energy
+158,118,Mediobanca,MB.MI,19871410683,24.2789,Italy,bank
+160,119,Banco Sabadell,SAB.MC,19143136571,3.81058,Spain,bank
+163,120,Tenaris,TS,18933975040,36295,Luxembourg,manufacturing
+165,121,EDP Group,EDP.F,18667815452,4.48324,Portugal,energy
+167,122,Repsol,REP.MC,18362533582,16.2735,Spain,energy
+168,123,NN Group,NN.AS,18251346531,68.6675,Netherlands,financial
+169,124,Uniper,UN0.DE,18238716041,43.7931,Germany,energy
+170,125,KPN,KPN.AS,18214929536,4.75067,Netherlands,tech
+171,126,OMV,OMV.F,18161806621,55.2377,Austria,energy
+172,127,Evolution Gaming,EVO.ST,18134659106,89.7711,Sweden,entertainment
+174,128,AIB Group (Allied Irish Banks),A5G.IR,17679385785,8.16887,Ireland,bank
+177,129,Industrivarden,INDU-A.ST,17206788493,39.8303,Sweden,financial
+178,130,W�rtsil�,WRT1V.HE,17090305358,29.0436,Finland,manufacturing
+180,131,Nebius Group (Yandex),NBIS,17078434816,71545,Netherlands,tech
+181,132,Euronext,ENX.PA,16862026184,165363,Netherlands,financial
+182,133,Knorr-Bremse,KBX.DE,16782646153,104111,Germany,manufacturing
+185,134,Investment AB Latour,LATO-B.ST,16335140987,25.5509,Sweden,financial
+187,135,bioM�rieux,BIM.PA,16277943182,137569,France,biotech
+188,136,Nemetschek,NEM.F,16105509857,138386,Germany,tech
+189,137,Moncler,MONC.MI,16049117508,59.0914,Italy,retail
+190,138,Tryg,TRYG.CO,15834042140,26.2555,Denmark,insurance
+191,139,Fortum,FORTUM.HE,15513247292,17.2895,Finland,energy
+192,140,Genmab,GMAB,15456733184,25.13,Denmark,biotech
+193,141,Jer�nimo Martins,JEM.F,15249949064,24.1971,Portugal,retail
+194,142,Banca Mediolanum,BMED.MI,15247294293,20.1565,Italy,bank
+195,143,Unipol Assicurazioni,UNI.MI,15230638598,20.9915,Italy,financial
+196,144,Kerry Group,KRZ.IR,15208038369,93.1916,Ireland,food
+197,145,Amundi,AMUN.PA,15172049486,74273,France,financial
+198,146,UPM-Kymmene,UPM.HE,15124462126,28.6815,Finland,manufacturing
+199,147,Unibail-Rodamco-Westfield,URW.PA,14892883623,103071,France,real_estate
+200,148,Fresenius Medical Care,FMS,14855439360,25.1121,Germany,healthcare
+201,149,Bank of Ireland Group,BIRG.IR,14795992869,15.0823,Ireland,bank
+202,150,ASR Nederland,ASRNL.AS,14745906198,69.6718,Netherlands,financial
+203,151,Prada,1913.HK,14714125872,5.75036,Italy,retail
+205,152,Telia Company,TELIA.ST,14578386321,3.70757,Sweden,tech
+206,153,Powszechny Zak?ad Ubezpiecze?,PZU.WA,14564155227,16866,Poland,insurance
+208,154,Santander Polska,SPL.WA,14376625427,140687,Poland,bank
+210,155,Neste,NESTE.HE,14269438267,18.5741,Finland,energy
+211,156,Galp Energia,GZ5.F,14099324876,19.0646,Portugal,energy
+212,157,Eurobank Ergasias Services and Holdings,EUROB.AT,13772368359,3.77204,Greece,bank
+213,158,FinecoBank,FBK.MI,13685844365,22.0834,Italy,financial
+214,159,ageas,AGS.BR,13572766686,70828,Belgium,insurance
+216,160,Mapfre,MAP.MC,13514676241,4.39799,Spain,financial
+217,161,ICON plc,ICLR,13501236224,173.6,Ireland,biotech
+219,162,Bureau Veritas,BVI.PA,13467986959,30.2698,France,services
+220,163,Bankinter,BKT.MC,13428204864,14.9422,Spain,bank
+221,164,Bank Pekao (Bank Polska Kasa Opieki),PEO.WA,13373108760,50951,Poland,bank
+223,165,Porsche SE,PAH3.DE,13114780502,42.8238,Germany,financial
+225,166,�rsted,DOGEF,13027284992,31,Denmark,energy
+226,167,National Bank of Greece,ETE.AT,12924434650,14.2006,Greece,bank
+227,168,Recordati,REC.MI,12722730686,62.0694,Italy,biotech
+228,169,Banco Comercial Portugu�s (Millennium bcp),BCP.LS,12706126411,0.851104,Portugal,bank
+229,170,Elia Group,ELI.BR,12677250400,116256,Belgium,energy
+230,171,SPEEH Hidroelectrica,H2O.RO,12668978706,28.1427,Romania,energy
+231,172,Lundbergf�retagen,LUND-B.ST,12615656923,50.8696,Sweden,financial
+232,173,EDP Renov�veis,EDPR.LS,12568664306,11.9584,Spain,energy
+233,174,DWS Group,DWS.F,12495621046,62.4781,Germany,financial
+234,175,AEGON,AEG,12370285568,7815,Netherlands,insurance
+235,176,Dino Polska,DNP.WA,12102344387,12.3443,Poland,retail
+236,177,Edison,EDNR.MI,12085041649,2.55168,Italy,energy
+237,178,Tele2,TEL2-B.ST,12073619653,17.4086,Sweden,tech
+238,179,Banca Monte dei Paschi di Siena,BMPS.MI,12033515183,9.29581,Italy,bank
+245,180,Ascendis Pharma,ASND,11793878016,194765,Denmark,biotech
+247,181,D'Ieteren Group,DIE.BR,11659191342,219432,Belgium,retail
+248,182,Renault,RNO.PA,11554532395,39.5656,France,manufacturing
+249,183,Ipsen,IPN.PA,11388633153,137685,France,biotech
+250,184,Kl�pierre,LI.PA,11314507655,38.7948,France,real_estate
+251,185,Orion Corporation,ORNAV.HE,11277178233,79.5282,Finland,biotech
+252,186,ING Bank Slaski,ING.WA,11270435464,86629,Poland,bank
+253,187,Alstom,ALO.PA,11250141428,23.9285,France,manufacturing
+254,188,Lufthansa,LHA.DE,11167061460,9.31916,Germany,transportation
+255,189,BE Semiconductor,BESI.AS,11134051422,139846,Netherlands,tech
+256,190,INWIT,INW.MI,11107469037,12157,Italy,tech
+259,191,HELLA,HLE.F,10899595721,98.0965,Germany,manufacturing
+260,192,Raiffeisen Bank International,RAW.F,10862927599,33.0959,Austria,bank
+261,193,Metso,METSO.HE,10826723465,13.0795,Finland,manufacturing
+265,194,Telecom Italia,TIT.MI,10674169827,0.483475,Italy,tech
+266,195,Allegro.eu,ALE.WA,10620901460,10.0835,Poland,tech
+267,196,Swedish Orphan Biovitrum,SOBI.ST,10590778641,30.7328,Sweden,biotech
+268,197,Red El�ctrica,RED.MC,10507757569,19.4441,Spain,energy
+269,198,Deutsche Wohnen,DWNI.DE,10499331662,26451,Germany,real_estate
+270,199,mBank,MBK.WA,10499018469,246886,Poland,bank
+271,200,Carrefour,CA.PA,10486530167,14.4926,France,retail
+272,201,CTP N.V.,CTPNV.AS,10477466876,21.8148,Netherlands,real_estate
+273,202,Getlink,GET.PA,10340965033,18.9887,France,transportation
+275,203,BAWAG Group,0B2.F,10243078142,130211,Austria,bank
+276,204,Sofina,SOF.VI,10126428481,305734,Belgium,financial
+277,205,Qiagen,QGEN,9954848768,45.91,Netherlands,biotech
+278,206,Piraeus Financial Holdings,TPEIR.AT,9885526591,7.91545,Greece,bank
+285,207,Scout24 (ImmoScout24),G24.F,9487614157,131379,Germany,tech
+288,208,Alpha Services and Holdings,ALPHA.AT,9289680086,4.01261,Greece,bank
+289,209,Komer?n� banka,KOMB.PR,9269843568,49.0842,Czech Republic,bank
+290,210,SPIE,SPIE.PA,9252552761,55.0508,France,services
+291,211,Indutrade,INDT.ST,9235719619,25.3504,Sweden,manufacturing
+295,212,Italgas,IG.MI,9165744754,9.03305,Italy,energy
+297,213,Sodexo,SW.PA,9036055626,60.2593,France,food
+299,214,CTS Eventim,EVD.F,9012846115,93.8923,Germany,entertainment
+300,215,Acciona Energ�as Renovables,ANE.MC,8938893416,27.5371,Spain,energy
+301,216,Kesko,KESKOA.HE,8811791494,22.1651,Finland,retail
+304,217,LPP SA,LPP.WA,8727001946,4702.33,Poland,retail
+305,218,Grifols,GRFS,8700609536,9.97,Spain,biotech
+309,219,Elisa,ELISA.HE,8544001680,53229,Finland,tech
+310,220,Fastighets AB Balder,BALD-B.ST,8527621441,7.16607,Sweden,real_estate
+314,221,Merlin Properties,MRL.MC,8399816548,14.9247,Spain,real_estate
+315,222,Financi�re de Tubize,TUB.BR,8358783602,187785,Belgium,biotech
+316,223,Randstad,RAND.AS,8232494254,46.8527,Netherlands,services
+317,224,Technip Energies,TE.PA,8170604019,46.2455,France,energy
+319,225,Millicom,TIGO,8108024832,48.54,Luxembourg,tech
+321,226,OPAP (Organization of Football Prognostics),OPAP.AT,8069929022,22.5038,Greece,entertainment
+322,227,Rockwool,ROCK-B.CO,8046443662,38.5852,Denmark,manufacturing
+323,228,Brunello Cucinelli,BC.MI,7998059480,117833,Italy,retail
+324,229,Lotus Bakeries,LOTB.BR,7992874307,9716.22,Belgium,food
+325,230,CPI Property Group,O5G.DE,7965927788,0.951769,Luxembourg,real_estate
+326,231,A2A,A2A.MI,7957572436,2.5435,Italy,energy
+328,232,Delivery Hero,DHER.F,7894128203,26.1474,Germany,food
+329,233,OTE Group,OTE.F,7789484802,18.7551,Greece,tech
+330,234,Sagax,SAGA-B.ST,7773789141,21.6776,Sweden,financial
+331,235,Jazz Pharmaceuticals,JAZZ,7585916928,125059,Ireland,biotech
+332,236,Nexi,NEXI.MI,7533131430,6.35525,Italy,financial
+333,237,InPost,INPST.AS,7509416078,14.9364,Luxembourg,transportation
+334,238,Covivio,COV.PA,7459275594,65.5144,France,real_estate
+335,239,AAK,AAK.ST,7429112875,28.6221,Sweden,food
+336,240,AUTO1,AG1.F,7350900566,33.0025,Germany,tech
+337,241,Zalando,ZAL.DE,7346444259,28.3429,Germany,retail
+338,242,Fincantieri,FCT.MI,7331786218,22.6323,Italy,manufacturing
+339,243,Nordnet AB,SAVE.ST,7308555247,29.2131,Sweden,financial
+340,244,Gecina,GFC.PA,7299268269,97.9213,France,financial
+342,245,A1 Telekom Austria,TA1.F,7266703681,10.8724,Austria,tech
+343,246,Romgaz,SNG.RO,7177913557,1.86235,Romania,energy
+344,247,Unicaja Banco,UNI.MC,7143579729,2.78174,Spain,bank
+345,248,RENK Group,R3NK.DE,7097979860,70.9798,Germany,manufacturing
+346,249,PGE Polska,PGE.WA,7071643462,3.15176,Poland,energy
+347,250,Indra Sistemas,IDR.MC,7068183050,40.2195,Spain,services
+350,251,Edenred,EDEN.PA,6990312173,28.9151,France,financial
+352,252,Compagnie du Cambodge,CBDG.PA,6983331441,115.03,France,financial
+353,253,CD Projekt,CDR.WA,6967873184,69.7412,Poland,tech
+354,254,Vienna Insurance Group,WSV2.F,6958309033,54.3618,Austria,insurance
+355,255,ALK-Abell�,ALK-B.CO,6940473969,31.3251,Denmark,biotech
+356,256,Lottomatica Group,LTMC.MI,6864977107,27.4904,Italy,entertainment
+357,257,MOL Group,MOL.BD,6844142149,8.67514,Hungary,energy
+359,258,Banca Transilvania,TLV.RO,6838064807,6.27852,Romania,bank
+360,259,Sectra AB,SECT-B.ST,6811822408,35.3554,Sweden,tech
+361,260,LEG Immobilien,LEG.DE,6808232583,84.1411,Germany,real_estate
+363,261,Axfood,AXFO.ST,6772622288,31.3661,Sweden,retail
+364,262,Grupo Catalana Occidente,GCO.MC,6746730997,57.1645,Spain,insurance
+365,263,Thyssenkrupp,TKA.F,6688419919,10.7439,Germany,manufacturing
+366,264,Banca Generali,BGN.MI,6687809441,58.4491,Italy,bank
+367,265,Konecranes,KCR.HE,6628173369,83.6739,Finland,manufacturing
+368,266,Banca Popolare di Sondrio,BPSO.MI,6627777545,14.4926,Italy,bank
+370,267,Ternium,TX,6465404416,32935,Luxembourg,manufacturing
+371,268,Jyske Bank,JYSK.CO,6454217639,108042,Denmark,bank
+372,269,Valmet,VALMT.HE,6409425060,34.7892,Finland,manufacturing
+373,270,Elis,ELIS.PA,6351259277,27.1634,France,services
+375,271,Hera Group,HER.MI,6335572812,4.31858,Italy,energy
+377,272,Volvo Car,VOLCAR-B.ST,6278138199,2.11816,Sweden,manufacturing
+378,273,IONOS Group,IOS.DE,6242683348,44.9609,Germany,tech
+379,274,Sweco,SWEC-A.ST,6221868837,17.2028,Sweden,services
+380,275,DCC plc,DCC.L,6219622524,63438,Ireland,energy
+381,276,Schaeffler,SHA0.DE,6179324618,6.53976,Germany,manufacturing
+382,277,Public Power Corporation,PPC.AT,6166718643,16.6998,Greece,energy
+383,278,Oberbank,OBS.VI,6129498043,86.8854,Austria,bank
+385,279,KBC Ancora,KBCA.BR,6069932526,77.7765,Belgium,financial
+387,280,Lundbeck,HLUN-B.CO,6048795633,6.31821,Denmark,biotech
+388,281,Fran�aise des Jeux,FDJ.VI,6029271486,32.6288,France,entertainment
+390,282,Zabka Group,ZAB.WA,6021606745,6.02161,Poland,retail
+391,283,Warehouses De Pauw,WDP.BR,5993631790,25762,Belgium,real_estate
+392,284,Avanza Bank,AZA.ST,5979021412,38.0255,Sweden,bank
+393,285,Nordex,NDX1.F,5948051054,25.0847,Germany,energy
+395,286,Corporaci�n Financiera Alba,ALB.MC,5871019284,97.9515,Spain,financial
+396,287,Scor,SCR.PA,5856767606,32.7455,France,insurance
+397,288,Bechtle,BC8.F,5850657449,46.1988,Germany,services
+399,289,DiaSorin,DIA.MI,5753453384,100432,Italy,biotech
+401,290,GamaLife,BTRVB.LS,5749279528,114986,Portugal,insurance
+402,291,Fortnox AB,FNOX.ST,5745976981,9.41177,Sweden,tech
+403,292,Iveco Group,IVG.MI,5731021171,21482,Italy,manufacturing
+404,293,United Internet,UTDI.F,5643612851,31.8346,Germany,tech
+405,294,Fuchs Petrolub,FPE.F,5637164868,37.3701,Germany,energy
+406,295,Ringkj�bing Landbobank,RILBA.CO,5627853042,227506,Denmark,bank
+407,296,Castellum,CAST.ST,5606462704,11.3929,Sweden,real_estate
+408,297,Richter Gedeon,RIG2.F,5603617298,30.6435,Hungary,biotech
+410,298,Saipem,SPM.MI,5474349704,2.79692,Italy,energy
+413,299,Credito Emiliano,CE.MI,5436302777,15.8122,Italy,bank
+415,300,Reply,REY.MI,5411281564,145159,Italy,services
+416,301,Fielmann,FIE.F,5373389498,63.2956,Germany,retail
+417,302,Colruyt,COLR.BR,5367607002,44.0033,Belgium,retail
+422,303,Technoprobe,TPRO.MI,5220090850,8.03457,Italy,manufacturing
+423,304,Azimut Holding,AZM.MI,5188437495,36.5059,Italy,financial
+425,305,Interpump Group,IP.MI,5127874645,48.0206,Italy,manufacturing
+426,306,Merus,MRUS,5127256064,67.79,Netherlands,biotech
+427,307,Jumbo S.A.,5JB.F,5045334002,35.6417,Greece,retail
+428,308,ACEA,ACE.MI,5033835976,23.6833,Italy,energy
+429,309,Krones,KRN.F,5010327206,158589,Germany,manufacturing
+431,310,EVN Group,EVN.F,4861397867,27.2685,Austria,energy
+432,311,Zealand Pharma,ZEAL.CO,4860942469,69.0653,Denmark,biotech
+434,312,Bank Millennium,MIL.WA,4803850867,3.96331,Poland,bank
+435,313,Alkermes,ALKS,4778182656,28945,Ireland,biotech
+437,314,Just Eat Takeaway,TKWY.AS,4706679455,23.5665,Netherlands,food
+438,315,Teleperformance,TEP.PA,4571417700,78.5706,France,services
+440,316,Eurazeo,RF.PA,4560438071,65748,France,financial
+441,317,Uniqa Insurance Group,UN9.F,4502448376,14621,Austria,insurance
+442,318,Mycronic,MYCR.ST,4460716959,22.8544,Sweden,manufacturing
+445,319,Logista (Compa��a de Distribuci�n Integral Logista),LOG.MC,4325657101,32.7689,Spain,transportation
+446,320,Aroundtown,AT1.F,4314725306,3.93554,Luxembourg,real_estate
+447,321,Vallourec,VK.PA,4302504094,17.9552,France,manufacturing
+448,322,DMG Mori Aktiengesellschaft,GIL.F,4289593179,53.8363,Germany,manufacturing
+449,323,Tauron Polska,TPE.WA,4279788538,2.44204,Poland,energy
+450,324,VEON,VEON,4276118528,60925,Netherlands,tech
+451,325,Covivio Hotels,COVH.PA,4261940814,26.9765,France,financial
+452,326,Arcadis,ARCAD.AS,4224126777,46736,Netherlands,services
+453,327,Air France-KLM,AF.PA,4223580875,15.9173,France,transportation
+454,328,1&1,1U1.DE,4189775900,23765,Germany,tech
+455,329,VusionGroup,VU.PA,4180686002,250847,France,tech
+456,330,Glanbia plc,GL9.IR,4157334783,16583,Ireland,food
+460,331,Inmobiliaria Colonial,COL.MC,4081286071,6.65071,Spain,financial
+461,332,Enag�s,ENG.MC,4066257917,15.6429,Spain,energy
+463,333,SCHOTT Pharma,1SXP.DE,4045480751,26.8597,Germany,biotech
+466,334,Alm. Brand,ALMB.CO,3991352303,2.80079,Denmark,financial
+468,335,Freenet,FNTN.F,3940475308,33.2827,Germany,tech
+469,336,Tikehau Capital,TKO.PA,3939296805,22.8425,France,financial
+470,337,Iren,IRE.MI,3895839886,3.03632,Italy,energy
+473,338,Brederode,BREB.BR,3860440554,131262,Luxembourg,financial
+475,339,Sydbank A/S,SYDB.CO,3847757572,77.5147,Denmark,bank
+478,340,Alior Bank S.A.,ALR.WA,3828882518,29328,Poland,bank
+484,341,Spar Nord Bank A/S,SPNO.CO,3772016451,32.7959,Denmark,bank
+486,342,Bank Handlowy w Warszawie,BHW.WA,3743158245,28.6847,Poland,bank
+487,343,MONETA Money Bank,MONET.PR,3733137886,7.30555,Czech Republic,bank
+488,344,Soci�t� Fonci�re Lyonnaise,FLY.PA,3717447976,86.4183,France,financial
+491,345,flatexDEGIRO AG,FTK.DE,3683599651,33.4462,Germany,financial
+492,346,L.D.C. S.A.,LOUP.PA,3667169970,105.57,France,food
+494,347,Sopra Steria Group,SOP.PA,3641672812,188135,France,services
+495,348,Vidrala,VID.MC,3618070168,107906,Spain,manufacturing
+496,349,Asseco,ACP.WA,3613471743,52.9901,Poland,tech
+497,350,Aedifica,AED.BR,3612147758,75.9664,Belgium,real_estate
+501,351,Brembo,BRE.MI,3562194125,11.0884,Italy,manufacturing
+503,352,Pandox AB,PNDX-B.ST,3557202416,18.2793,Sweden,real_estate
+504,353,PUMA,PUM.DE,3553419331,24.1504,Germany,retail
+505,354,ERG,ERG.MI,3551123313,24.4307,Italy,energy
+508,355,Laboratorios Farmaceuticos Rovi,ROVI.MC,3485429402,68142,Spain,biotech
+509,356,Mandatum,MANTA.HE,3453069901,6.86909,Finland,financial
+511,357,Trigano,TRI.PA,3428014010,177625,France,manufacturing
+513,358,Groupe Lagard�re,MMB.PA,3416477417,24057,France,entertainment
+514,359,Rubis,RUI.PA,3389690543,32.8857,France,energy
+515,360,Cofinimmo,COFB.BR,3382222506,88.8123,Belgium,real_estate
+516,361,Orange Polska,OPL.WA,3362160948,2.56192,Poland,tech
+520,362,SYNLAB,SYAB.VI,3310869569,15.0648,Germany,biotech
+522,363,B&M European Value Retail,BME.L,3300638731,3.28808,Luxembourg,retail
+524,364,Signify,LIGHT.AS,3291404241,26416,Netherlands,manufacturing
+525,365,Virbac SA,VIRP.PA,3287338078,392386,France,biotech
+526,366,Melexis NV,MELE.BR,3259446843,80.2873,Belgium,tech
+527,367,Perrigo,PRGO,3259341568,23.69,Ireland,biotech
+528,368,Motor Oil (Hellas) Corinth Refineries,MOH.AT,3246455807,29.9428,Greece,energy
+529,369,Carel Industries,CRL.MI,3212307326,27.9108,Italy,manufacturing
+531,370,Immofinanz,IMO1.F,3179807614,22.8425,Austria,real_estate
+532,371,TAG Immobilien,TEG.F,3168657577,17.7508,Germany,real_estate
+533,372,ID Logistics Group,IDL.PA,3148610173,482308,France,transportation
+534,373,Ebro Foods,EBRO.MC,3148096260,20.4601,Spain,food
+536,374,VGP NV,VGP.BR,3136053527,113512,Belgium,real_estate
+540,375,Wihlborgs Fastigheter AB,WIHL.ST,3075824156,10.0051,Sweden,real_estate
+542,376,HELLENiQ ENERGY,ELPE.AT,3067771813,10.0374,Greece,energy
+543,377,Pluxee,PLX.PA,3062832983,20.4835,France,services
+544,378,Kojamo,KOJAMO.HE,3051482942,12.3555,Finland,real_estate
+547,379,Globant,GLOB,2984197632,67.74,Luxembourg,tech
+549,380,Loomis AB,LOOMIS.ST,2940251293,43.2708,Sweden,transportation
+550,381,SES S.A.,SESG.PA,2928416390,6.95434,Luxembourg,tech
+551,382,DO &amp, CO Aktiengesellschaft DOC.VI,2924486851,266262,Austria,food
+552,383,LEW (Lechwerke),LEC.F,2918188049,82331,Germany,energy
+553,384,Unibel S.A.,UNBL.PA,2915692559,1370.66,France,food
+554,385,Bavarian Nordic,BAVA.CO,2888434878,37.0988,Denmark,biotech
+555,386,BioArctic AB,BIOA-B.ST,2887137402,32.6114,Sweden,biotech
+556,387,Almirall,ALM.MC,2856563291,13.3131,Spain,biotech
+557,388,Benefit Systems,BFT.WA,2855673477,871764,Poland,services
+558,389,Carmila,CARM.PA,2844963618,20.0164,France,financial
+559,390,Soci�t� Industrielle et Financi�re de l'Artois,ARTO.PA,2844481993,10685.5,France,financial
+560,391,Corem Property Group AB,CORE-PREF.ST,2838676637,26.6485,Sweden,real_estate
+561,392,Proximus,PROX.VI,2831618613,8.66519,Belgium,tech
+562,393,Coface,COFA.PA,2812173017,18.8369,France,insurance
+563,394,Catena AB,CATE.ST,2806762047,46.5003,Sweden,real_estate
+565,395,Altarea,ALTA.PA,2791915144,119117,France,real_estate
+566,396,Fabege AB,FABG.ST,2768880183,8.80192,Sweden,real_estate
+568,397,ALTEN,ATE.PA,2732660546,78.5356,France,services
+569,398,Bank f�r Tirol und Vorarlberg,BTS.VI,2729644332,73.5723,Austria,bank
+570,399,Cenergy Holdings,CENER.BR,2702316041,12.6591,Belgium,energy
+571,400,NewAmsterdam Pharma Company,NAMS,2701945600,23.99,Netherlands,biotech
+573,401,Van Lanschot Kempen,VLK.AS,2689307366,62.4781,Netherlands,bank
+574,402,Enea,ENA.WA,2682358557,5.06362,Poland,energy
+575,403,Hufvudstaden AB,HUFV-A.ST,2671033777,13.2029,Sweden,real_estate
+576,404,Sinch,SINCH.ST,2649339508,3.13555,Sweden,tech
+578,405,CMB.TECH,CMBT,2642251008,8415,Belgium,energy
+579,406,Hemnet Group AB,HEM.ST,2636863736,27.8411,Sweden,tech
+582,407,BIC,BB.PA,2599364159,62.4781,France,manufacturing
+583,408,CA Immo,BZY.F,2594568232,27.07,Austria,real_estate
+585,409,Forvia SE,FRVIA.PA,2557073784,13.3481,France,manufacturing
+587,410,Kinnevik,KINV-A.ST,2545066091,9.46681,Sweden,financial
+589,411,Ceconomy,CEC.DE,2518752112,5.19094,Germany,retail
+590,412,Tradegate Exchange,T2G.F,2505096785,102768,Germany,financial
+591,413,BFF Bank,BFF.MI,2494008933,13173,Italy,bank
+593,414,Financi�re Moncey Soci�t� anonyme,FMONC.PA,2481946319,133131,France,financial
+598,415,Bakkafrost,BAKKA.OL,2441041005,41175,Denmark,food
+599,416,Antin Infrastructure Partners,ANTIN.PA,2433131427,13.6167,France,financial
+600,417,Hornbach Baumarkt,HBM.HM,2432962066,76.4919,Germany,retail
+601,418,XTB S.A.,XTB.WA,2428190323,20676,Poland,financial
+602,419,MFE-Mediaforeurope,MFEA.MI,2416551219,3.53147,Italy,entertainment
+603,420,KRUK Sp�lka Akcyjna,KRU.WA,2407596026,124127,Poland,financial
+604,421,S�dzucker,SZU.F,2400571324,11.7599,Germany,food
+607,422,Anima Holding,ANIM.MI,2368008082,7.26965,Italy,financial
+608,423,Betsson AB,BETS-B.ST,2364421368,17.15,Sweden,entertainment
+609,424,Lisi S.A.,FII.PA,2362555638,50.6832,France,manufacturing
+610,425,Solvac,SOLV.BR,2361409572,110475,Belgium,financial
+612,426,NOS,NOS.LS,2351368082,4.55448,Portugal,tech
+614,427,OPmobility,OPM.PA,2345322350,16.0808,France,manufacturing
+615,428,MVV Energie,MVV1.F,2332097527,35268,Germany,energy
+616,429,REN (Redes Energ�ticas Nacionais),RENE.LS,2316123910,3.49177,Portugal,energy
+618,430,Peugeot Invest Soci�t� anonyme,PEUG.PA,2304608245,90856,France,financial
+621,431,NV Bekaert,BEKB.BR,2285743828,45136,Belgium,manufacturing
+622,432,Grand City Properties,GYC.DE,2274823693,12916,Luxembourg,real_estate
+623,433,AddLife AB,ALIF-B.ST,2272600596,18.6487,Sweden,healthcare
+624,434,Clas Ohlson AB,CLAS-B.ST,2260811726,35.6298,Sweden,retail
+626,435,Bure Equity AB,BURE.ST,2249007294,30.3318,Sweden,financial
+628,436,Exail Technologies,EXA.PA,2240420199,128693,France,tech
+630,437,ProSiebenSat.1 Media,PSM.F,2234806166,9.62863,Germany,entertainment
+632,438,TietoEVRY,TIETO.HE,2215111685,18.7084,Finland,services
+634,439,Cyfrowy Polsat,CPS.WA,2178843439,3.95647,Poland,tech
+636,440,Star Bulk Carriers,SBLK,2173642496,19015,Greece,transportation
+637,441,Mainova,MNV6.F,2170691813,394721,Germany,energy
+638,442,Galapagos NV,GLPG,2150222336,32.63,Belgium,biotech
+639,443,Grenergy Renovables,GRE.MC,2140741637,75908,Spain,energy
+641,444,Ermenegildo Zegna,ZGN,2117831808,8335,Italy,retail
+642,445,Atrium Ljungberg,ATRLJ-B.ST,2107151371,3.34188,Sweden,real_estate
+643,446,TF1,TFI.PA,2098913455,9.92643,France,entertainment
+644,447,Moltiply Group (Gruppo Mutuionline),MOL.MI,2091413878,54.3034,Italy,financial
+646,448,Construcciones y Auxiliar de Ferrocarriles,CAF.MC,2075460590,60.6096,Spain,manufacturing
+647,449,Solaria Energ�a,SLR.MC,2073518243,16.5947,Spain,energy
+651,450,STEF SA,STF.PA,2038493509,161158,France,transportation
+652,451,Caisse R�gionale de Cr�dit Agricole Mutuel du Languedoc,CRLA.PA,2035183416,102429,France,bank
+653,452,Wacker Neuson,WAC.F,2029418110,29.8377,Germany,manufacturing
+654,453,Optima bank,OPTIMA.AT,2028935737,9.16735,Greece,bank
+656,454,Believe S.A.,BLV.PA,2022782828,20.0864,France,entertainment
+657,455,Embracer Group,EMBRAC-B.ST,2014701623,8.95495,Sweden,entertainment
+661,456,Ariston Holding,ARIS.MI,1986211719,5.2902,Italy,manufacturing
+664,457,Vitrolife AB,VITR.ST,1968405097,14.5327,Sweden,biotech
+667,458,Argan SA,ARG.PA,1958391488,75.7912,France,financial
+671,459,Paradox Interactive,PDX.ST,1944088798,18.4059,Sweden,entertainment
+672,460,M�tropole T�l�vision (Groupe M6),MMT.PA,1940737563,15.4152,France,entertainment
+674,461,Atoss,AOF.F,1928149077,121219,Germany,tech
+675,462,Hornbach Holding,HBH.DE,1920437985,120051,Germany,retail
+676,463,Redcare Pharmacy,RDC.DE,1912396094,95.1185,Netherlands,tech
+677,464,Gimv NV,GIMB.BR,1910113380,51.3255,Belgium,financial
+685,465,Icade,ICAD.PA,1852121741,24.3139,France,financial
+686,466,OVH Groupe,OVH.PA,1851418735,12.2153,France,tech
+690,467,Ipsos,IPS.PA,1835379945,42.5318,France,services
+691,468,Montea Comm,MONT.BR,1835350198,79.7618,Belgium,real_estate
+693,469,Jeudan,JDAN.CO,1828570942,33.0149,Denmark,real_estate
+694,470,Metrovacesa,MVC.MC,1823243039,12.0285,Spain,real_estate
+695,471,KSB SE & Co. KgaA,KSB.DE,1819880778,1068.55,Germany,manufacturing
+696,472,Pfeiffer Vacuum,PFV.F,1811555173,182413,Germany,manufacturing
+698,473,Neinor Homes,HOME.MC,1808777829,20.1798,Spain,real_estate
+701,474,Kontron AG,KTN.F,1796783527,29102,Austria,tech
+702,475,Netcompany Group,NETC.CO,1795297370,38.2097,Denmark,services
+703,476,Fagron,FAGR.BR,1775335792,24.2906,Belgium,biotech
+704,477,Vimian Group,VIMIAN.ST,1771853981,3.3308,Sweden,healthcare
+705,478,Storskogen Group,STOR-B.ST,1767333459,1.04779,Sweden,financial
+707,479,Prodea Real Estate Investment Company,PRODEA.AT,1760388357,6.89011,Greece,financial
+708,480,Dom Development,DOM.WA,1751193520,67.8799,Poland,real_estate
+710,481,Eurocommercial Properties,ECMPA.AS,1736833547,31823,Netherlands,financial
+711,482,(DIA) Distribuidora Internacional de Alimentaci�n,DIA.MC,1725431636,29.7209,Spain,food
+714,483,Gerresheimer,GXI.F,1719134329,49.7723,Germany,manufacturing
+715,484,Aixtron,AIXA.F,1714905681,15205,Germany,manufacturing
+717,485,Eutelsat,ETL.PA,1704974955,3.59103,France,tech
+718,486,Pharma Mar,PHM.MC,1686625947,96.7535,Spain,biotech
+719,487,Elmos Semiconductor,ELG.DE,1685592888,98.33,Germany,tech
+720,488,Realia Business,RLIA.MC,1681827479,1.1141,Spain,real_estate
+721,489,Danaos,DAC,1678267136,91.66,Greece,transportation
+723,490,Friedrich Vorwerk Group,VH2.DE,1667639853,83382,Germany,energy
+724,491,TeamViewer,TMV.DE,1663428992,10.6563,Germany,tech
+725,492,Xior Student Housing,XIOR.BR,1660476307,35.56,Belgium,financial
+726,493,Caisse R�gionale de Cr�dit Agricole Mutuel Nord de France,CNDF.PA,1657041399,27.9458,France,bank
+727,494,NP3 Fastigheter AB,NP3.ST,1654033372,26.8596,Sweden,real_estate
+729,495,TKH Group,TWEKA.AS,1643249448,41.2005,Netherlands,manufacturing
+730,496,Deutsche EuroShop,DEQ.F,1641722357,21.6746,Germany,financial
+731,497,Nolato AB,NOLA-B.ST,1638969828,6.0843,Sweden,manufacturing
+732,498,Truecaller,TRUE-B.ST,1637810761,4.76612,Sweden,tech
+734,499,Biotest,BIO.F,1631286537,49.2818,Germany,biotech
+735,500,Fluxys Belgium,FLUX.BR,1593527808,23.3563,Belgium,energy
+736,501,Soitec,SOI.PA,1576820392,42.9873,France,tech
+738,502,Terveystalo,TTALO.HE,1573758288,12.4256,Finland,healthcare
+740,503,Douglas Group,DOU.DE,1556962529,14.4576,Germany,retail
+741,504,Vitec Software Group,VIT-B.ST,1553629562,39.0704,Sweden,tech
+743,505,Faes Farma,FAE.MC,1533949884,4.92818,Spain,biotech
+744,506,Cimpress,CMPR,1533496064,62.64,Ireland,tech
+746,507,Planisware,PLNW.PA,1524271631,21698,France,tech
+747,508,Pharvaris,PHVS,1514896128,23.56,Netherlands,biotech
+748,509,Palfinger,PFI.F,1512390038,43.5011,Austria,manufacturing
+750,510,Ubisoft,UBI.PA,1502686074,11.1293,France,entertainment
+751,511,Cibus Nordic Real Estate,CIBUS.ST,1493542143,18.1948,Sweden,real_estate
+752,512,New Wave Group,NEWA-B.ST,1489982484,11.2293,Sweden,retail
+754,513,Norion Bank,NORION.ST,1487280373,7.31382,Sweden,bank
+755,514,secunet,YSN.F,1479257724,227257,Germany,tech
+757,515,Avadel Pharmaceuticals,AVDL,1445783296,14.89,Ireland,biotech
+758,516,DEUTZ,DEZ.DE,1445471285,10.4169,Germany,manufacturing
+760,517,Nexus AG,NXU.DE,1438106838,83.2652,Germany,tech
+761,518,Qt Group,QTCOM.HE,1432202365,56.4055,Finland,tech
+762,519,Wavestone SA,WAVE.PA,1422992733,57.5733,France,services
+763,520,ChemoMetec,CHEMM.CO,1422740685,81755,Denmark,biotech
+764,521,Italmobiliare,ITM.MI,1419160805,33.0492,Italy,food
+766,522,HelloFresh,HFG.DE,1413260517,8.70256,Germany,food
+767,523,Electrica,ECEA.F,1409772245,14.0138,Romania,energy
+768,524,Barco NV,BAR.BR,1395858018,16653,Belgium,manufacturing
+770,525,Dole PLC,DOLE,1385573376,14.56,Ireland,food
+771,526,SeSa S.p.A.,SES.MI,1377132020,88462,Italy,services
+772,527,About You,YOU.DE,1374990565,7.82436,Germany,retail
+774,528,thyssenkrupp nucera,NCH2.DE,1369069500,10.7906,Germany,energy
+775,529,CompuGroup Medical,COP.DE,1369036614,26.4627,Germany,healthcare
+776,530,Caisse R�gionale de Cr�dit Agricole Mutuel Alpes Provence,CRAP.PA,1368152289,172813,France,bank
+780,531,Karnov Group,KAR.ST,1334331020,12.3691,Sweden,services
+781,532,B.F. S.p.A.,BFG.MI,1333422778,5.09167,Italy,food
+783,533,Sanlorenzo,SL.MI,1330059620,38.1292,Italy,manufacturing
+784,534,Siltronic,WAF.F,1325895248,43.9332,Germany,tech
+785,535,Caisse r�gionale de Cr�dit Agricole Mutuel Atlantique Vend�e,CRAV.PA,1321658826,175172,France,bank
+789,536,Navitas Semiconductor,NVTS,1309627776,6.1454,Ireland,tech
+790,537,Puuilo,PUUILO.HE,1307139204,15.4969,Finland,retail
+792,538,�lectricite de Strasbourg,ELEC.PA,1293499723,179.26,France,energy
+794,539,Ramsay G�n�rale de Sant�,GDS.PA,1288823978,11.6782,France,healthcare
+795,540,Modern Times Group (MTG),MTG-B.ST,1287414597,10.4378,Sweden,entertainment
+796,541,Criteo,CRTO,1287254016,24.6,France,tech
+797,542,Northern Data AG,NB2.DE,1283457037,19.9112,Germany,tech
+798,543,VIEL & Cie,VIL.PA,1276667192,19.9112,France,financial
+799,544,Adtran Networks,ADV.DE,1276590509,24.5241,Germany,tech
+800,545,Evotec,EVO,1260952960,3.55,Germany,biotech
+801,546,Cosmo Pharmaceuticals,C43.F,1256423819,78.8275,Ireland,biotech
+802,547,engcon AB,ENGCON-B.ST,1253631992,8.22145,Sweden,manufacturing
+803,548,AMS-Osram,AMS.SW,1253070816,12.5843,Austria,manufacturing
+805,549,PNE AG,PNE3.DE,1248840384,16.3027,Germany,energy
+806,550,Comer Industries,COM.MI,1243526134,43.4427,Italy,manufacturing
+807,551,Cembre S.p.A.,CMB.MI,1240992144,71.9374,Italy,manufacturing
+808,552,Yubico,YUBICO.ST,1237313739,14.3163,Sweden,tech
+809,553,Prosegur Cash,CASH.MC,1229571473,0.839659,Spain,transportation
+811,554,Sedlmayr Grund und Immobilien AG,SPB.F,1226251291,1669.98,Germany,real_estate
+812,555,Grupa Pracuj,GPP.WA,1220115682,17.8732,Poland,services
+813,556,Lenzing,LEN.F,1219925583,31.5894,Austria,manufacturing
+814,557,Rusta AB,RUSTA.ST,1218746194,7.96816,Sweden,retail
+816,558,Curevac,CVAC,1215934208,5.4,Germany,biotech
+817,559,Biotage AB,BIOT.ST,1209834079,15.1131,Sweden,biotech
+818,560,Polenergia,PEP.WA,1204725595,15.6014,Poland,energy
+820,561,Mercialys,MERY.PA,1192653197,12.6591,France,financial
+821,562,GasLog,GLOP-PA,1188540672,25.9,Greece,energy
+823,563,OVS S.p.A.,OVS.MI,1180762710,4.83709,Italy,retail
+824,564,Corbion,CRBN.AS,1179905216,20.2032,Netherlands,food
+825,565,Neurones,NRO.PA,1173161187,47.8804,France,services
+826,566,Telia Lietuva,ZWS.F,1170261866,1.95025,Lithuania,tech
+827,567,Banco di Desio e della Brianza,BDB.MI,1163846022,8.70022,Italy,bank
+828,568,LuxExperience,LUXE,1163270144,8.53,Germany,retail
+830,569,Trustpilot Group,TRST.L,1159065994,2.83958,Denmark,tech
+832,570,Caisse R�gionale de Cr�dit Agricole Mutuel Sud Rh�ne Alpes,CRSU.PA,1147738695,251139,France,bank
+834,571,Retail Estates NV,RET.BR,1138636240,76.7254,Belgium,financial
+835,572,Hypoport,HYQ.F,1133678874,169333,Germany,financial
+836,573,Altareit,AREIT.PA,1133216307,648137,France,real_estate
+837,574,Creades AB,CRED-A.ST,1131921890,8.33755,Sweden,financial
+838,575,Bilia AB,BILI-A.ST,1130159352,12.2108,Sweden,retail
+842,576,X-FAB,XFAB.PA,1116327647,8.32068,Belgium,tech
+843,577,Jumia,JMIA,1116250240,9115,Germany,tech
+844,578,Zeal Network,TIMA.F,1116232577,52902,Germany,tech
+847,579,BASSAC,BASS.PA,1107129973,66.5655,France,real_estate
+848,580,Frey SA,FREY.PA,1102763354,34.5673,France,financial
+849,581,Kinepolis Group,KIN.BR,1094870494,40.5816,Belgium,entertainment
+850,582,Voltalia,VLTSA.PA,1088878874,8.17471,France,energy
+851,583,Ferretti,F3T1.F,1085879551,3.13208,Italy,manufacturing
+853,584,TF Bank AB,TFBANK.ST,1072586216,16.5907,Sweden,bank
+855,585,Wild Bunch,WBAH.F,1062504491,44377,Germany,entertainment
+859,586,Lectra SA,LSS.PA,1054481135,27.3269,France,tech
+860,587,Develia,DVL.WA,1053869384,2.27452,Poland,real_estate
+861,588,D/S Norden (Dampskibsselskabet Norden),DNORD.CO,1049935011,36.1756,Denmark,transportation
+862,589,Kempower,KEMPOWR.HE,1043143576,18.8369,Finland,manufacturing
+863,590,Einhell Germany,EIN.DE,1041148814,91.6735,Germany,manufacturing
+864,591,Vetoquinol,VETO.PA,1038975541,88.0533,France,biotech
+865,592,Navigo Invest,NAVIGO-STAM.ST,1038646691,0.236406,Sweden,financial
+868,593,Fnac Darty,FNAC.PA,1018298825,34.8593,France,retail
+869,594,Atos,ATO.PA,1016211332,52.0262,France,services
+870,595,Volati AB,VOLO.ST,1015997286,11.4404,Sweden,financial
+871,596,atai Life Sciences,ATAI,1008460288,4705,Germany,biotech
+872,597,Worldline,WLN.PA,1001116286,3.37382,France,financial
+874,598,Pharming Group,PHAR,1000316096,14.6,Netherlands,biotech
+875,599,Arjo AB,ARJO-B.ST,998044992,3.6643,Sweden,healthcare
+876,600,GAG Immobilien,GWK3.HM,989940464,61.3103,Germany,real_estate
+877,601,MedCap,MCAP.ST,978577212,65.2228,Sweden,biotech
+878,602,Cloetta,CLA-B.ST,978482649,3.41312,Sweden,food
+879,603,EuroTeleSites,ETS.VI,973896368,5.86243,Austria,tech
+881,604,Newag,NWG.WA,966878393,21.4862,Poland,manufacturing
+882,605,Samh�llsbyggnadsbolaget i Norden,SBB-B.ST,966856643,0.516928,Sweden,real_estate
+883,606,Asseco South Eastern Europe,ASE.WA,957346685,18448,Poland,services
+884,607,Savencia Fromage & Dairy,SAVE.PA,955565596,73.1052,France,food
+885,608,Montepino Log�stica,MLMTP.PA,953971762,11.0942,Spain,financial
+886,609,Mensch und Maschine,MUM.F,953211505,56.4639,Germany,tech
+887,610,Caisse R�gionale de Cr�dit Agricole Mutuel Loire Haute-Loire,CRLO.PA,951203087,118533,France,bank
+888,611,Cr�dit Agricole Mutuel de la Touraine et du Poitou,CRTO.PA,946262762,145673,France,bank
+889,612,Renta 4 Banco,R4.MC,945690402,23.2395,Spain,financial
+892,613,BKS Bank,BKS.VI,939492275,20.5535,Austria,bank
+893,614,Rh�n-Klinikum,RHK.DE,938061450,14.0138,Germany,healthcare
+894,615,Paul Hartmann,PHH2.F,937397234,263926,Germany,manufacturing
+895,616,SMA Solar Technology,S92.F,936895952,26.9999,Germany,energy
+896,617,AT&amp,S Austria Technologie &amp  Systemtechnik ATS.VI,936882498,24.1154,Austria,tech
+900,618,JOST Werke SE,JST.DE,904823080,60.7264,Germany,manufacturing
+901,619,Frequentis,FQT.VI,902334531,67.9668,Austria,tech
+902,620,MLP SE,MLP.DE,900741594,8.24477,Germany,financial
+903,621,Grenke,GLJ.F,890471325,20.1565,Germany,financial
+905,622,Aktia Bank,AKTIA.HE,887525740,12.1219,Finland,bank
+906,623,Troax Group AB,TROAX.ST,886764490,14.8176,Sweden,manufacturing
+907,624,N�rnberger Versicherung,NBG6.F,885222248,74.9737,Germany,insurance
+909,625,Synergie SE,SDG.PA,883866238,38.6547,France,services
+910,626,uniQure,QURE,882259776,16.08,Netherlands,biotech
+914,627,Cancom,COK.F,874337390,27.6188,Germany,services
+917,628,AmRest,EAT.MC,863994398,3.99393,Spain,food
+918,629,Caisse r�gionale de Cr�dit Agricole Mutuel d'Ille-et-Vilaine,CIV.PA,860594244,136634,France,bank
+919,630,Deutsche Pfandbriefbank,PBB.DE,859019319,6.38795,Germany,bank
+920,631,Inventiva,IVA,855219008,6.15,France,biotech
+921,632,Logistea AB,LOGI-A.ST,855003849,1.65696,Sweden,real_estate
+923,633,Manitou Group,MTU.PA,850887739,22.2352,France,manufacturing
+924,634,DFDS A/S,DFDS.CO,850779941,15.7564,Denmark,transportation
+925,635,GH Research,GHRS,850423104,13.71,Ireland,biotech
+927,636,Piaggio,PIA.MI,844051556,2.36599,Italy,manufacturing
+928,637,Agrana,AGR.VI,842868120,13.4883,Austria,food
+930,638,Equasens,EQS.PA,818803208,53.7195,France,healthcare
+932,639,Ascopiave,ASC.MI,805020076,3.70197,Italy,energy
+933,640,Scanfil,SCANFL.HE,803901814,12.3088,Finland,manufacturing
+936,641,ENCE Energ�a y Celulosa,ENC.MC,798356766,3.29324,Spain,energy
+937,642,B�n�teau,BEN.PA,795400045,9.87971,France,manufacturing
+938,643,S�dwestdeutsche Salzwerke,SSH.F,791467667,75.3241,Germany,food
+939,644,Burelle,BUR.PA,790208669,446105,France,financial
+940,645,Nagarro,NA9.DE,790008589,59.7337,Germany,services
+941,646,Tinexta,TNXT.MI,788362661,17.1085,Italy,services
+942,647,Better Collective A/S,BETCO-DKK.CO,783737625,13.0104,Denmark,entertainment
+943,648,Citycon,CTY1S.HE,780323684,4.25085,Finland,financial
+944,649,2G Energy AG,2GB.DE,777267260,43.3259,Germany,manufacturing
+946,650,TomTom,TOM2.AS,770917784,6.23029,Netherlands,tech
+947,651,CEWE,CWC.F,769985700,111877,Germany,tech
+949,652,Groupe CRIT,CEN.PA,767753959,72.8717,France,services
+950,653,Finnair,FIA1S.HE,767697231,3.74869,Finland,transportation
+951,654,Audax Renovables,ADX.MC,767682507,1.70034,Spain,energy
+952,655,Elior Group,ELIOR.PA,765832838,2.96859,France,food
+953,656,Valneva SE,VALN,764034240,8.87,France,biotech
+954,657,Archicom,ARH.WA,763720129,13.0559,Poland,real_estate
+955,658,�landsbanken,ALBAV.HE,762646067,49.8657,Finland,bank
+956,659,Patrizia Immobilien,P1Z.VI,762290752,8817,Germany,real_estate
+958,660,Asseco Business Solutions,ABS.WA,749724076,22.7179,Poland,tech
+959,661,Kri-Kri Milk Industry,KRI.AT,748720405,22.7023,Greece,food
+962,662,Jastrzebska Sp�lka Weglowa,JSW.WA,730147330,6.21868,Poland,energy
+963,663,MARR S.p.A.,MARR.MI,727803100,11.3044,Italy,food
+964,664,Caisse R�gionale de Cr�dit Agricole du Morbihan,CMO.PA,719596406,130795,France,bank
+965,665,M�hlbauer Holding,MUB.DE,719285487,50.6832,Germany,tech
+966,666,Energiekontor,EKT.DE,718027087,51.5006,Germany,energy
+967,667,Mutares,MUX.DE,715515892,33.5163,Germany,financial
+971,668,Bahnhof AB,3B7.F,707366001,6.45802,Sweden,tech
+972,669,Aubay,AUB.PA,699992361,53.9531,France,services
+973,670,Exmar,EXM.BR,699021038,11.9117,Belgium,energy
+974,671,Atal S.A.,1AT.WA,697866264,16.1489,Poland,real_estate
+975,672,Mersen,MRN.PA,693847374,28.2611,France,manufacturing
+976,673,Stabilus,STM.DE,692280746,28.0276,Luxembourg,manufacturing
+979,674,EuroGroup Laminations,EGLA.MI,688416156,4.23216,Italy,manufacturing
+981,675,Gielda Papier�w Wartosciowych w Warszawie,GPW.WA,677799661,16.1489,Poland,financial
+982,676,Globe Trade Centre,GTC.WA,675869594,1.17695,Poland,real_estate
+983,677,Jensen-Group,JEN.BR,675588577,71.4703,Belgium,manufacturing
+984,678,Sygnity,SGN.WA,673675154,29.6975,Poland,services
+985,679,Kaufman & Broad,KOF.PA,672183639,33925,France,real_estate
+986,680,ADS-TEC Energy,ADSE,667132224,12165,Ireland,energy
+988,681,Abivax,ABVX,665080000,10,France,biotech
+989,682,Indus Holding,INH.F,660035822,26.3342,Germany,financial
+991,683,Tsakos Energy Navigation,TEN,656480448,21.79,Greece,energy
+993,684,IDI,IDIP.PA,654946465,91.7903,France,financial
+994,685,NRJ Group,NRG.PA,649228619,8.38491,France,entertainment
+995,686,Immatics,IMTX,646699200,5.32,Germany,biotech
+1001,687,Tokmanni,TOKMAN.HE,635686823,10.8315,Finland,retail
+1002,688,adesso SE,ADN1.DE,635408490,99.2643,Germany,services
+1003,689,NTG Nordic Transport Group A/S,NTG.CO,634930925,29.2284,Denmark,transportation
+1004,690,ProCredit,PCZ.DE,634175128,10.7673,Germany,bank
+1005,691,Quadient,QDT.PA,632219701,18.7551,France,tech
+1006,692,eQ Oyj,EQV1V.HE,628627390,15.1816,Finland,financial
+1007,693,SNP Schneider-Neureither & Partner,SHF.DE,628202418,86.1847,Germany,services
